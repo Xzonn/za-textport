@@ -1,0 +1,107 @@
+TM001	Coup d’Boule
+TM002	Draco-Griffe
+TM003	Choc Psy
+TM004	Éclate-Roc
+TM005	Hurlement
+TM006	Plénitude
+TM007	Toxik
+TM008	Cage Éclair
+TM009	Eau Revoir
+TM010	Casse-Brique
+TM011	Gonflette
+TM012	Éboulement
+TM013	Laser Glace
+TM014	Crocs Feu
+TM015	Crocs Givre
+TM016	Mur Lumière
+TM017	Abri
+TM018	Poing Boost
+TM019	Rayon Gemme
+TM020	Câlinerie
+TM021	Crocs Éclair
+TM022	Aéropique
+TM023	Poing Éclair
+TM024	Poing Glace
+TM025	Mâchouille
+TM026	Éco-Sphère
+TM027	Météores
+TM028	Tunnel
+TM029	Poing Feu
+TM030	Danse Lames
+TM031	Protection
+TM032	Reflet
+TM033	Plaquage
+TM034	Tranche-Nuit
+TM035	Ténacité
+TM036	Tomberoche
+TM037	Piège de Roc
+TM038	Déflagration
+TM039	Coup d’Jus
+TM040	Balle Graine
+TM041	Vibraqua
+TM042	Giga-Sangsue
+TM043	Vol
+TM044	Ultralaser
+TM045	Sabotage
+TM046	Tir de Boue
+TM047	Hâte
+TM048	Destruction
+TM049	Vent Glace
+TM050	Surchauffe
+TM051	Rune Protect
+TM052	Telluriforce
+TM053	Bombe Beurk
+TM054	Draco-Météore
+TM055	Giga Impact
+TM056	Damoclès
+TM057	Feu Follet
+TM058	Tête de Fer
+TM059	Psykoud’Boul
+TM060	Prescience
+TM061	Griffe Ombre
+TM062	Lance-Flammes
+TM063	Psyko
+TM064	Lance-Soleil
+TM065	Lame de Roc
+TM066	Change-Éclair
+TM067	Tonnerre
+TM068	Canicule
+TM069	Séisme
+TM070	Siphon
+TM071	Mégaphone
+TM072	Danse Flammes
+TM073	Surf
+TM074	Ball’Ombre
+TM075	Draco-Choc
+TM076	Aqua-Brèche
+TM077	Direct Toxik
+TM078	Piétisol
+TM079	Vent Violent
+TM080	Mur de Fer
+TM081	Plaie Croix
+TM082	Demi-Tour
+TM083	Machination
+TM084	Luminocanon
+TM085	Clonage
+TM086	Éclair Fou
+TM087	Queue de Fer
+TM088	Picots
+TM089	Pics Toxik
+TM090	Vibrobscur
+TM091	Malédiction
+TM092	Éclat Magique
+TM093	Colère
+TM094	Cyclone
+TM095	Provoc
+TM096	Hydrocanon
+TM097	Anti-Soin
+TM098	Cascade
+TM099	Métronome
+TM100	Détricanon
+TM101	Toile Élek
+TM102	Exploforce
+TM103	Rengorgement
+TM104	Boutefeu
+TM105	Blizzard
+TM106	Fatal-Foudre
+TM107	Close Combat

@@ -1,0 +1,107 @@
+TM001	Golpe Cabeza
+TM002	Garra Dragón
+TM003	Psicocarga
+TM004	Golpe Roca
+TM005	Rugido
+TM006	Paz Mental
+TM007	Tóxico
+TM008	Onda Trueno
+TM009	Viraje
+TM010	Demolición
+TM011	Corpulencia
+TM012	Avalancha
+TM013	Rayo Hielo
+TM014	Colmillo Ígneo
+TM015	Colmillo Hielo
+TM016	Pantalla de Luz
+TM017	Protección
+TM018	Puño Incremento
+TM019	Joya de Luz
+TM020	Carantoña
+TM021	Colmillo Rayo
+TM022	Golpe Aéreo
+TM023	Puño Trueno
+TM024	Puño Hielo
+TM025	Triturar
+TM026	Energibola
+TM027	Meteoros
+TM028	Excavar
+TM029	Puño Fuego
+TM030	Danza Espada
+TM031	Reflejo
+TM032	Doble Equipo
+TM033	Golpe Cuerpo
+TM034	Tajo Umbrío
+TM035	Aguante
+TM036	Tumba Rocas
+TM037	Trampa Rocas
+TM038	Llamarada
+TM039	Chispazo
+TM040	Semilladora
+TM041	Hidropulso
+TM042	Gigadrenado
+TM043	Vuelo
+TM044	Hiperrayo
+TM045	Desarme
+TM046	Disparo Lodo
+TM047	Agilidad
+TM048	Autodestrucción
+TM049	Viento Hielo
+TM050	Sofoco
+TM051	Velo Sagrado
+TM052	Tierra Viva
+TM053	Bomba Lodo
+TM054	Cometa Draco
+TM055	Gigaimpacto
+TM056	Doble Filo
+TM057	Fuego Fatuo
+TM058	Cabeza de Hierro
+TM059	Cabezazo Zen
+TM060	Premonición
+TM061	Garra Umbría
+TM062	Lanzallamas
+TM063	Psíquico
+TM064	Rayo Solar
+TM065	Roca Afilada
+TM066	Voltiocambio
+TM067	Rayo
+TM068	Onda Ígnea
+TM069	Terremoto
+TM070	Torbellino
+TM071	Vozarrón
+TM072	Giro Fuego
+TM073	Surf
+TM074	Bola Sombra
+TM075	Pulso Dragón
+TM076	Hidroariete
+TM077	Puya Nociva
+TM078	Terratemblor
+TM079	Vendaval
+TM080	Defensa Férrea
+TM081	Tijera X
+TM082	Ida y Vuelta
+TM083	Maquinación
+TM084	Cañón Resplandor
+TM085	Sustituto
+TM086	Voltio Cruel
+TM087	Cola Férrea
+TM088	Púas
+TM089	Púas Tóxicas
+TM090	Pulso Umbrío
+TM091	Maldición
+TM092	Brillo Mágico
+TM093	Enfado
+TM094	Remolino
+TM095	Mofa
+TM096	Hidrobomba
+TM097	Anticura
+TM098	Cascada
+TM099	Metrónomo
+TM100	Lanzamugre
+TM101	Electrotela
+TM102	Onda Certera
+TM103	Avivar
+TM104	Envite Ígneo
+TM105	Ventisca
+TM106	Trueno
+TM107	A Bocajarro

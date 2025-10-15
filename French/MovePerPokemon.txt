@@ -1,0 +1,921 @@
+000	-	
+001	Écras’Face	
+002	Poing Karaté	
+003	Torgnoles	
+004	Poing Comète	
+005	Ultimapoing	
+006	Jackpot	
+007	Poing Feu	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Flagadoss-2, Spectrum, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Lainergie, Pharamp-0, Pharamp-1, Roigada-1, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Laporeille, Lockpin-0, Lockpin-1, Gallame-0, Gallame-1, Grotichon, Roitiflam-0, Roitiflam-1, Miradar, Flamajou, Flamoutan, Nanméouïe-0, Nanméouïe-1, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Roussil, Goupelin-0, Goupelin-1, Excavarenne, Pandespiègle, Pandarbare, Iguolta, Brutalibré-0, Brutalibré-1, Muplodocus-0, Muplodocus-1, Hoopa-0, Hoopa-1
+008	Poing Glace	Carapuce, Carabaffe, Tortank-0, Tortank-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Flagadoss-0, Flagadoss-1, Spectrum, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Lainergie, Pharamp-0, Pharamp-1, Roigada-0, Cadoizo, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Métang, Métalosse-0, Métalosse-1, Laporeille, Lockpin-0, Lockpin-1, Riolu, Lucario-0, Lucario-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Miradar, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Baggiguane, Baggaïd-0, Baggaïd-1, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Excavarenne, Pandespiègle, Pandarbare, Hoopa-0, Hoopa-1
+009	Poing Éclair	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Flagadoss-2, Spectrum, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Pharamp-0, Pharamp-1, Roigada-1, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Métang, Métalosse-0, Métalosse-1, Laporeille, Lockpin-0, Lockpin-1, Riolu, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Roitiflam-0, Roitiflam-1, Miradar, Nanméouïe-0, Nanméouïe-1, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Roussil, Goupelin-0, Goupelin-1, Excavarenne, Pandespiègle, Pandarbare, Iguolta, Brutalibré-0, Brutalibré-1, Dedenne, Muplodocus-0, Muplodocus-1, Hoopa-0, Hoopa-1
+010	Griffe	
+011	Force Poigne	
+012	Guillotine	
+013	Coupe-Vent	
+014	Danse Lames	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Dardargnan-0, Dardargnan-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Insécateur, Scarabrute-0, Scarabrute-1, Pyroli, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Migalos, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Airmure-0, Airmure-1, Mysdibule-0, Mysdibule-1, Rosélia, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Rozbouton, Roserade, Lockpin-0, Lockpin-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Gallame-0, Gallame-1, Ratentif, Miradar, Rototaupe, Minotaupe-0, Minotaupe-1, Brutapode-0, Brutapode-1, Baggaïd-0, Baggaïd-1, Blindépique-0, Blindépique-1, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Passerouge, Braisillon, Flambusard, Pandespiègle, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sucroquin, Cupcanaille, Opermine, Golgopathe-0, Golgopathe-1, Flingouste, Gamblast, Brutalibré-0, Brutalibré-1, Hexadron-0, Hexadron-1
+015	Coupe	
+016	Tornade	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Sonistrelle, Bruyverne, Yveltal
+017	Cru-Ailes	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Insécateur, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Cizayox-0, Cizayox-1, Airmure-0, Airmure-1, Emolga, Braisillon, Flambusard, Brutalibré-0, Brutalibré-1, Sonistrelle, Bruyverne
+018	Cyclone	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Airmure-0, Airmure-1, Hippopotas, Hippodocus, Passerouge, Braisillon, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Sonistrelle, Bruyverne, Draïeul-0, Draïeul-1
+019	Vol	Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Cadoizo, Airmure-0, Airmure-1, Tylton, Altaria-0, Altaria-1, Drattak-0, Drattak-1, Passerouge, Braisillon, Flambusard, Brutalibré-0, Brutalibré-1, Sonistrelle, Bruyverne, Yveltal, Draïeul-0, Draïeul-1
+020	Étreinte	
+021	Souplesse	
+022	Fouet Lianes	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Feuillajou, Feuiloutan, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum
+023	Écrasement	
+024	Double Pied	
+025	Ultimawashi	
+026	Pied Sauté	
+027	Mawashi Geri	
+028	Jet de Sable	
+029	Coup d’Boule	Carapuce, Carabaffe, Tortank-0, Tortank-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Staross-0, Staross-1, Aquali, Voltali, Pyroli, Germignon, Macronium, Méganium-0, Méganium-1, Mimigal, Migalos, Mélo, Roigada-0, Roigada-1, Scarhino-0, Scarhino-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Chamallot, Camérupt-0, Camérupt-1, Polichombr, Branette-0, Branette-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Terhal, Métang, Métalosse-0, Métalosse-1, Laporeille, Lockpin-0, Lockpin-1, Momartik-0, Momartik-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Baggiguane, Baggaïd-0, Baggaïd-1, Miamiasme, Miasmax, Lampéroie, Ohmassacre-0, Ohmassacre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Hélionceau, Némélios-0, Némélios-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Hexadron-0, Hexadron-1
+030	Koud’Korne	
+031	Furie	
+032	Empal’Korne	
+033	Charge	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Abo, Arbok, Mélofée, Mélodelfe-0, Mélodelfe-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Onix, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Scarabrute-0, Scarabrute-1, Magicarpe, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Scarhino-0, Scarhino-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Galekid, Galegon, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Chamallot, Camérupt-0, Camérupt-1, Terhal, Métang, Métalosse-0, Métalosse-1, Laporeille, Lockpin-0, Lockpin-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Phyllali, Givrali, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Sorbébé, Sorboul, Sorbouboul, Anchwatt, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0, Limonde-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Lépidonille-0, Lépidonille-1, Lépidonille-2, Lépidonille-3, Lépidonille-4, Lépidonille-5, Lépidonille-6, Lépidonille-7, Lépidonille-8, Lépidonille-9, Lépidonille-10, Lépidonille-11, Lépidonille-12, Lépidonille-13, Lépidonille-14, Lépidonille-15, Lépidonille-16, Lépidonille-17, Lépidonille-18, Lépidonille-19, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Hélionceau, Némélios-0, Némélios-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Venalgue, Kravarech-0, Kravarech-1, Ptyranidur, Rexillius, Amagara, Dragmara, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Strassie, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Trousselin, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Grelaçon, Séracrawl-0, Séracrawl-1, Sonistrelle, Bruyverne, Xerneas, Diancie-0, Diancie-1, Hexadron-0, Hexadron-1
+034	Plaquage	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Abo, Arbok, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Germignon, Macronium, Méganium-0, Méganium-1, Mimigal, Migalos, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Scarhino-0, Scarhino-1, Cadoizo, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Dynavolt, Élecsprint-0, Élecsprint-1, Rosélia, Chamallot, Camérupt-0, Camérupt-1, Tylton, Altaria-0, Altaria-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Rozbouton, Roserade, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Nanméouïe-0, Nanméouïe-1, Mascaïman, Escroco, Crocorible, Miasmax, Lampéroie, Ohmassacre-0, Ohmassacre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Excavarenne, Hélionceau, Némélios-0, Némélios-1, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Ptyranidur, Rexillius, Amagara, Dragmara, Nymphali, Brutalibré-0, Brutalibré-1, Strassie, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Grelaçon, Séracrawl-0, Séracrawl-1, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+035	Ligotage	
+036	Bélier	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Kangourex-0, Kangourex-1, Staross-0, Staross-1, Scarabrute-0, Scarabrute-1, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mentali, Noctali, Scarhino-0, Scarhino-1, Malosse, Démolosse-0, Démolosse-1, Ténéfix-0, Ténéfix-1, Galekid, Galegon, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Carvanha, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Tylton, Altaria-0, Altaria-1, Métang, Métalosse-0, Métalosse-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Phyllali, Givrali, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Miradar, Nanméouïe-0, Nanméouïe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Miamiasme, Miasmax, Lampéroie, Ohmassacre-0, Ohmassacre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Hélionceau, Némélios-0, Némélios-1, Cabriolaine, Chevroum, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Amagara, Dragmara, Nymphali, Strassie, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Grelaçon, Séracrawl-0, Séracrawl-1, Xerneas, Volcanion
+037	Mania	
+038	Damoclès	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Arbok, Mélofée, Mélodelfe-0, Mélodelfe-1, Machoc, Machopeur, Mackogneur, Flagadoss-2, Onix, Kangourex-0, Kangourex-1, Staross-0, Staross-1, Insécateur, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Aligatueur-0, Aligatueur-1, Mélo, Pharamp-0, Pharamp-1, Mentali, Noctali, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Hippopotas, Hippodocus, Blizzaroi-0, Blizzaroi-1, Phyllali, Givrali, Grotichon, Roitiflam-0, Roitiflam-1, Miradar, Rototaupe, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggaïd-0, Baggaïd-1, Blindépique-0, Blindépique-1, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Cabriolaine, Chevroum, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Nymphali, Strassie, Grelaçon, Séracrawl-0, Séracrawl-1
+039	Mimi-Queue	Carapuce, Carabaffe, Tortank-0, Tortank-1, Pikachu-0, Raichu-0, Raichu-1, Kangourex-0, Kangourex-1, Évoli-0, Aquali, Voltali, Pyroli, Germignon, Macronium, Méganium-0, Méganium-1, Pichu, Mentali, Noctali, Phyllali, Givrali, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Emolga, Feunnec, Roussil, Goupelin-0, Goupelin-1, Cabriolaine, Chevroum, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Venalgue, Kravarech-0, Kravarech-1, Galvaran, Iguolta, Ptyranidur, Rexillius, Nymphali, Dedenne
+040	Dard-Venin	Aspicot, Coconfort, Dardargnan-0, Dardargnan-1, Abo, Arbok, Mimigal, Migalos, Rosélia, Roserade, Venipatte, Scobolide, Brutapode-0, Brutapode-1
+041	Double Dard	
+042	Dard-Nuée	Dardargnan-0, Dardargnan-1, Voltali, Mimigal, Migalos, Scarhino-0, Scarhino-1, Rosélia, Roserade, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1
+043	Groz’Yeux	Abo, Arbok, Machoc, Machopeur, Mackogneur, Insécateur, Léviator-0, Léviator-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Airmure-0, Airmure-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Dynavolt, Élecsprint-0, Élecsprint-1, Carvanha, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Momartik-0, Momartik-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Sapereau, Excavarenne, Hélionceau, Némélios-0, Némélios-1, Pandespiègle, Pandarbare, Psystigri, Mistigrix-0, Mistigrix-1, Volcanion, Draïeul-0, Draïeul-1
+044	Morsure	Carapuce, Carabaffe, Tortank-0, Tortank-1, Abo, Arbok, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mentali, Noctali, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Dynavolt, Élecsprint-0, Élecsprint-1, Carvanha, Sharpedo-0, Sharpedo-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Phyllali, Givrali, Momartik-0, Momartik-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Mascaïman, Escroco, Crocorible, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Ptyranidur, Rexillius, Nymphali, Grelaçon, Séracrawl-0, Séracrawl-1, Sonistrelle, Bruyverne, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+045	Rugissement	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Pikachu-0, Raichu-0, Raichu-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Évoli-0, Aquali, Voltali, Pyroli, Pichu, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Chamallot, Camérupt-0, Camérupt-1, Tylton, Altaria-0, Altaria-1, Phyllali, Givrali, Gallame-0, Gallame-1, Nanméouïe-0, Nanméouïe-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Passerouge, Braisillon, Flambusard, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Amagara, Dragmara, Nymphali
+046	Hurlement	Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Crocrodil, Aligatueur-0, Aligatueur-1, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Airmure-0, Airmure-1, Malosse, Démolosse-0, Démolosse-1, Tyranocif-0, Tyranocif-1, Galekid, Galegon, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Chamallot, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Phyllali, Givrali, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Hélionceau, Némélios-0, Némélios-1, Cabriolaine, Chevroum, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Ptyranidur, Rexillius, Nymphali, Volcanion
+047	Berceuse	
+048	Ultrason	Ptéra-0, Ptéra-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Sonistrelle, Bruyverne
+049	Sonic Boom	
+050	Entrave	
+051	Acide	
+052	Flammèche	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Pyroli, Malosse, Démolosse-0, Démolosse-1, Chamallot, Camérupt-0, Camérupt-1, Draby, Drackhaus, Drattak-0, Drattak-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Passerouge, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1
+053	Lance-Flammes	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Mélofée, Mélodelfe-0, Mélodelfe-1, Machoc, Machopeur, Mackogneur, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Roigada-0, Roigada-1, Malosse, Démolosse-0, Démolosse-1, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Chamallot, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Miradar, Flamajou, Flamoutan, Nanméouïe-0, Nanméouïe-1, Ohmassacre-0, Ohmassacre-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Muplodocus-0, Muplodocus-1, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Bruyverne, Volcanion, Draïeul-0, Draïeul-1
+054	Brume	Mewtwo-0, Mewtwo-1, Mewtwo-2, Tylton, Altaria-0, Altaria-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Givrali, Sorbébé, Sorboul, Sorbouboul, Amagara, Dragmara, Volcanion
+055	Pistolet à O	Carapuce, Carabaffe, Tortank-0, Tortank-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Flotajou, Flotoutan, Limonde-0, Limonde-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Volcanion
+056	Hydrocanon	Carapuce, Carabaffe, Tortank-0, Tortank-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Magicarpe, Léviator-0, Léviator-1, Aquali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Tyranocif-0, Tyranocif-1, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1, Draby, Drackhaus, Drattak-0, Drattak-1, Flotajou, Flotoutan, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Muplodocus-0, Muplodocus-1, Séracrawl-0, Séracrawl-1, Volcanion, Draïeul-0, Draïeul-1
+057	Surf	Carapuce, Carabaffe, Tortank-0, Tortank-1, Pikachu-0, Raichu-0, Raichu-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Pichu, Roigada-0, Roigada-1, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1, Carchacrok-0, Carchacrok-1, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Limonde-0, Limonde-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Sucroquin, Cupcanaille, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Galvaran, Iguolta, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Séracrawl-0, Séracrawl-1, Draïeul-0, Draïeul-1
+058	Laser Glace	Carapuce, Carabaffe, Tortank-0, Tortank-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mélo, Roigada-0, Roigada-1, Cadoizo, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1, Tylton, Altaria-0, Altaria-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Laporeille, Lockpin-0, Lockpin-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Givrali, Momartik-0, Momartik-1, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Sorbébé, Sorboul, Sorbouboul, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Opermine, Golgopathe-0, Golgopathe-1, Flingouste, Gamblast, Amagara, Dragmara, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Grelaçon, Séracrawl-0, Séracrawl-1, Draïeul-0, Draïeul-1
+059	Blizzard	Carapuce, Carabaffe, Tortank-0, Tortank-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mélo, Roigada-0, Roigada-1, Cadoizo, Tyranocif-0, Tyranocif-1, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Lockpin-0, Lockpin-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Givrali, Momartik-0, Momartik-1, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Sorbébé, Sorboul, Sorbouboul, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Opermine, Golgopathe-0, Golgopathe-1, Flingouste, Gamblast, Amagara, Dragmara, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Grelaçon, Séracrawl-0, Séracrawl-1, Draïeul-0, Draïeul-1
+060	Rafale Psy	Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Stari, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mentali, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Gallame-0, Gallame-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sepiatop, Sepiatroce-0, Sepiatroce-1, Hoopa-0, Hoopa-1
+061	Bulles d’O	Carapuce, Carabaffe, Tortank-0, Tortank-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Stari, Staross-0, Staross-1, Aquali, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mélo, Flotajou, Flotoutan, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast
+062	Onde Boréale	
+063	Ultralaser	Florizarre-0, Florizarre-1, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Dardargnan-0, Dardargnan-1, Roucarnage-0, Roucarnage-1, Arbok, Raichu-0, Raichu-1, Mélodelfe-0, Mélodelfe-1, Alakazam-0, Alakazam-1, Mackogneur, Empiflor-0, Empiflor-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Staross-0, Staross-1, Insécateur, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Méganium-0, Méganium-1, Aligatueur-0, Aligatueur-1, Migalos, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Cadoizo, Airmure-0, Airmure-1, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Charmina-0, Charmina-1, Élecsprint-0, Élecsprint-1, Sharpedo-0, Sharpedo-1, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Branette-0, Branette-1, Absol-0, Absol-1, Oniglali-0, Oniglali-1, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Roserade, Lockpin-0, Lockpin-1, Carchacrok-0, Carchacrok-1, Lucario-0, Lucario-1, Hippodocus, Blizzaroi-0, Blizzaroi-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Roitiflam-0, Roitiflam-1, Miradar, Feuiloutan, Flamoutan, Flotoutan, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Brutapode-0, Brutapode-1, Crocorible, Baggaïd-0, Baggaïd-1, Miasmax, Sorbouboul, Ohmassacre-0, Ohmassacre-1, Lugulabre-0, Lugulabre-1, Blindépique-0, Blindépique-1, Goupelin-0, Goupelin-1, Amphinobi-0, Amphinobi-1, Amphinobi-3, Excavarenne, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Némélios-0, Némélios-1, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Chevroum, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Mistigrix-0, Mistigrix-1, Exagide-0, Exagide-1, Cocotine, Cupcanaille, Sepiatroce-0, Sepiatroce-1, Golgopathe-0, Golgopathe-1, Kravarech-0, Kravarech-1, Gamblast, Iguolta, Rexillius, Amagara, Dragmara, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Strassie, Muplodocus-0, Muplodocus-1, Trousselin, Desséliande, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Séracrawl-0, Séracrawl-1, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+064	Picpic	Cadoizo, Airmure-0, Airmure-1, Tylton, Altaria-0, Altaria-1, Passerouge, Braisillon, Flambusard, Sepiatop, Sepiatroce-0, Sepiatroce-1
+065	Bec Vrille	
+066	Sacrifice	
+067	Balayage	
+068	Riposte	
+069	Frappe Atlas	
+070	Force	
+071	Vole-Vie	Mimigal, Migalos, Rosélia, Rozbouton, Roserade, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Sonistrelle, Bruyverne
+072	Méga-Sangsue	
+073	Vampigraine	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Germignon, Macronium, Méganium-0, Méganium-1, Rosélia, Roserade, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Feuillajou, Feuiloutan, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Cabriolaine, Chevroum, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+074	Croissance	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Rosélia, Rozbouton, Roserade, Blizzi, Blizzaroi-0, Blizzaroi-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Cabriolaine, Chevroum, Brocélôme, Desséliande
+075	Tranch’Herbe	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Germignon, Macronium, Méganium-0, Méganium-1, Rosélia, Roserade, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+076	Lance-Soleil	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Dardargnan-0, Dardargnan-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Kangourex-0, Kangourex-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Mimigal, Migalos, Mélo, Malosse, Démolosse-0, Démolosse-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Rosélia, Tylton, Altaria-0, Altaria-1, Rozbouton, Roserade, Laporeille, Lockpin-0, Lockpin-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Nanméouïe-0, Nanméouïe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Miasmax, Emolga, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Hélionceau, Némélios-0, Némélios-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Iguolta, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Sonistrelle, Bruyverne, Volcanion, Draïeul-0, Draïeul-1
+077	Poudre Toxik	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19
+078	Para-Spore	Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Rosélia, Rozbouton, Roserade, Lépidonille-0, Lépidonille-1, Lépidonille-2, Lépidonille-3, Lépidonille-4, Lépidonille-5, Lépidonille-6, Lépidonille-7, Lépidonille-8, Lépidonille-9, Lépidonille-10, Lépidonille-11, Lépidonille-12, Lépidonille-13, Lépidonille-14, Lépidonille-15, Lépidonille-16, Lépidonille-17, Lépidonille-18, Lépidonille-19, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19
+079	Poudre Dodo	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Rosélia, Roserade, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19
+080	Danse Fleurs	
+081	Sécrétion	Aspicot, Coconfort, Dardargnan-0, Dardargnan-1, Mimigal, Migalos, Lépidonille-0, Lépidonille-1, Lépidonille-2, Lépidonille-3, Lépidonille-4, Lépidonille-5, Lépidonille-6, Lépidonille-7, Lépidonille-8, Lépidonille-9, Lépidonille-10, Lépidonille-11, Lépidonille-12, Lépidonille-13, Lépidonille-14, Lépidonille-15, Lépidonille-16, Lépidonille-17, Lépidonille-18, Lépidonille-19, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Sucroquin, Cupcanaille
+082	Draco-Rage	
+083	Danse Flammes	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Pyroli, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Malosse, Démolosse-0, Démolosse-1, Chamallot, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Volcanion
+084	Éclair	Pikachu-0, Raichu-0, Raichu-1, Voltali, Pichu, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Dynavolt, Élecsprint-0, Élecsprint-1, Emolga, Limonde-0, Galvaran, Iguolta, Dedenne
+085	Tonnerre	Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Voltali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Laporeille, Lockpin-0, Lockpin-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Ratentif, Miradar, Nanméouïe-0, Nanméouïe-1, Miasmax, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Venalgue, Kravarech-0, Kravarech-1, Galvaran, Iguolta, Amagara, Dragmara, Dedenne, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Xerneas, Hoopa-0, Hoopa-1, Draïeul-0, Draïeul-1
+086	Cage Éclair	Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Ectoplasma-0, Ectoplasma-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Voltali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Laporeille, Lockpin-0, Lockpin-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Miradar, Nanméouïe-0, Nanméouïe-1, Emolga, Anchwatt, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0, Limonde-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Galvaran, Iguolta, Amagara, Dragmara, Dedenne, Trousselin, Xerneas, Hoopa-0, Hoopa-1, Draïeul-0, Draïeul-1
+087	Fatal-Foudre	Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Voltali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Tyranocif-0, Tyranocif-1, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Lockpin-0, Lockpin-1, Momartik-0, Momartik-1, Nanméouïe-0, Nanméouïe-1, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0, Galvaran, Iguolta, Dragmara, Dedenne, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Xerneas, Draïeul-0, Draïeul-1
+088	Jet-Pierres	Onix, Steelix-0, Steelix-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Opermine, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Amagara, Dragmara, Strassie, Diancie-0, Diancie-1
+089	Séisme	Florizarre-0, Florizarre-1, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Abo, Arbok, Machoc, Machopeur, Mackogneur, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Onix, Kangourex-0, Kangourex-1, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Méganium-0, Méganium-1, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Scarhino-0, Scarhino-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Galekid, Galegon, Galeking-0, Galeking-1, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Oniglali-0, Oniglali-1, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Blizzaroi-0, Blizzaroi-1, Gallame-0, Gallame-1, Roitiflam-0, Roitiflam-1, Rototaupe, Minotaupe-0, Minotaupe-1, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Limonde-0, Limonde-1, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Chevroum, Pandarbare, Opermine, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Dragmara, Muplodocus-0, Muplodocus-1, Desséliande, Séracrawl-0, Séracrawl-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Volcanion, Draïeul-0, Draïeul-1
+090	Abîme	
+091	Tunnel	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Abo, Arbok, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Machoc, Machopeur, Mackogneur, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Onix, Kangourex-0, Kangourex-1, Scarabrute-0, Scarabrute-1, Évoli-0, Aquali, Voltali, Pyroli, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mimigal, Migalos, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Scarhino-0, Scarhino-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Galekid, Galegon, Galeking-0, Galeking-1, Chamallot, Camérupt-0, Camérupt-1, Laporeille, Lockpin-0, Lockpin-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Phyllali, Givrali, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Hélionceau, Némélios-0, Némélios-1, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Mistigrix-0, Mistigrix-1, Opermine, Golgopathe-0, Golgopathe-1, Galvaran, Iguolta, Ptyranidur, Rexillius, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Brocélôme, Desséliande, Séracrawl-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Volcanion
+092	Toxik	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Dardargnan-0, Dardargnan-1, Abo, Arbok, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mimigal, Migalos, Noctali, Roigada-1, Démolosse-0, Démolosse-1, Rosélia, Roserade, Ratentif, Miradar, Feuillajou, Feuiloutan, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Miamiasme, Miasmax, Limonde-1, Venalgue, Kravarech-0, Kravarech-1, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1
+093	Choc Mental	Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mentali, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Méditikka, Charmina-0, Charmina-1, Métang, Métalosse-0, Métalosse-1, Gallame-0, Gallame-1, Psystigri, Mistigrix-0, Mistigrix-1, Hoopa-0, Hoopa-1
+094	Psyko	Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Stari, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mimigal, Migalos, Mélo, Mentali, Noctali, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Polichombr, Branette-0, Branette-1, Métang, Métalosse-0, Métalosse-1, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Nanméouïe-0, Nanméouïe-1, Miasmax, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Dragmara, Nymphali, Strassie, Trousselin, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Sonistrelle, Bruyverne, Xerneas, Yveltal, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1
+095	Hypnose	Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Gallame-0, Gallame-1, Ratentif, Miradar, Fluvetin, Cocotine, Sepiatop, Sepiatroce-0, Sepiatroce-1, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+096	Yoga	
+097	Hâte	Dardargnan-0, Dardargnan-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Pikachu-0, Raichu-0, Raichu-1, Staross-0, Staross-1, Insécateur, Voltali, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Aligatueur-0, Aligatueur-1, Mimigal, Migalos, Lainergie, Pharamp-0, Pharamp-1, Cizayox-0, Cizayox-1, Cadoizo, Airmure-0, Airmure-1, Charmina-0, Charmina-1, Dynavolt, Élecsprint-0, Élecsprint-1, Carvanha, Sharpedo-0, Sharpedo-1, Tylton, Altaria-0, Altaria-1, Terhal, Métang, Métalosse-0, Métalosse-1, Laporeille, Lockpin-0, Lockpin-1, Riolu, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Rototaupe, Minotaupe-0, Minotaupe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Emolga, Feunnec, Roussil, Goupelin-0, Goupelin-1, Sapereau, Excavarenne, Passerouge, Braisillon, Flambusard, Galvaran, Iguolta, Brutalibré-0, Brutalibré-1, Dedenne, Sonistrelle, Bruyverne, Hexadron-0, Hexadron-1
+098	Vive-Attaque	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Pikachu-0, Raichu-0, Raichu-1, Insécateur, Évoli-0, Aquali, Voltali, Pyroli, Pichu, Mentali, Noctali, Cizayox-0, Cizayox-1, Dynavolt, Élecsprint-0, Élecsprint-1, Absol-0, Absol-1, Laporeille, Lockpin-0, Lockpin-1, Riolu, Lucario-0, Lucario-1, Phyllali, Givrali, Emolga, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Passerouge, Braisillon, Flambusard, Galvaran, Iguolta, Nymphali
+099	Frénésie	
+100	Téléport	Abra, Kadabra, Alakazam-0, Alakazam-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Gallame-0, Gallame-1
+101	Ombre Nocturne	
+102	Copie	
+103	Grincement	Abo, Arbok, Onix, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mimigal, Migalos, Noctali, Steelix-0, Steelix-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Galekid, Galegon, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1, Polichombr, Branette-0, Branette-1, Riolu, Lucario-0, Lucario-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Limonde-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Opermine, Golgopathe-0, Golgopathe-1, Sonistrelle, Bruyverne
+104	Reflet	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Pikachu-0, Raichu-0, Raichu-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Insécateur, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Pichu, Cizayox-0, Cizayox-1, Airmure-0, Airmure-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Mysdibule-0, Mysdibule-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Lockpin-0, Lockpin-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Emolga, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Goupelin-0, Goupelin-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Passerouge, Braisillon, Flambusard, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Mistigrix-0, Sepiatroce-0, Sepiatroce-1, Venalgue, Kravarech-0, Kravarech-1, Trousselin, Sonistrelle, Bruyverne, Yveltal
+105	Soin	Kadabra, Alakazam-0, Alakazam-1, Stari, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Grelaçon, Séracrawl-0, Séracrawl-1
+106	Armure	Coconfort, Dardargnan-0, Dardargnan-1, Onix, Stari, Staross-0, Staross-1, Scarabrute-0, Scarabrute-1, Steelix-0, Steelix-1, Galekid, Galegon, Galeking-0, Galeking-1, Sorbébé, Sorboul, Sorbouboul, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Strassie, Grelaçon, Séracrawl-0, Séracrawl-1, Diancie-0, Diancie-1
+107	Lilliput	
+108	Brouillard	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Pyroli, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Miamiasme, Miasmax, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Venalgue, Kravarech-0, Kravarech-1
+109	Onde Folie	Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Stari, Staross-0, Staross-1, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Noctali, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Polichombr, Branette-0, Branette-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Miradar, Ohmassacre-0, Ohmassacre-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+110	Repli	
+111	Boul’Armure	
+112	Bouclier	
+113	Mur Lumière	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Stari, Staross-0, Staross-1, Insécateur, Voltali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Cizayox-0, Cizayox-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Dynavolt, Élecsprint-0, Élecsprint-1, Stalgamin, Oniglali-0, Oniglali-1, Métang, Métalosse-0, Métalosse-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Miradar, Nanméouïe-0, Nanméouïe-1, Sorbébé, Sorboul, Sorbouboul, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Galvaran, Iguolta, Amagara, Dragmara, Nymphali, Dedenne, Strassie, Trousselin, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Draïeul-0, Draïeul-1
+114	Buée Noire	Abo, Arbok, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Aquali, Momartik-0, Momartik-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Volcanion
+115	Protection	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Stari, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Métang, Métalosse-0, Métalosse-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Nanméouïe-0, Nanméouïe-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Goupelin-0, Goupelin-1, Psystigri, Mistigrix-0, Mistigrix-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Fluvetin, Cocotine, Sepiatop, Sepiatroce-0, Sepiatroce-1, Amagara, Dragmara, Nymphali, Strassie, Trousselin, Brocélôme, Desséliande, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1
+116	Puissance	Dardargnan-0, Dardargnan-1, Machoc, Machopeur, Mackogneur, Kangourex-0, Kangourex-1, Insécateur, Scarabrute-0, Scarabrute-1, Migalos, Cizayox-0, Cizayox-1, Carvanha, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Pandarbare, Hexadron-0, Hexadron-1
+117	Patience	
+118	Métronome	Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Flagadoss-0, Flagadoss-1, Flagadoss-2, Spectrum, Ectoplasma-0, Ectoplasma-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Polichombr, Branette-0, Branette-1, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Baggaïd-0, Baggaïd-1, Goupelin-0, Goupelin-1, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cocotine, Cupcanaille, Diancie-0, Diancie-1
+119	Mimique	
+120	Destruction	Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Onix, Stari, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Steelix-0, Steelix-1, Camérupt-0, Camérupt-1, Oniglali-0, Oniglali-1, Métang, Métalosse-0, Métalosse-1, Miamiasme, Miasmax, Sorbébé, Sorboul, Sorbouboul, Sucroquin, Cupcanaille, Strassie, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Volcanion
+121	Bombe Œuf	
+122	Léchouille	Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Polichombr, Branette-0, Branette-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3
+123	Purédpois	
+124	Détritus	
+125	Massd’Os	
+126	Déflagration	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Mélofée, Mélodelfe-0, Mélodelfe-1, Machoc, Machopeur, Mackogneur, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Roigada-0, Roigada-1, Malosse, Démolosse-0, Démolosse-1, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Chamallot, Camérupt-0, Camérupt-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Nanméouïe-0, Nanméouïe-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Muplodocus-0, Muplodocus-1, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Volcanion, Draïeul-0, Draïeul-1
+127	Cascade	Carapuce, Carabaffe, Tortank-0, Tortank-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Carvanha, Sharpedo-0, Sharpedo-1, Flotajou, Flotoutan, Ohmassacre-0, Ohmassacre-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast
+128	Claquoir	
+129	Météores	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Stari, Staross-0, Staross-1, Insécateur, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Cizayox-0, Cizayox-1, Cadoizo, Airmure-0, Airmure-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Méditikka, Charmina-0, Charmina-1, Dynavolt, Élecsprint-0, Élecsprint-1, Rosélia, Carvanha, Sharpedo-0, Sharpedo-1, Tylton, Altaria-0, Altaria-1, Absol-0, Absol-1, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Rozbouton, Roserade, Laporeille, Lockpin-0, Lockpin-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Phyllali, Givrali, Gallame-0, Gallame-1, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Emolga, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Passerouge, Braisillon, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Hélionceau, Némélios-0, Némélios-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Psystigri, Mistigrix-0, Mistigrix-1, Galvaran, Iguolta, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Trousselin, Sonistrelle, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Draïeul-0, Draïeul-1
+130	Coud’Krâne	
+131	Picanon	
+132	Constriction	
+133	Amnésie	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Roigada-0, Roigada-1, Chamallot, Camérupt-0, Camérupt-1, Hippopotas, Hippodocus, Flamajou, Flamoutan, Nanméouïe-0, Nanméouïe-1, Miamiasme, Miasmax, Sucroquin, Cupcanaille, Diancie-0, Diancie-1, Draïeul-0, Draïeul-1
+134	Télékinésie	
+135	E-Coque	
+136	Pied Voltige	
+137	Regard Médusant	Abo, Arbok, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Draïeul-0, Draïeul-1
+138	Dévorêve	
+139	Gaz Toxik	
+140	Pilonnage	
+141	Vampirisme	Abo, Arbok, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Mimigal, Migalos, Sonistrelle, Bruyverne
+142	Grobisou	
+143	Piqué	
+144	Morphing	
+145	Écume	
+146	Uppercut	
+147	Spore	
+148	Flash	
+149	Vague Psy	
+150	Trempette	Mélofée, Mélodelfe-0, Mélodelfe-1, Magicarpe, Léviator-0, Léviator-1, Mélo, Laporeille, Lockpin-0, Lockpin-1, Flingouste, Gamblast
+151	Acidarmure	Aquali, Sorbébé, Sorboul, Sorbouboul, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1
+152	Pince-Masse	
+153	Explosion	Oniglali-0, Oniglali-1, Métalosse-0, Métalosse-1, Miamiasme, Miasmax, Sorbébé, Sorboul, Sorbouboul, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Volcanion
+154	Combo-Griffe	
+155	Osmerang	
+156	Repos	
+157	Éboulement	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Abo, Arbok, Machoc, Machopeur, Mackogneur, Onix, Kangourex-0, Kangourex-1, Scarabrute-0, Scarabrute-1, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Steelix-0, Steelix-1, Scarhino-0, Scarhino-1, Airmure-0, Airmure-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Chamallot, Camérupt-0, Camérupt-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Blizzaroi-0, Blizzaroi-1, Grotichon, Roitiflam-0, Roitiflam-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Flingouste, Gamblast, Galvaran, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Brutalibré-0, Brutalibré-1, Strassie, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Grelaçon, Séracrawl-0, Séracrawl-1, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+158	Croc de Mort	
+159	Affûtage	
+160	Conversion	
+161	Triplattaque	
+162	Croc Fatal	Ratentif, Miradar, Lampéroie, Ohmassacre-0, Ohmassacre-1, Sapereau, Excavarenne, Dedenne, Sonistrelle, Bruyverne
+163	Tranche	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Insécateur, Crocrodil, Aligatueur-0, Aligatueur-1, Cizayox-0, Cizayox-1, Airmure-0, Airmure-1, Sharpedo-0, Sharpedo-1, Branette-0, Branette-1, Absol-0, Absol-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Gallame-0, Gallame-1, Rototaupe, Minotaupe-0, Minotaupe-1, Pandespiègle, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1
+164	Clonage	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Dardargnan-0, Dardargnan-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Abo, Arbok, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Onix, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Insécateur, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mimigal, Migalos, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Cadoizo, Airmure-0, Airmure-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Dynavolt, Élecsprint-0, Élecsprint-1, Rosélia, Carvanha, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Tylton, Altaria-0, Altaria-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Rozbouton, Roserade, Laporeille, Lockpin-0, Lockpin-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Miamiasme, Miasmax, Sorbébé, Sorboul, Sorbouboul, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Passerouge, Braisillon, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Hélionceau, Némélios-0, Némélios-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Galvaran, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Strassie, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Trousselin, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Grelaçon, Séracrawl-0, Séracrawl-1, Sonistrelle, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+165	Lutte	
+166	Gribouille	
+167	Triple Pied	
+168	Larcin	
+169	Toile	
+170	Lire-Esprit	
+171	Cauchemar	
+172	Roue de Feu	Pyroli, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Passerouge, Braisillon, Flambusard
+173	Ronflement	
+174	Malédiction	Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Onix, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Airmure-0, Airmure-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Dynavolt, Élecsprint-0, Élecsprint-1, Chamallot, Camérupt-0, Camérupt-1, Polichombr, Branette-0, Branette-1, Hippopotas, Hippodocus, Blizzaroi-0, Blizzaroi-1, Momartik-0, Momartik-1, Roitiflam-0, Roitiflam-1, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Nymphali, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Grelaçon, Séracrawl-0, Séracrawl-1
+175	Gigotage	
+176	Conversion 2	
+177	Aéroblast	
+178	Spore Coton	
+179	Contre	
+180	Dépit	
+181	Poudreuse	
+182	Abri	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Dardargnan-0, Dardargnan-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Abo, Arbok, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Onix, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Insécateur, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mimigal, Migalos, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Cadoizo, Airmure-0, Airmure-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Dynavolt, Élecsprint-0, Élecsprint-1, Rosélia, Carvanha, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Tylton, Altaria-0, Altaria-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Rozbouton, Roserade, Laporeille, Lockpin-0, Lockpin-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Miamiasme, Miasmax, Sorbébé, Sorboul, Sorbouboul, Emolga, Anchwatt, Lampéroie, Ohmassacre-0, Ohmassacre-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Passerouge, Braisillon, Flambusard, Lépidonille-0, Lépidonille-1, Lépidonille-2, Lépidonille-3, Lépidonille-4, Lépidonille-5, Lépidonille-6, Lépidonille-7, Lépidonille-8, Lépidonille-9, Lépidonille-10, Lépidonille-11, Lépidonille-12, Lépidonille-13, Lépidonille-14, Lépidonille-15, Lépidonille-16, Lépidonille-17, Lépidonille-18, Lépidonille-19, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Hélionceau, Némélios-0, Némélios-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Galvaran, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Strassie, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Trousselin, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Grelaçon, Séracrawl-0, Séracrawl-1, Sonistrelle, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+183	Mach Punch	Lockpin-0, Lockpin-1
+184	Grimace	
+185	Feinte	
+186	Doux Baiser	
+187	Cognobidon	
+188	Bombe Beurk	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Dardargnan-0, Dardargnan-1, Abo, Arbok, Empiflor-0, Empiflor-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Mimigal, Migalos, Roigada-1, Malosse, Démolosse-0, Démolosse-1, Mysdibule-0, Mysdibule-1, Rosélia, Métang, Métalosse-0, Métalosse-1, Rozbouton, Roserade, Rototaupe, Minotaupe-0, Minotaupe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Miamiasme, Miasmax, Limonde-0, Limonde-1, Sapereau, Excavarenne, Pandespiègle, Pandarbare, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Volcanion
+189	Coud’Boue	
+190	Octazooka	
+191	Picots	Scarhino-0, Scarhino-1, Cadoizo, Airmure-0, Airmure-1, Rosélia, Stalgamin, Oniglali-0, Oniglali-1, Rozbouton, Roserade, Carmache, Carchacrok-0, Carchacrok-1, Momartik-0, Momartik-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Miamiasme, Miasmax, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Mistigrix-0, Strassie, Trousselin, Diancie-0, Diancie-1
+192	Élecanon	Pharamp-0, Pharamp-1, Lampéroie, Ohmassacre-0, Ohmassacre-1
+193	Clairvoyance	
+194	Lien du Destin	
+195	Requiem	Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Tylton, Altaria-0, Altaria-1, Absol-0, Absol-1
+196	Vent Glace	Carapuce, Carabaffe, Tortank-0, Tortank-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Cadoizo, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Carvanha, Sharpedo-0, Sharpedo-1, Stalgamin, Oniglali-0, Oniglali-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Sorbébé, Sorboul, Sorbouboul, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Amagara, Dragmara, Grelaçon, Séracrawl-0, Séracrawl-1, Draïeul-0, Draïeul-1
+197	Détection	Machoc, Machopeur, Mackogneur, Scarabrute-0, Scarabrute-1, Scarhino-0, Scarhino-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Absol-0, Absol-1, Riolu, Lucario-0, Lucario-1, Ratentif, Miradar, Baggiguane, Baggaïd-0, Baggaïd-1, Pandespiègle, Pandarbare, Brutalibré-0, Brutalibré-1
+198	Charge Os	
+199	Verrouillage	
+200	Colère	Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Dardargnan-0, Dardargnan-1, Kangourex-0, Kangourex-1, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Pharamp-0, Pharamp-1, Scarhino-0, Scarhino-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Galeking-0, Galeking-1, Tylton, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Blizzaroi-0, Blizzaroi-1, Crocorible, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Pandarbare, Venalgue, Kravarech-0, Kravarech-1, Ptyranidur, Rexillius, Amagara, Dragmara, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Sonistrelle, Bruyverne, Xerneas, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Draïeul-0, Draïeul-1
+201	Tempête de Sable	
+202	Giga-Sangsue	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Dardargnan-0, Dardargnan-1, Abo, Arbok, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Macronium, Méganium-0, Méganium-1, Mimigal, Migalos, Ténéfix-0, Ténéfix-1, Rosélia, Roserade, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Feuillajou, Feuiloutan, Miamiasme, Miasmax, Lampéroie, Ohmassacre-0, Ohmassacre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Pandarbare, Muplodocus-0, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+203	Ténacité	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Dardargnan-0, Dardargnan-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Abo, Arbok, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Onix, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Insécateur, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mimigal, Migalos, Pichu, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Cadoizo, Airmure-0, Airmure-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Dynavolt, Élecsprint-0, Élecsprint-1, Rosélia, Carvanha, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Tylton, Altaria-0, Altaria-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Rozbouton, Roserade, Laporeille, Lockpin-0, Lockpin-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Miamiasme, Miasmax, Sorbébé, Sorboul, Sorbouboul, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Passerouge, Braisillon, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Hélionceau, Némélios-0, Némélios-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Dimoclès, Exagide-0, Exagide-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Galvaran, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Strassie, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Trousselin, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Grelaçon, Séracrawl-0, Séracrawl-1, Sonistrelle, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+204	Charme	Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Évoli-0, Aquali, Voltali, Pyroli, Pichu, Mélo, Mentali, Noctali, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Mysdibule-0, Mysdibule-1, Rosélia, Rozbouton, Roserade, Laporeille, Lockpin-0, Lockpin-1, Phyllali, Givrali, Gallame-0, Gallame-1, Emolga, Feunnec, Roussil, Goupelin-0, Goupelin-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Mistigrix-0, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Ptyranidur, Rexillius, Nymphali, Dedenne, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1
+205	Roulade	Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Miamiasme, Miasmax, Marisson, Boguérisse, Blindépique-0, Blindépique-1
+206	Faux-Chage	
+207	Vantardise	
+208	Lait à Boire	
+209	Étincelle	Pikachu-0, Raichu-0, Raichu-1, Pichu, Dynavolt, Élecsprint-0, Élecsprint-1, Emolga, Anchwatt, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0
+210	Taillade	
+211	Ailes d’Acier	Ptéra-0, Ptéra-1, Cizayox-0, Cizayox-1, Airmure-0, Airmure-1, Passerouge, Braisillon, Flambusard
+212	Regard Noir	
+213	Attraction	
+214	Blabla Dodo	
+215	Glas de Soin	
+216	Retour	
+217	Cadeau	
+218	Frustration	
+219	Rune Protect	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Mélo, Mentali, Roigada-0, Roigada-1, Cizayox-0, Cizayox-1, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Tylton, Altaria-0, Altaria-1, Gallame-0, Gallame-1, Nanméouïe-0, Nanméouïe-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Goupelin-0, Goupelin-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Psystigri, Mistigrix-0, Mistigrix-1, Sucroquin, Cupcanaille, Opermine, Golgopathe-0, Golgopathe-1, Amagara, Dragmara, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Draïeul-0, Draïeul-1
+220	Balance	
+221	Feu Sacré	
+222	Ampleur	
+223	Dynamo-Poing	Machoc, Machopeur, Mackogneur, Kangourex-0, Kangourex-1, Mysdibule-0, Mysdibule-1, Méditikka, Charmina-0, Charmina-1, Laporeille, Lockpin-0, Lockpin-1, Baggiguane, Baggaïd-0, Baggaïd-1
+224	Mégacorne	Mimigal, Migalos, Scarhino-0, Scarhino-1, Minotaupe-0, Minotaupe-1, Brutapode-0, Brutapode-1, Cabriolaine, Chevroum, Xerneas, Hexadron-0, Hexadron-1
+225	Draco-Souffle	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Onix, Steelix-0, Steelix-1, Tylton, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Draïeul-0, Draïeul-1
+226	Relais	
+227	Encore	
+228	Poursuite	
+229	Tour Rapide	
+230	Doux Parfum	
+231	Queue de Fer	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Abo, Arbok, Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Onix, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Évoli-0, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Pichu, Mélo, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Galekid, Galegon, Galeking-0, Galeking-1, Laporeille, Lockpin-0, Lockpin-1, Carchacrok-0, Carchacrok-1, Lucario-0, Lucario-1, Phyllali, Givrali, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Emolga, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Iguolta, Rexillius, Dragmara, Nymphali, Muplodocus-1, Bruyverne
+232	Griffe Acier	Airmure-0, Airmure-1, Galekid, Galegon, Galeking-0, Galeking-1, Métang, Métalosse-0, Métalosse-1, Riolu, Lucario-0, Lucario-1, Rototaupe, Minotaupe-0, Minotaupe-1, Miasmax, Limonde-1, Trousselin
+233	Corps Perdu	
+234	Aurore	Mentali, Galvaran, Iguolta
+235	Synthèse	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Germignon, Macronium, Méganium-0, Méganium-1, Rosélia, Roserade, Phyllali, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum
+236	Rayon Lune	Mélofée, Mélodelfe-0, Mélodelfe-1, Mélo, Noctali, Bruyverne
+237	Puissance Cachée	
+238	Coup Croix	
+239	Ouragan	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Léviator-0, Léviator-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Tylton, Altaria-0, Altaria-1, Draïeul-0, Draïeul-1
+240	Danse Pluie	
+241	Zénith	
+242	Mâchouille	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Arbok, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Ptéra-0, Ptéra-1, Aligatueur-0, Aligatueur-1, Noctali, Steelix-0, Steelix-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Dynavolt, Élecsprint-0, Élecsprint-1, Carvanha, Sharpedo-0, Sharpedo-1, Stalgamin, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Momartik-0, Momartik-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-1, Blindépique-0, Blindépique-1, Hélionceau, Némélios-0, Némélios-1, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Ptyranidur, Rexillius, Grelaçon, Séracrawl-0, Séracrawl-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+243	Voile Miroir	
+244	Boost	
+245	Vitesse Extrême	Minidraco, Draco, Dracolosse-0, Dracolosse-1, Lucario-0, Lucario-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+246	Pouvoir Antique	
+247	Ball’Ombre	Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Évoli-0, Aquali, Voltali, Pyroli, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Mentali, Noctali, Roigada-0, Roigada-1, Malosse, Démolosse-0, Démolosse-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Méditikka, Charmina-0, Charmina-1, Rosélia, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Stalgamin, Oniglali-0, Oniglali-1, Métang, Métalosse-0, Métalosse-1, Rozbouton, Roserade, Laporeille, Lockpin-0, Lockpin-1, Lucario-0, Lucario-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Ratentif, Miradar, Nanméouïe-0, Nanméouïe-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Goupelin-0, Goupelin-1, Psystigri, Mistigrix-0, Mistigrix-1, Exagide-0, Exagide-1, Venalgue, Kravarech-0, Kravarech-1, Gamblast, Nymphali, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Sonistrelle, Bruyverne, Yveltal, Hoopa-0, Hoopa-1, Draïeul-0, Draïeul-1
+248	Prescience	Kadabra, Alakazam-0, Alakazam-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mentali, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Absol-0, Absol-1, Gallame-0, Gallame-1, Goupelin-0, Goupelin-1, Mistigrix-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Trousselin, Hoopa-0, Hoopa-1
+249	Éclate-Roc	Dardargnan-0, Dardargnan-1, Machoc, Machopeur, Mackogneur, Scarabrute-0, Scarabrute-1, Macronium, Méganium-0, Méganium-1, Crocrodil, Aligatueur-0, Aligatueur-1, Scarhino-0, Scarhino-1, Mysdibule-0, Mysdibule-1, Méditikka, Charmina-0, Charmina-1, Riolu, Lucario-0, Lucario-1, Grotichon, Roitiflam-0, Roitiflam-1, Miradar, Rototaupe, Minotaupe-0, Minotaupe-1, Baggaïd-0, Baggaïd-1, Boguérisse, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Hexadron-0, Hexadron-1
+250	Siphon	Carapuce, Carabaffe, Tortank-0, Tortank-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Kangourex-0, Kangourex-1, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1
+251	Baston	
+252	Bluff	
+253	Brouhaha	
+254	Stockage	
+255	Relâche	
+256	Avale	
+257	Canicule	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Pyroli, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Malosse, Démolosse-0, Démolosse-1, Chamallot, Camérupt-0, Camérupt-1, Tylton, Altaria-0, Altaria-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Roussil, Goupelin-0, Goupelin-1, Passerouge, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Sonistrelle, Bruyverne, Yveltal, Volcanion, Draïeul-0, Draïeul-1
+258	Grêle	
+259	Tourmente	
+260	Flatterie	
+261	Feu Follet	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Pyroli, Mewtwo-0, Mewtwo-1, Mewtwo-2, Malosse, Démolosse-0, Démolosse-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Chamallot, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Passerouge, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Volcanion
+262	Souvenir	
+263	Façade	
+264	Mitra-Poing	
+265	Stimulant	
+266	Par Ici	
+267	Force Nature	
+268	Chargeur	Pikachu-0, Raichu-0, Raichu-1, Pichu, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Dynavolt, Élecsprint-0, Élecsprint-1, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0, Galvaran, Iguolta, Dedenne
+269	Provoc	Abra, Kadabra, Alakazam-0, Alakazam-1, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Onix, Léviator-0, Léviator-1, Aquali, Pyroli, Ptéra-0, Ptéra-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Noctali, Roigada-1, Steelix-0, Steelix-1, Airmure-0, Airmure-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Méditikka, Charmina-0, Charmina-1, Carvanha, Sharpedo-0, Sharpedo-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Sorbébé, Sorboul, Sorbouboul, Emolga, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Hélionceau, Némélios-0, Némélios-1, Pandespiègle, Pandarbare, Mistigrix-0, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Nymphali, Brutalibré-0, Brutalibré-1, Sonistrelle, Bruyverne, Yveltal, Hoopa-0, Hoopa-1, Volcanion
+270	Coup d’Main	
+271	Tour de Magie	
+272	Imitation	
+273	Vœu	Évoli-0, Aquali, Voltali, Pyroli, Mentali, Noctali, Gardevoir-0, Gardevoir-1, Phyllali, Givrali, Nanméouïe-0, Nanméouïe-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Mistigrix-0, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Nymphali
+274	Assistance	
+275	Racines	
+276	Surpuissance	
+277	Reflet Magik	
+278	Recyclage	
+279	Vendetta	
+280	Casse-Brique	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Dardargnan-0, Dardargnan-1, Pikachu-0, Raichu-0, Raichu-1, Machoc, Machopeur, Mackogneur, Kangourex-0, Kangourex-1, Insécateur, Scarabrute-0, Scarabrute-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Pichu, Pharamp-0, Pharamp-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Cadoizo, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Blizzaroi-0, Blizzaroi-1, Gallame-0, Gallame-1, Grotichon, Roitiflam-0, Roitiflam-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Opermine, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Brutalibré-0, Brutalibré-1, Sonistrelle, Bruyverne, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Hoopa-0, Hoopa-1, Volcanion, Hexadron-0, Hexadron-1
+281	Bâillement	
+282	Sabotage	Abo, Arbok, Machoc, Machopeur, Mackogneur, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Insécateur, Germignon, Macronium, Méganium-0, Méganium-1, Mimigal, Migalos, Noctali, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Métalosse-0, Métalosse-1, Gallame-0, Gallame-1, Grotichon, Roitiflam-0, Roitiflam-1, Escroco, Crocorible, Baggaïd-0, Baggaïd-1, Blindépique-0, Blindépique-1, Pandarbare, Sepiatop, Sepiatroce-0, Sepiatroce-1, Muplodocus-0, Muplodocus-1, Hoopa-0, Hoopa-1, Hexadron-0, Hexadron-1
+283	Effort	
+284	Éruption	
+285	Échange	
+286	Possessif	
+287	Régénération	
+288	Rancune	
+289	Saisie	
+290	Force Cachée	
+291	Plongée	
+292	Cogne	
+293	Camouflage	
+294	Lumi-Queue	
+295	Lumi-Éclat	
+296	Ball’Brume	
+297	Danse Plumes	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Cadoizo, Tylton, Altaria-0, Altaria-1, Passerouge, Braisillon, Flambusard, Brutalibré-0, Brutalibré-1
+298	Danse Folle	
+299	Pied Brûleur	
+300	Lance-Boue	
+301	Ball’Glace	
+302	Poing Dard	
+303	Paresse	
+304	Mégaphone	Mélofée, Mélodelfe-0, Mélodelfe-1, Évoli-0, Aquali, Voltali, Pyroli, Mélo, Mentali, Noctali, Malosse, Démolosse-0, Démolosse-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Élecsprint-0, Élecsprint-1, Tylton, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Laporeille, Lockpin-0, Lockpin-1, Hippodocus, Phyllali, Givrali, Gallame-0, Gallame-1, Nanméouïe-0, Nanméouïe-1, Sorbébé, Sorboul, Sorbouboul, Goupelin-0, Goupelin-1, Hélionceau, Némélios-0, Némélios-1, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Nymphali, Sonistrelle, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Draïeul-0, Draïeul-1
+305	Crochet Venin	
+306	Éclate Griffe	
+307	Rafale Feu	
+308	Hydroblast	
+309	Poing Météore	
+310	Étonnement	
+311	Ball’Météo	
+312	Aromathérapie	
+313	Croco Larme	Voltali, Mentali, Mysdibule-0, Mysdibule-1, Stalgamin, Oniglali-0, Oniglali-1, Momartik-0, Momartik-1, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Nymphali, Diancie-0, Diancie-1
+314	Tranch’Air	
+315	Surchauffe	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Malosse, Démolosse-0, Démolosse-1, Élecsprint-0, Élecsprint-1, Chamallot, Camérupt-0, Camérupt-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Passerouge, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Volcanion
+316	Flair	
+317	Tomberoche	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Abo, Arbok, Machoc, Machopeur, Mackogneur, Onix, Kangourex-0, Kangourex-1, Scarabrute-0, Scarabrute-1, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Steelix-0, Steelix-1, Scarhino-0, Scarhino-1, Airmure-0, Airmure-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Métang, Métalosse-0, Métalosse-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Blizzaroi-0, Blizzaroi-1, Gallame-0, Gallame-1, Grotichon, Roitiflam-0, Roitiflam-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Pandespiègle, Pandarbare, Opermine, Golgopathe-0, Golgopathe-1, Galvaran, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Brutalibré-0, Brutalibré-1, Strassie, Colimucus-1, Muplodocus-1, Grelaçon, Séracrawl-0, Séracrawl-1, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Hexadron-0, Hexadron-1
+318	Vent Argenté	
+319	Strido-Son	Airmure-0, Airmure-1, Galekid, Galegon, Galeking-0, Galeking-1, Lucario-0, Lucario-1, Minotaupe-0, Minotaupe-1, Limonde-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Trousselin
+320	Siffl’Herbe	
+321	Chatouille	
+322	Force Cosmique	
+323	Giclédo	
+324	Rayon Signal	
+325	Poing Ombre	
+326	Extrasenseur	
+327	Stratopercut	
+328	Tourbi-Sable	Onix, Steelix-0, Steelix-1, Airmure-0, Airmure-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Rototaupe, Minotaupe-0, Minotaupe-1, Mascaïman, Escroco, Crocorible
+329	Glaciation	
+330	Ocroupi	
+331	Balle Graine	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Germignon, Macronium, Méganium-0, Méganium-1, Scarhino-0, Scarhino-1, Rosélia, Rozbouton, Roserade, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Ratentif, Miradar, Feuillajou, Feuiloutan, Miamiasme, Miasmax, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Cabriolaine, Chevroum, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+332	Aéropique	Dardargnan-0, Dardargnan-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Kangourex-0, Kangourex-1, Insécateur, Scarabrute-0, Scarabrute-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Cadoizo, Airmure-0, Airmure-1, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Tylton, Altaria-0, Altaria-1, Absol-0, Absol-1, Drattak-0, Drattak-1, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Phyllali, Gallame-0, Gallame-1, Mascaïman, Escroco, Crocorible, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Passerouge, Braisillon, Flambusard, Chevroum, Monorpale, Dimoclès, Exagide-0, Exagide-1, Brutalibré-0, Brutalibré-1, Sonistrelle, Bruyverne
+333	Stalactite	
+334	Mur de Fer	Carapuce, Carabaffe, Tortank-0, Tortank-1, Coconfort, Dardargnan-0, Dardargnan-1, Scarabrute-0, Scarabrute-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Airmure-0, Airmure-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Draby, Drackhaus, Drattak-0, Drattak-1, Terhal, Métang, Métalosse-0, Métalosse-1, Lucario-0, Lucario-1, Rototaupe, Minotaupe-0, Minotaupe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Baggiguane, Baggaïd-0, Baggaïd-1, Sorbébé, Sorboul, Sorbouboul, Limonde-1, Blindépique-0, Blindépique-1, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Monorpale, Dimoclès, Exagide-0, Exagide-1, Opermine, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Amagara, Dragmara, Strassie, Colimucus-1, Muplodocus-1, Trousselin, Grelaçon, Séracrawl-0, Séracrawl-1, Diancie-0, Diancie-1, Hexadron-0, Hexadron-1
+335	Barrage	
+336	Grondement	
+337	Draco-Griffe	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Tyranocif-0, Tyranocif-1, Galeking-0, Galeking-1, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Blindépique-0, Blindépique-1, Pandarbare, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Muplodocus-0, Muplodocus-1, Sonistrelle, Bruyverne, Yveltal, Draïeul-0, Draïeul-1
+338	Végé-Attaque	
+339	Gonflette	Machoc, Machopeur, Mackogneur, Staross-0, Staross-1, Scarabrute-0, Scarabrute-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Scarhino-0, Scarhino-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Riolu, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Grotichon, Roitiflam-0, Roitiflam-1, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Boguérisse, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Flambusard, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Sepiatroce-0, Sepiatroce-1, Golgopathe-0, Golgopathe-1, Brutalibré-0, Brutalibré-1, Hexadron-0, Hexadron-1
+340	Rebond	Léviator-0, Léviator-1, Carvanha, Sharpedo-0, Sharpedo-1, Laporeille, Lockpin-0, Lockpin-1, Limonde-0, Limonde-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Flingouste, Gamblast, Brutalibré-0, Brutalibré-1
+341	Tir de Boue	Carapuce, Carabaffe, Tortank-0, Tortank-1, Abo, Arbok, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Roigada-0, Roigada-1, Scarhino-0, Scarhino-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Galekid, Galegon, Galeking-0, Galeking-1, Rosélia, Rozbouton, Roserade, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Rototaupe, Minotaupe-0, Minotaupe-1, Miamiasme, Miasmax, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Cabriolaine, Chevroum, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Volcanion
+342	Queue-Poison	
+343	Implore	
+344	Électacle	Pikachu-0, Raichu-0, Raichu-1, Pichu
+345	Feuille Magik	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Mélo, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Rosélia, Roserade, Phyllali, Gallame-0, Gallame-1, Feuillajou, Feuiloutan, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Mistigrix-1
+346	Tourniquet	
+347	Plénitude	Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Évoli-0, Aquali, Voltali, Pyroli, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Mentali, Noctali, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Lucario-0, Lucario-1, Phyllali, Givrali, Gallame-0, Gallame-1, Nanméouïe-0, Nanméouïe-1, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Sepiatop, Sepiatroce-0, Sepiatroce-1, Amagara, Dragmara, Nymphali, Strassie, Trousselin, Desséliande, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Draïeul-0, Draïeul-1
+348	Lame Feuille	Méganium-0, Méganium-1, Phyllali, Gallame-0, Gallame-1, Cabriolaine, Chevroum
+349	Danse Draco	
+350	Boule Roc	Ptéra-0, Ptéra-1, Scarhino-0, Scarhino-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Minotaupe-0, Minotaupe-1, Opermine, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Amagara, Dragmara, Séracrawl-1
+351	Onde de Choc	
+352	Vibraqua	Carapuce, Carabaffe, Tortank-0, Tortank-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Stari, Staross-0, Staross-1, Léviator-0, Léviator-1, Aquali, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Cadoizo, Stalgamin, Oniglali-0, Oniglali-1, Lucario-0, Lucario-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Momartik-0, Momartik-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Mistigrix-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Bruyverne, Volcanion
+353	Vœu Destructeur	
+354	Psycho-Boost	
+355	Atterrissage	
+356	Gravité	
+357	Œil Miracle	
+358	Réveil Forcé	
+359	Marto-Poing	
+360	Gyroballe	
+361	Vœu Soin	
+362	Saumure	
+363	Don Naturel	
+364	Ruse	
+365	Picore	
+366	Vent Arrière	
+367	Acupression	
+368	Fulmifer	
+369	Demi-Tour	Dardargnan-0, Dardargnan-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Insécateur, Cizayox-0, Cizayox-1, Lockpin-0, Lockpin-1, Brutapode-0, Brutapode-1, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sapereau, Excavarenne, Passerouge, Braisillon, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Flingouste, Gamblast, Galvaran, Iguolta, Brutalibré-0, Brutalibré-1, Dedenne, Sonistrelle, Bruyverne, Yveltal
+370	Close Combat	Machoc, Machopeur, Mackogneur, Insécateur, Scarabrute-0, Scarabrute-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Méditikka, Charmina-0, Charmina-1, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Laporeille, Lockpin-0, Lockpin-1, Riolu, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Roitiflam-0, Roitiflam-1, Crocorible, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Blindépique-0, Blindépique-1, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Brutalibré-0, Brutalibré-1, Xerneas, Hexadron-0, Hexadron-1
+371	Représailles	
+372	Assurance	
+373	Embargo	
+374	Dégommage	
+375	Échange Psy	
+376	Atout	
+377	Anti-Soin	Mélofée, Mélodelfe-0, Mélodelfe-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mentali, Roigada-0, Roigada-1, Ténéfix-0, Ténéfix-1, Branette-0, Branette-1, Momartik-0, Momartik-1, Miasmax, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Goupelin-0, Goupelin-1, Mistigrix-0, Fluvetin, Cocotine, Sepiatroce-0, Sepiatroce-1, Trousselin, Brocélôme, Desséliande, Yveltal, Hoopa-0, Hoopa-1
+378	Essorage	
+379	Astuce Force	
+380	Suc Digestif	
+381	Air Veinard	
+382	Moi d’Abord	
+383	Photocopie	
+384	Permuforce	
+385	Permugarde	
+386	Punition	
+387	Dernier Recours	
+388	Soucigraine	
+389	Coup Bas	
+390	Pics Toxik	Dardargnan-0, Dardargnan-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Flagadoss-2, Spectrum, Ectoplasma-0, Ectoplasma-1, Mimigal, Migalos, Roigada-1, Rosélia, Roserade, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Miamiasme, Miasmax, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Mistigrix-0, Venalgue, Kravarech-0, Kravarech-1
+391	Permucœur	
+392	Anneau Hydro	Carapuce, Carabaffe, Tortank-0, Tortank-1, Aquali, Flotajou, Flotoutan
+393	Vol Magnétik	
+394	Boutefeu	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Pyroli, Malosse, Démolosse-0, Démolosse-1, Chamallot, Camérupt-0, Camérupt-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Flamajou, Flamoutan, Lugulabre-0, Lugulabre-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Passerouge, Braisillon, Flambusard, Hélionceau, Némélios-0, Némélios-1, Volcanion
+395	Forte-Paume	
+396	Aurasphère	Mewtwo-0, Mewtwo-1, Mewtwo-2, Lucario-0, Lucario-1, Flingouste, Gamblast
+397	Poliroche	
+398	Direct Toxik	Dardargnan-0, Dardargnan-1, Abo, Arbok, Machoc, Machopeur, Mackogneur, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mimigal, Migalos, Roigada-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Rosélia, Sharpedo-0, Sharpedo-1, Roserade, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Grotichon, Roitiflam-0, Roitiflam-1, Rototaupe, Minotaupe-0, Minotaupe-1, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Baggiguane, Baggaïd-0, Baggaïd-1, Miamiasme, Miasmax, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Pandarbare, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Brutalibré-0, Brutalibré-1, Brocélôme, Desséliande, Hexadron-0, Hexadron-1
+399	Vibrobscur	Tortank-0, Tortank-1, Abo, Arbok, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Léviator-0, Léviator-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Noctali, Steelix-0, Steelix-1, Airmure-0, Airmure-1, Malosse, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Carvanha, Sharpedo-0, Sharpedo-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Oniglali-0, Oniglali-1, Lucario-0, Lucario-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Miamiasme, Miasmax, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Némélios-0, Némélios-1, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Flingouste, Gamblast, Galvaran, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Sonistrelle, Bruyverne, Yveltal, Hoopa-0, Hoopa-1
+400	Tranche-Nuit	Insécateur, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Airmure-0, Airmure-1, Ténéfix-0, Ténéfix-1, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Gallame-0, Gallame-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Xerneas
+401	Hydro-Queue	
+402	Canon Graine	
+403	Lame d’Air	Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Mélodelfe-0, Mélodelfe-1, Insécateur, Dracolosse-0, Dracolosse-1, Cizayox-0, Cizayox-1, Cadoizo, Airmure-0, Airmure-1, Absol-0, Absol-1, Drattak-0, Drattak-1, Emolga, Passerouge, Braisillon, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Brutalibré-0, Brutalibré-1, Sonistrelle, Bruyverne, Yveltal
+404	Plaie Croix	Dardargnan-0, Dardargnan-1, Insécateur, Scarabrute-0, Scarabrute-1, Mimigal, Migalos, Cizayox-0, Cizayox-1, Airmure-0, Airmure-1, Ténéfix-0, Ténéfix-1, Absol-0, Absol-1, Phyllali, Gallame-0, Gallame-1, Rototaupe, Minotaupe-0, Minotaupe-1, Brutapode-0, Brutapode-1, Opermine, Golgopathe-0, Golgopathe-1, Brutalibré-0, Brutalibré-1, Desséliande
+405	Bourdon	Dardargnan-0, Dardargnan-1, Insécateur, Mimigal, Migalos, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19
+406	Draco-Choc	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Carapuce, Carabaffe, Tortank-0, Tortank-1, Onix, Léviator-0, Léviator-1, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Pharamp-0, Pharamp-1, Steelix-0, Steelix-1, Tyranocif-0, Tyranocif-1, Galeking-0, Galeking-1, Tylton, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Lucario-0, Lucario-1, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Iguolta, Ptyranidur, Rexillius, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Sonistrelle, Bruyverne, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Draïeul-0, Draïeul-1
+407	Draco-Charge	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Léviator-0, Léviator-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Tylton, Altaria-0, Altaria-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Yveltal, Draïeul-0, Draïeul-1
+408	Rayon Gemme	Flagadoss-0, Flagadoss-1, Stari, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Roigada-0, Roigada-1, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Strassie, Diancie-0, Diancie-1
+409	Vampi-Poing	
+410	Onde Vide	
+411	Exploforce	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Mélodelfe-0, Mélodelfe-1, Alakazam-0, Alakazam-1, Machoc, Machopeur, Mackogneur, Flagadoss-0, Flagadoss-1, Flagadoss-2, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Scarabrute-0, Scarabrute-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pharamp-0, Pharamp-1, Roigada-0, Roigada-1, Scarhino-0, Scarhino-1, Gardevoir-0, Gardevoir-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Méditikka, Charmina-0, Charmina-1, Lockpin-0, Lockpin-1, Riolu, Lucario-0, Lucario-1, Blizzaroi-0, Blizzaroi-1, Grotichon, Roitiflam-0, Roitiflam-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Minotaupe-0, Minotaupe-1, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Miasmax, Goupelin-0, Goupelin-1, Pandarbare, Golgopathe-0, Golgopathe-1, Kravarech-0, Kravarech-1, Gamblast, Iguolta, Brutalibré-0, Brutalibré-1, Muplodocus-0, Desséliande, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Hoopa-0, Hoopa-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+412	Éco-Sphère	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Rosélia, Rozbouton, Roserade, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Gallame-0, Gallame-1, Feuillajou, Feuiloutan, Emolga, Funécire, Mélancolux, Lugulabre-0, Lugulabre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Cabriolaine, Chevroum, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Brocélôme, Desséliande, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Hoopa-0, Hoopa-1, Draïeul-0, Draïeul-1
+413	Rapace	Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Airmure-0, Airmure-1, Tylton, Altaria-0, Altaria-1, Flambusard, Brutalibré-0, Brutalibré-1
+414	Telluriforce	Florizarre-0, Florizarre-1, Ptéra-0, Ptéra-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Germignon, Macronium, Méganium-0, Méganium-1, Steelix-0, Steelix-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Galekid, Galegon, Galeking-0, Galeking-1, Chamallot, Camérupt-0, Camérupt-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Blizzaroi-0, Blizzaroi-1, Minotaupe-0, Minotaupe-1, Mascaïman, Escroco, Crocorible, Limonde-0, Limonde-1, Sapereau, Excavarenne, Hélionceau, Némélios-0, Némélios-1, Mistigrix-1, Ptyranidur, Rexillius, Amagara, Dragmara, Strassie, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion, Draïeul-0, Draïeul-1
+415	Passe-Passe	
+416	Giga Impact	Florizarre-0, Florizarre-1, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Tortank-0, Tortank-1, Dardargnan-0, Dardargnan-1, Roucarnage-0, Roucarnage-1, Arbok, Raichu-0, Raichu-1, Mélodelfe-0, Mélodelfe-1, Mackogneur, Empiflor-0, Empiflor-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Staross-0, Staross-1, Insécateur, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Aquali, Voltali, Pyroli, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Méganium-0, Méganium-1, Aligatueur-0, Aligatueur-1, Migalos, Pharamp-0, Pharamp-1, Mentali, Noctali, Roigada-0, Roigada-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Cadoizo, Airmure-0, Airmure-1, Démolosse-0, Démolosse-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Galeking-0, Galeking-1, Charmina-0, Charmina-1, Élecsprint-0, Élecsprint-1, Sharpedo-0, Sharpedo-1, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Branette-0, Branette-1, Absol-0, Absol-1, Oniglali-0, Oniglali-1, Drattak-0, Drattak-1, Métalosse-0, Métalosse-1, Roserade, Lockpin-0, Lockpin-1, Carchacrok-0, Carchacrok-1, Lucario-0, Lucario-1, Hippodocus, Blizzaroi-0, Blizzaroi-1, Phyllali, Givrali, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Roitiflam-0, Roitiflam-1, Miradar, Feuiloutan, Flamoutan, Flotoutan, Minotaupe-0, Minotaupe-1, Nanméouïe-0, Nanméouïe-1, Brutapode-0, Brutapode-1, Crocorible, Baggaïd-0, Baggaïd-1, Miasmax, Sorbouboul, Ohmassacre-0, Ohmassacre-1, Lugulabre-0, Lugulabre-1, Blindépique-0, Blindépique-1, Amphinobi-0, Amphinobi-1, Amphinobi-3, Excavarenne, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Némélios-0, Némélios-1, Chevroum, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Mistigrix-0, Mistigrix-1, Exagide-0, Exagide-1, Cocotine, Cupcanaille, Sepiatroce-0, Sepiatroce-1, Golgopathe-0, Golgopathe-1, Iguolta, Rexillius, Dragmara, Nymphali, Brutalibré-0, Brutalibré-1, Dedenne, Strassie, Muplodocus-0, Muplodocus-1, Trousselin, Desséliande, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Séracrawl-0, Séracrawl-1, Bruyverne, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Draïeul-0, Draïeul-1, Hexadron-0, Hexadron-1
+417	Machination	Pikachu-0, Raichu-0, Raichu-1, Alakazam-0, Alakazam-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Roigada-0, Roigada-1, Malosse, Démolosse-0, Démolosse-1, Ténéfix-0, Ténéfix-1, Polichombr, Branette-0, Branette-1, Riolu, Lucario-0, Lucario-1, Momartik-0, Momartik-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Goupelin-0, Goupelin-1, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Sepiatop, Sepiatroce-0, Sepiatroce-1, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Hoopa-0, Hoopa-1
+418	Pisto-Poing	Machoc, Machopeur, Mackogneur, Cizayox-0, Cizayox-1, Méditikka, Charmina-0, Charmina-1, Métang, Métalosse-0, Métalosse-1, Riolu, Lucario-0, Lucario-1, Pandarbare
+419	Avalanche	
+420	Éclats Glace	Cadoizo, Stalgamin, Oniglali-0, Oniglali-1, Blizzi, Blizzaroi-0, Blizzaroi-1, Givrali, Momartik-0, Momartik-1
+421	Griffe Ombre	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Spectrum, Ectoplasma-0, Ectoplasma-1, Kangourex-0, Kangourex-1, Scarhino-0, Scarhino-1, Tyranocif-0, Tyranocif-1, Ténéfix-0, Ténéfix-1, Galekid, Galegon, Galeking-0, Galeking-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Mascaïman, Escroco, Crocorible, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Pandespiègle, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Opermine, Golgopathe-0, Golgopathe-1, Brocélôme, Desséliande, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Sonistrelle, Bruyverne, Yveltal, Draïeul-0, Draïeul-1
+422	Crocs Éclair	Abo, Arbok, Voltali, Ptéra-0, Ptéra-1, Steelix-0, Steelix-1, Démolosse-0, Démolosse-1, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Dynavolt, Élecsprint-0, Élecsprint-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Mascaïman, Escroco, Crocorible, Lampéroie, Ohmassacre-0, Ohmassacre-1, Hélionceau, Némélios-0, Némélios-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Ptyranidur, Rexillius, Volcanion
+423	Crocs Givre	Abo, Arbok, Léviator-0, Léviator-1, Ptéra-0, Ptéra-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Steelix-0, Steelix-1, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Dynavolt, Élecsprint-0, Élecsprint-1, Carvanha, Sharpedo-0, Sharpedo-1, Stalgamin, Oniglali-0, Oniglali-1, Hippopotas, Hippodocus, Givrali, Momartik-0, Momartik-1, Limonde-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Ptyranidur, Rexillius, Grelaçon, Séracrawl-0, Séracrawl-1
+424	Crocs Feu	Salamèche, Reptincel, Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Abo, Arbok, Pyroli, Ptéra-0, Ptéra-1, Steelix-0, Steelix-1, Malosse, Démolosse-0, Démolosse-1, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Dynavolt, Élecsprint-0, Élecsprint-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Mascaïman, Escroco, Crocorible, Hélionceau, Némélios-0, Némélios-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Ptyranidur, Rexillius, Volcanion
+425	Ombre Portée	Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Mimigal, Migalos, Ténéfix-0, Ténéfix-1, Polichombr, Branette-0, Branette-1, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Monorpale, Dimoclès, Exagide-0, Exagide-1, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+426	Boue-Bombe	
+427	Coupe Psycho	Kadabra, Alakazam-0, Alakazam-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Métang, Métalosse-0, Métalosse-1, Gallame-0, Gallame-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Sepiatop, Sepiatroce-0, Sepiatroce-1
+428	Psykoud’Boul	Carapuce, Carabaffe, Tortank-0, Tortank-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Méditikka, Charmina-0, Charmina-1, Carvanha, Sharpedo-0, Sharpedo-1, Chamallot, Camérupt-0, Camérupt-1, Polichombr, Branette-0, Branette-1, Absol-0, Absol-1, Draby, Drackhaus, Drattak-0, Drattak-1, Terhal, Métang, Métalosse-0, Métalosse-1, Riolu, Lucario-0, Lucario-1, Gallame-0, Gallame-1, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Nanméouïe-0, Nanméouïe-1, Baggiguane, Baggaïd-0, Baggaïd-1, Ohmassacre-0, Ohmassacre-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Goupelin-0, Goupelin-1, Cabriolaine, Chevroum, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Dimoclès, Exagide-0, Exagide-1, Sepiatop, Sepiatroce-0, Sepiatroce-1, Ptyranidur, Rexillius, Amagara, Dragmara, Brutalibré-0, Brutalibré-1, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Hoopa-0, Hoopa-1, Hexadron-0, Hexadron-1
+429	Miroi-Tir	
+430	Luminocanon	Tortank-0, Tortank-1, Stari, Staross-0, Staross-1, Pharamp-0, Pharamp-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Airmure-0, Airmure-1, Mysdibule-0, Mysdibule-1, Chamallot, Camérupt-0, Camérupt-1, Métang, Métalosse-0, Métalosse-1, Lucario-0, Lucario-1, Sorbébé, Sorboul, Sorbouboul, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-1, Monorpale, Dimoclès, Exagide-0, Exagide-1, Fluvetin, Cocotine, Flingouste, Gamblast, Amagara, Dragmara, Strassie, Muplodocus-1, Trousselin, Séracrawl-0, Séracrawl-1, Xerneas, Diancie-0, Diancie-1, Volcanion
+431	Escalade	
+432	Anti-Brume	
+433	Distorsion	
+434	Draco-Météore	Minidraco, Draco, Dracolosse-0, Dracolosse-1, Altaria-0, Altaria-1, Draby, Drackhaus, Drattak-0, Drattak-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Kravarech-0, Kravarech-1, Ptyranidur, Rexillius, Mucuscule, Colimucus-0, Colimucus-1, Muplodocus-0, Muplodocus-1, Sonistrelle, Bruyverne, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Draïeul-0, Draïeul-1
+435	Coup d’Jus	Pikachu-0, Raichu-0, Raichu-1, Voltali, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Dynavolt, Élecsprint-0, Élecsprint-1, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0, Galvaran, Iguolta, Dedenne
+436	Ébullilave	Pyroli, Chamallot, Camérupt-0, Camérupt-1
+437	Tempête Verte	Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Germignon, Macronium, Méganium-0, Méganium-1, Rosélia, Roserade, Blizzi, Blizzaroi-0, Blizzaroi-1, Phyllali, Feuillajou, Feuiloutan
+438	Mégafouet	Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Muplodocus-0, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+439	Roc-Boulet	
+440	Poison Croix	
+441	Détricanon	Abo, Arbok, Flagadoss-2, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Roigada-1, Cadoizo, Polichombr, Branette-0, Branette-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Brutapode-0, Brutapode-1, Crocorible, Miamiasme, Miasmax, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Excavarenne, Pandarbare, Venalgue, Kravarech-0, Kravarech-1, Hoopa-0, Hoopa-1
+442	Tête de Fer	Carapuce, Carabaffe, Tortank-0, Tortank-1, Onix, Léviator-0, Léviator-1, Ptéra-0, Ptéra-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Steelix-0, Steelix-1, Cizayox-0, Cizayox-1, Airmure-0, Airmure-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Chamallot, Camérupt-0, Camérupt-1, Oniglali-0, Oniglali-1, Draby, Drackhaus, Drattak-0, Drattak-1, Terhal, Métang, Métalosse-0, Métalosse-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippodocus, Roitiflam-0, Roitiflam-1, Minotaupe-0, Minotaupe-1, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Pandarbare, Monorpale, Dimoclès, Exagide-0, Exagide-1, Ptyranidur, Rexillius, Amagara, Dragmara, Brutalibré-0, Brutalibré-1, Strassie, Colimucus-1, Muplodocus-1, Séracrawl-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Hexadron-0, Hexadron-1
+443	Bombe Aimant	
+444	Lame de Roc	Mackogneur, Onix, Scarabrute-0, Scarabrute-1, Léviator-0, Léviator-1, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Steelix-0, Steelix-1, Scarhino-0, Scarhino-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galegon, Galeking-0, Galeking-1, Chamallot, Camérupt-0, Camérupt-1, Absol-0, Absol-1, Drattak-0, Drattak-1, Métalosse-0, Métalosse-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Lucario-0, Lucario-1, Hippopotas, Hippodocus, Gallame-0, Gallame-1, Grotichon, Roitiflam-0, Roitiflam-1, Mascaïman, Escroco, Crocorible, Baggiguane, Baggaïd-0, Baggaïd-1, Limonde-0, Limonde-1, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Pandespiègle, Pandarbare, Opermine, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Amagara, Dragmara, Brutalibré-0, Brutalibré-1, Strassie, Grelaçon, Séracrawl-0, Séracrawl-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion
+445	Séduction	
+446	Piège de Roc	Mélofée, Mélodelfe-0, Mélodelfe-1, Onix, Scarabrute-0, Scarabrute-1, Ptéra-0, Ptéra-1, Mélo, Steelix-0, Steelix-1, Airmure-0, Airmure-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Mysdibule-0, Mysdibule-1, Galekid, Galegon, Galeking-0, Galeking-1, Chamallot, Camérupt-0, Camérupt-1, Métang, Métalosse-0, Métalosse-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Hippopotas, Hippodocus, Minotaupe-0, Minotaupe-1, Mascaïman, Escroco, Crocorible, Limonde-0, Limonde-1, Mistigrix-0, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Ptyranidur, Rexillius, Amagara, Dragmara, Strassie, Séracrawl-1, Diancie-0, Diancie-1
+447	Nœud Herbe	
+448	Babil	
+449	Jugement	
+450	Piqûre	
+451	Rayon Chargé	
+452	Martobois	Blizzi, Blizzaroi-0, Blizzaroi-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Brocélôme, Desséliande
+453	Aqua-Jet	Carapuce, Carabaffe, Tortank-0, Tortank-1, Stari, Staross-0, Staross-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Carvanha, Sharpedo-0, Sharpedo-1, Flingouste, Gamblast
+454	Appel Attaque	
+455	Appel Défense	
+456	Appel Soins	
+457	Fracass’Tête	Onix, Steelix-0, Steelix-1, Galekid, Galegon, Galeking-0, Galeking-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Baggiguane, Baggaïd-0, Baggaïd-1, Exagide-0, Exagide-1, Rexillius
+458	Coup Double	
+459	Hurle-Temps	
+460	Spatio-Rift	
+461	Danse Lune	
+462	Presse	
+463	Vortex Magma	
+464	Trou Noir	
+465	Fulmigraine	
+466	Vent Mauvais	
+467	Revenant	
+468	Aiguisage	
+469	Garde Large	
+470	Partage Garde	
+471	Partage Force	
+472	Zone Étrange	
+473	Choc Psy	Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Kadabra, Alakazam-0, Alakazam-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Staross-0, Staross-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mélo, Mentali, Roigada-0, Roigada-1, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Méditikka, Charmina-0, Charmina-1, Métang, Métalosse-0, Métalosse-1, Gallame-0, Gallame-1, Nanméouïe-0, Nanméouïe-1, Feunnec, Roussil, Goupelin-0, Goupelin-1, Amphinobi-0, Amphinobi-1, Amphinobi-3, Psystigri, Mistigrix-0, Mistigrix-1, Cocotine, Sepiatop, Sepiatroce-0, Sepiatroce-1, Nymphali, Trousselin, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1
+474	Choc Venin	
+475	Allègement	
+476	Poudre Fureur	
+477	Lévikinésie	
+478	Zone Magique	
+479	Anti-Air	
+480	Yama Arashi	
+481	Rebondifeu	
+482	Cradovague	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Spectrum, Ectoplasma-0, Ectoplasma-1, Roigada-1, Miamiasme, Miasmax, Limonde-0, Limonde-1, Venalgue, Kravarech-0, Kravarech-1, Muplodocus-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+483	Papillodanse	
+484	Tacle Lourd	Mackogneur, Steelix-0, Steelix-1, Tyranocif-0, Tyranocif-1, Galekid, Galegon, Galeking-0, Galeking-1, Métalosse-0, Métalosse-1, Hippodocus, Muplodocus-1, Séracrawl-0, Séracrawl-1, Volcanion
+485	Synchropeine	
+486	Boule Élek	
+487	Détrempage	
+488	Nitrocharge	
+489	Enroulement	
+490	Balayette	
+491	Bombe Acide	
+492	Tricherie	
+493	Rayon Simple	
+494	Ten-Danse	
+495	Après Vous	
+496	Chant Canon	
+497	Écho	
+498	Attrition	
+499	Bain de Smog	
+500	Force Ajoutée	
+501	Prévention	
+502	Interversion	
+503	Ébullition	
+504	Exuviation	
+505	Vibra Soin	
+506	Châtiment	
+507	Chute Libre	
+508	Change-Vitesse	
+509	Projection	
+510	Calcination	
+511	À la Queue	
+512	Acrobatie	
+513	Copie-Type	
+514	Vengeance	
+515	Tout ou Rien	
+516	Passe-Cadeau	
+517	Feu d’Enfer	
+518	Aire d’Eau	
+519	Aire de Feu	
+520	Aire d’Herbe	
+521	Change-Éclair	Pikachu-0, Raichu-0, Raichu-1, Voltali, Pichu, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Dynavolt, Élecsprint-0, Élecsprint-1, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Galvaran, Iguolta, Dedenne
+522	Survinsecte	
+523	Piétisol	Abo, Arbok, Machoc, Machopeur, Mackogneur, Kangourex-0, Kangourex-1, Léviator-0, Léviator-1, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Scarhino-0, Scarhino-1, Embrylex, Ymphect, Tyranocif-0, Tyranocif-1, Galekid, Galegon, Galeking-0, Galeking-1, Chamallot, Camérupt-0, Camérupt-1, Altaria-0, Altaria-1, Griknot, Carmache, Carchacrok-0, Carchacrok-1, Riolu, Lucario-0, Lucario-1, Rototaupe, Minotaupe-0, Minotaupe-1, Mascaïman, Escroco, Crocorible, Ohmassacre-0, Ohmassacre-1, Limonde-0, Limonde-1, Marisson, Boguérisse, Blindépique-0, Blindépique-1, Sapereau, Excavarenne, Cabriolaine, Chevroum, Pandespiègle, Pandarbare, Opermine, Golgopathe-0, Golgopathe-1, Galvaran, Iguolta, Ptyranidur, Rexillius, Amagara, Dragmara, Muplodocus-0, Muplodocus-1, Grelaçon, Séracrawl-0, Séracrawl-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+524	Souffle Glacé	
+525	Draco-Queue	
+526	Rengorgement	Bulbizarre, Herbizarre, Florizarre-0, Florizarre-1, Carapuce, Carabaffe, Tortank-0, Tortank-1, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Machoc, Machopeur, Mackogneur, Kangourex-0, Kangourex-1, Germignon, Macronium, Méganium-0, Méganium-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Mélo, Scarhino-0, Scarhino-1, Méditikka, Charmina-0, Charmina-1, Laporeille, Lockpin-0, Lockpin-1, Riolu, Lucario-0, Lucario-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Ratentif, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Baggiguane, Baggaïd-0, Baggaïd-1, Hélionceau, Némélios-0, Némélios-1, Pandespiègle, Pandarbare, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Psystigri, Mistigrix-0, Mistigrix-1, Draïeul-0, Draïeul-1
+527	Toile Élek	Aspicot, Coconfort, Dardargnan-0, Dardargnan-1, Pikachu-0, Raichu-0, Raichu-1, Voltali, Mimigal, Migalos, Pichu, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Emolga, Ohmassacre-0, Ohmassacre-1, Limonde-0, Galvaran, Iguolta
+528	Éclair Fou	Pikachu-0, Raichu-0, Raichu-1, Voltali, Pichu, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Dynavolt, Élecsprint-0, Élecsprint-1, Gruikui, Grotichon, Roitiflam-0, Roitiflam-1, Nanméouïe-0, Nanméouïe-1, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Sapereau, Excavarenne, Hélionceau, Némélios-0, Némélios-1, Cabriolaine, Chevroum, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Galvaran, Iguolta, Dedenne, Sonistrelle, Bruyverne, Volcanion
+529	Tunnelier	Dardargnan-0, Dardargnan-1, Airmure-0, Airmure-1, Rototaupe, Minotaupe-0, Minotaupe-1
+530	Double Baffe	
+531	Crève-Cœur	
+532	Encornebois	Cabriolaine, Chevroum, Brocélôme, Desséliande, Xerneas
+533	Lame Sainte	
+534	Coqui-Lame	
+535	Tacle Feu	Chamallot, Camérupt-0, Camérupt-1, Roitiflam-0, Roitiflam-1, Volcanion
+536	Phytomixeur	
+537	Bulldoboule	
+538	Cotogarde	Wattouat, Lainergie, Pharamp-0, Pharamp-1, Tylton, Altaria-0, Altaria-1, Laporeille, Lockpin-0, Lockpin-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Sucroquin, Cupcanaille
+539	Explonuit	
+540	Frappe Psy	Mewtwo-0, Mewtwo-1, Mewtwo-2
+541	Plumo-Queue	
+542	Vent Violent	Dracaufeu-0, Dracaufeu-1, Dracaufeu-2, Roucool, Roucoups, Roucarnage-0, Roucarnage-1, Léviator-0, Léviator-1, Ptéra-0, Ptéra-1, Dracolosse-0, Dracolosse-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Airmure-0, Airmure-1, Tylton, Altaria-0, Altaria-1, Drattak-0, Drattak-1, Passerouge, Braisillon, Flambusard, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Sonistrelle, Bruyverne, Yveltal, Draïeul-0, Draïeul-1
+543	Peignée	
+544	Lancécrou	
+545	Incendie	
+546	Techno-Buster	
+547	Chant Antique	
+548	Lame Ointe	
+549	Ère Glaciaire	
+550	Charge Foudre	
+551	Flamme Bleue	
+552	Danse du Feu	
+553	Éclair Gelé	
+554	Feu Glacé	
+555	Aboiement	Noctali, Démolosse-0, Démolosse-1, Dynavolt, Élecsprint-0, Élecsprint-1, Hélionceau, Némélios-0, Némélios-1, Couafarel-0, Couafarel-1, Couafarel-2, Couafarel-3, Couafarel-4, Couafarel-5, Couafarel-6, Couafarel-7, Couafarel-8, Couafarel-9, Yveltal
+556	Chute Glace	Stalgamin, Oniglali-0, Oniglali-1, Momartik-0, Momartik-1, Sorbébé, Sorboul, Sorbouboul, Séracrawl-0
+557	Coup Victoire	
+558	Flamme Croix	
+559	Éclair Croix	
+560	Flying Press	Brutalibré-0, Brutalibré-1
+561	Tatamigaeshi	
+562	Éructation	
+563	Fertilisation	
+564	Toile Gluante	Mimigal, Migalos, Sucroquin, Cupcanaille
+565	Dard Mortel	
+566	Hantise	Spectrum, Ectoplasma-0, Ectoplasma-1, Ténéfix-0, Ténéfix-1, Polichombr, Branette-0, Branette-1, Momartik-0, Momartik-1, Brocélôme, Desséliande, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Yveltal, Hoopa-0, Hoopa-1
+567	Halloween	Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+568	Râle Mâle	
+569	Déluge Plasmique	
+570	Parabocharge	Galvaran, Iguolta, Dedenne
+571	Maléfice Sylvain	Brocélôme, Desséliande
+572	Tempête Florale	
+573	Lyophilisation	Cadoizo, Oniglali-0, Oniglali-1, Givrali, Sorbouboul, Amagara, Dragmara
+574	Voix Enjôleuse	Mélofée, Mélodelfe-0, Mélodelfe-1, Évoli-0, Aquali, Voltali, Pyroli, Germignon, Macronium, Méganium-0, Méganium-1, Mélo, Mentali, Noctali, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Tylton, Altaria-0, Altaria-1, Phyllali, Givrali, Gallame-0, Gallame-1, Nanméouïe-0, Nanméouïe-1, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Psystigri, Mistigrix-0, Mistigrix-1, Fluvetin, Cocotine, Nymphali
+575	Dernier Mot	Ténéfix-0, Ténéfix-1, Baggiguane, Baggaïd-0, Baggaïd-1, Pandespiègle, Pandarbare
+576	Renversement	Sepiatop, Sepiatroce-0, Sepiatroce-1
+577	Vampibaiser	Mélofée, Mélodelfe-0, Mélodelfe-1, Mélo, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Mysdibule-0, Mysdibule-1, Laporeille, Lockpin-0, Lockpin-1, Gallame-0, Gallame-1, Momartik-0, Momartik-1, Nanméouïe-0, Nanméouïe-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Nymphali, Trousselin, Diancie-0, Diancie-1
+578	Vigilance	
+579	Garde Florale	
+580	Champ Herbu	
+581	Champ Brumeux	
+582	Électrisation	
+583	Câlinerie	Pikachu-0, Raichu-0, Raichu-1, Mélofée, Mélodelfe-0, Mélodelfe-1, Pichu, Mélo, Mysdibule-0, Mysdibule-1, Tylton, Altaria-0, Altaria-1, Absol-0, Absol-1, Laporeille, Lockpin-0, Lockpin-1, Cabriolaine, Chevroum, Psystigri, Mistigrix-0, Mistigrix-1, Sucroquin, Cupcanaille, Venalgue, Kravarech-0, Kravarech-1, Ptyranidur, Rexillius, Dedenne, Trousselin, Xerneas, Diancie-0, Diancie-1, Draïeul-0, Draïeul-1
+584	Vent Féérique	Mélofée, Mélodelfe-0, Mélodelfe-1, Mélo, Mysdibule-0, Mysdibule-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Trousselin
+585	Pouvoir Lunaire	Mélofée, Mélodelfe-0, Mélodelfe-1, Mélo, Gardevoir-0, Gardevoir-1, Tylton, Altaria-0, Altaria-1, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Fluvetin, Cocotine, Nymphali, Strassie, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3, Xerneas, Diancie-0, Diancie-1
+586	Bang Sonique	Bruyverne
+587	Verrou Enchanté	
+588	Bouclier Royal	Exagide-0, Exagide-1
+589	Camaraderie	
+590	Confidence	
+591	Orage Adamantin	Diancie-0, Diancie-1
+592	Jet de Vapeur	Volcanion
+593	TrouDimensionnel	Hoopa-0
+594	Sheauriken	Amphinobi-0, Amphinobi-1, Amphinobi-3
+595	Feu Ensorcelé	Mélofée, Mélodelfe-0, Mélodelfe-1, Mélo, Tarsal, Kirlia, Gardevoir-0, Gardevoir-1, Gallame-0, Gallame-1, Goupelin-0, Goupelin-1, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+596	Pico-Défense	Blindépique-0, Blindépique-1
+597	Brume Capiteuse	
+598	Ondes Étranges	Raichu-0, Raichu-1, Voltali, Pharamp-0, Pharamp-1, Dynavolt, Élecsprint-0, Élecsprint-1, Emolga, Lampéroie, Ohmassacre-0, Ohmassacre-1, Limonde-0, Dedenne
+599	Piège de Venin	
+600	Nuée de Poudre	
+601	Géo-Contrôle	Xerneas
+602	Magné-Contrôle	
+603	Étrennes	
+604	Champ Électrifié	
+605	Éclat Magique	Mélofée, Mélodelfe-0, Mélodelfe-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Fantominus, Spectrum, Ectoplasma-0, Ectoplasma-1, Stari, Staross-0, Staross-1, Germignon, Macronium, Méganium-0, Méganium-1, Mélo, Wattouat, Lainergie, Pharamp-0, Pharamp-1, Mentali, Gardevoir-0, Gardevoir-1, Ténéfix-0, Ténéfix-1, Mysdibule-0, Mysdibule-1, Rosélia, Tylton, Altaria-0, Altaria-1, Polichombr, Branette-0, Branette-1, Rozbouton, Roserade, Gallame-0, Gallame-1, Nanméouïe-0, Nanméouïe-1, Goupelin-0, Goupelin-1, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Fluvetin, Cocotine, Sucroquin, Cupcanaille, Nymphali, Dedenne, Strassie, Trousselin, Xerneas, Diancie-0, Diancie-1
+606	Célébration	
+607	Mains Jointes	
+608	Regard Touchant	
+609	Frotte-Frimousse	Pikachu-0, Raichu-0, Raichu-1, Pichu, Emolga, Dedenne
+610	Retenue	
+611	Harcèlement	Chétiflor, Boustiflor, Empiflor-0, Empiflor-1, Mimigal, Migalos, Venipatte, Scobolide, Brutapode-0, Brutapode-1, Pérégrain-0, Pérégrain-1, Pérégrain-2, Pérégrain-3, Pérégrain-4, Pérégrain-5, Pérégrain-6, Pérégrain-7, Pérégrain-8, Pérégrain-9, Pérégrain-10, Pérégrain-11, Pérégrain-12, Pérégrain-13, Pérégrain-14, Pérégrain-15, Pérégrain-16, Pérégrain-17, Pérégrain-18, Pérégrain-19, Prismillon-0, Prismillon-1, Prismillon-2, Prismillon-3, Prismillon-4, Prismillon-5, Prismillon-6, Prismillon-7, Prismillon-8, Prismillon-9, Prismillon-10, Prismillon-11, Prismillon-12, Prismillon-13, Prismillon-14, Prismillon-15, Prismillon-16, Prismillon-17, Prismillon-18, Prismillon-19, Opermine, Golgopathe-0, Golgopathe-1
+612	Poing Boost	Machoc, Machopeur, Mackogneur, Kangourex-0, Kangourex-1, Mysdibule-0, Mysdibule-1, Méditikka, Charmina-0, Charmina-1, Métang, Métalosse-0, Métalosse-1, Laporeille, Lockpin-0, Lockpin-1, Lucario-0, Lucario-1, Grotichon, Roitiflam-0, Roitiflam-1, Miradar, Feuillajou, Feuiloutan, Flamajou, Flamoutan, Flotajou, Flotoutan, Nanméouïe-0, Nanméouïe-1, Baggiguane, Baggaïd-0, Baggaïd-1, Pandarbare, Opermine, Golgopathe-0, Golgopathe-1
+613	Mort’Ailes	Yveltal
+614	Myria-Flèches	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+615	Myria-Vagues	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+616	Force Chtonienne	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+617	Lumière du Néant	Floette-5, Floette-6
+618	Onde Originelle	
+619	Lame Pangéenne	
+620	Draco-Ascension	
+621	Furie Dimension	Hoopa-1
+622		
+623		
+624		
+625		
+626		
+627		
+628		
+629		
+630		
+631		
+632		
+633		
+634		
+635		
+636		
+637		
+638		
+639		
+640		
+641		
+642		
+643		
+644		
+645		
+646		
+647		
+648		
+649		
+650		
+651		
+652		
+653		
+654		
+655		
+656		
+657		
+658		
+659	Amass’Sable	
+660	Escarmouche	
+661	Blockhaus	
+662	Tisse Ombre	
+663	Dark Lariat	
+664	Aria de l’Écume	
+665	Marteau de Glace	
+666	Soin Floral	
+667	Cavalerie Lourde	
+668	Vole-Force	
+669	Lame Solaire	
+670	Feuillage	Germignon, Macronium, Méganium-0, Méganium-1, Blizzi, Blizzaroi-0, Blizzaroi-1
+671	Projecteur	
+672	Fil Toxique	
+673	Affilage	
+674	Engrenage	
+675	Exécu-Son	
+676	Boule Pollen	
+677	Ancrage	
+678	Champ Psychique	
+679	Furie-Bond	Dardargnan-0, Dardargnan-1, Boustiflor, Empiflor-0, Empiflor-1, Insécateur, Scarabrute-0, Scarabrute-1, Mimigal, Migalos, Cizayox-0, Cizayox-1, Scarhino-0, Scarhino-1, Brutalibré-0, Brutalibré-1
+680	Fouet de Feu	
+681	Arrogance	
+682	Flamme Ultime	
+683	Permuvitesse	
+684	Estocorne	
+685	Purification	
+686	Danse Éveil	
+687	Sanction Suprême	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+688	Botte Sucrette	
+689	Sommation	
+690	Bec-Canon	
+691	Vibrécaille	
+692	Draco-Marteau	
+693	Centrifugifle	Dardargnan-0, Dardargnan-1, Abo, Arbok, Machoc, Machopeur, Mackogneur, Insécateur, Scarabrute-0, Scarabrute-1, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Cizayox-0, Cizayox-1, Métalosse-0, Métalosse-1, Laporeille, Lockpin-0, Lockpin-1, Miamiasme, Miasmax, Sapereau, Excavarenne, Pandarbare, Pitrouille-0, Pitrouille-1, Pitrouille-2, Pitrouille-3, Banshitrouye-0, Banshitrouye-1, Banshitrouye-2, Banshitrouye-3
+694	Voile Aurore	
+695		
+696		
+697		
+698		
+699		
+700		
+701		
+702		
+703		
+704	Carapiège	
+705	Canon Floral	
+706	Psycho-Croc	
+707	Trépignement	
+708	Os Ombre	
+709	Vif Roc	
+710	Aqua-Brèche	Carapuce, Carabaffe, Tortank-0, Tortank-1, Ramoloss-0, Ramoloss-1, Flagadoss-0, Flagadoss-1, Flagadoss-2, Staross-0, Staross-1, Aquali, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Roigada-0, Roigada-1, Carvanha, Sharpedo-0, Sharpedo-1, Carchacrok-0, Carchacrok-1, Flotoutan, Ohmassacre-0, Ohmassacre-1, Grenousse, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Sepiatop, Sepiatroce-0, Sepiatroce-1, Opermine, Golgopathe-0, Golgopathe-1, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast, Volcanion
+711	Laser Prisme	
+712	Clepto-Mânes	
+713	Choc Météore	
+714	Rayon Spectral	
+715	Larme à l’Œil	
+716	Électrikipik	
+717	Ire de la Nature	
+718	Coup Varia-Type	
+719		
+720	Caboche-Kaboum	
+721	Plasma Punch	
+722	Photo-Geyser	
+723		
+724		
+725		
+726		
+727		
+728		
+729	Pika-Sprint	
+730	Pika-Splash	
+731	Pika-Piqué	
+732	Pika-Fracas	
+733	Évo-Thalasso	
+734	Évo-Dynamo	
+735	Évo-Flambo	
+736	Évo-Psycho	
+737	Évo-Ténébro	
+738	Évo-Écolo	
+739	Évo-Congélo	
+740	Évo-Fabulo	
+741	Évo-Chardasso	
+742	Écrous d’Poing	
+743	Gardomax	
+744	Canon Dynamax	
+745	Tir de Précision	
+746	Croque Fort	
+747	Garde-à-Joues	
+748	Ultime Bastion	Hexadron-0, Hexadron-1
+749	Goudronnage	
+750	Poudre Magique	
+751	Draco-Flèches	
+752	Thérémonie	
+753	Octoprise	
+754	Prise de Bec	
+755	Branchicrok	
+756	Change-Côté	
+757	Pyromax	
+758	Insectomax	
+759	Fulguromax	
+760	Normalomax	
+761	Pugilomax	
+762	Spectromax	
+763	Cryomax	
+764	Toxinomax	
+765	Hydromax	
+766	Aéromax	
+767	Enchantomax	
+768	Dracomax	
+769	Psychomax	
+770	Lithomax	
+771	Sismomax	
+772	Sinistromax	
+773	Phytomax	
+774	Métallomax	
+775	Dracacophonie	
+776	Big Splash	
+777	Nappage	
+778	Tambour Battant	
+779	Troquenard	
+780	Ballon Brûlant	
+781	Gladius Maximus	
+782	Aegis Maxima	
+783	Roue Libre	
+784	Abattage	Onix, Minidraco, Draco, Dracolosse-0, Dracolosse-1, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Pharamp-0, Pharamp-1, Steelix-0, Steelix-1, Crocorible, Galvaran, Iguolta, Rexillius, Muplodocus-0, Muplodocus-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+785	Tapotige	
+786	Overdrive	
+787	Acide Malique	
+788	Force G	
+789	Choc Émotionnel	
+790	Vapeur Féérique	
+791	Fontaine de Vie	
+792	Blocage	
+793	Fourbette	
+794	Joute Astrale	
+795	Laser Infinimax	
+796	Métalaser	
+797	Vaste Pouvoir	
+798	Métalliroue	
+799	Rafale Écailles	
+800	Laser Météore	
+801	Kokiyarme	
+802	Explo-Brume	
+803	Gliss’Herbe	
+804	Monte-Tension	
+805	Champlification	
+806	Ravage Rampant	
+807	Feu Envieux	
+808	Cent Rancunes	
+809	Esprit Frappeur	
+810	Gaz Corrosif	
+811	Coaching	
+812	Eau Revoir	Carapuce, Carabaffe, Tortank-0, Tortank-1, Stari, Staross-0, Staross-1, Aquali, Kaiminus, Crocrodil, Aligatueur-0, Aligatueur-1, Carvanha, Sharpedo-0, Sharpedo-1, Flotajou, Flotoutan, Croâporal, Amphinobi-0, Amphinobi-1, Amphinobi-3, Venalgue, Kravarech-0, Kravarech-1, Flingouste, Gamblast
+813	Triple Axel	
+814	Double Volée	
+815	Sable Ardent	
+816	Selve Salvatrice	
+817	Poing Obscur	
+818	Torrent de Coups	
+819	Voltageôle	
+820	Draco-Énergie	
+821	Regard Glaçant	
+822	Fureur Ardente	
+823	Coup Fulgurant	
+824	Lance de Glace	
+825	Éclat Spectral	
+826	Sort Sinistre	
+827	Griffes Funestes	
+828	Sprint Bouclier	
+829	Échange Force	
+830	Hache de Pierre	
+831	Typhon Passionné	
+832	Force Mystique	
+833	Grand Courroux	
+834	Aquatacle	
+835	Herblast	
+836	Bise Glaciaire	
+837	Danse Victoire	
+838	Assaut Frontal	
+839	Multitoxik	
+840	Ailes Psycho	
+841	Cœur de Rancœur	
+842	Mur Fumigène	
+843	Triple Flèche	
+844	Cortège Funèbre	
+845	Vagues à Lames	
+846	Typhon Hivernal	
+847	Typhon Fulgurant	
+848	Typhon Pyrosable	
+849	Prière Lunaire	
+850	Extravaillance	
+851	Téra Explosion	
+852	Piège de Fil	
+853	Talon-Marteau	
+854	Hommage Posthume	
+855	Lumino-Impact	
+856	Plat du Jour	
+857	Poing Sonique	
+858	Habanerage	
+859	Dérapage	
+860	Prolifération	
+861	Cryo-Pirouette	
+862	Charge Glaive	
+863	Second Souffle	
+864	Salaison	
+865	Triple Plongeon	
+866	Toupie Éclat	
+867	Décalquage	
+868	Décharnement	
+869	Génusection	
+870	Magie Florale	
+871	Chant Flamboyant	
+872	Danse Aquatique	
+873	Taurogne	
+874	Ruée d’Or	
+875	Lame Psychique	
+876	Hydrovapeur	
+877	Cataclysme	
+878	Nitro Crash	
+879	Turbo Volt	
+880	Queulonage	
+881	Neigeux de Mots	
+882	Grand Nettoyage	
+883	Chute de Neige	
+884	Bond	
+885	Désherbaffe	
+886	Douche Froide	
+887	Hyperceuse	
+888	Double Laser	
+889	Poing de Colère	
+890	Canon Blindé	
+891	Lame en Peine	
+892	Double Décharge	
+893	Marteau Mastoc	
+894	Vindicte	
+895	Tranch’Aqua	
+896	Crash Brûlant	
+897	Crash Obscur	
+898	Crash Toxique	
+899	Crash Musclé	
+900	Crash Magique	
+901	Lune Rouge	
+902	Mortier Matcha	
+903	Bombe au Sirop	
+904	Massue Liane	
+905	Fulgurayon	
+906	Pluie Térastrale	
+907	Laser Hasard	
+908	Rempart Brûlant	
+909	Vif Éclair	
+910	Lame Puissante	
+911	Lame Tachyonique	
+912	Pression Extrême	
+913	Cri Draconique	
+914	Voix Envoûtante	
+915	Indignition	
+916	Volt Assaut	
+917	Dissonance Psy	
+918	Prio-Parade	
+919	Chaîne Malsaine	
+920	Lux Nihilum	

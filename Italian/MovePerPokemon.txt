@@ -1,0 +1,921 @@
+000	-	
+001	Botta	
+002	Colpokarate	
+003	Doppiasberla	
+004	Cometapugno	
+005	Megapugno	
+006	Giornopaga	
+007	Fuocopugno	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Slowbro-2, Haunter, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Flaaffy, Ampharos-0, Ampharos-1, Slowking-1, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Buneary, Lopunny-0, Lopunny-1, Gallade-0, Gallade-1, Pignite, Emboar-0, Emboar-1, Watchog, Pansear, Simisear, Audino-0, Audino-1, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Braixen, Delphox-0, Delphox-1, Diggersby, Pancham, Pangoro, Heliolisk, Hawlucha-0, Hawlucha-1, Goodra-0, Goodra-1, Hoopa-0, Hoopa-1
+008	Gelopugno	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Slowbro-0, Slowbro-1, Haunter, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Flaaffy, Ampharos-0, Ampharos-1, Slowking-0, Delibird, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Metang, Metagross-0, Metagross-1, Buneary, Lopunny-0, Lopunny-1, Riolu, Lucario-0, Lucario-1, Snover, Abomasnow-0, Abomasnow-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Watchog, Panpour, Simipour, Audino-0, Audino-1, Scraggy, Scrafty-0, Scrafty-1, Frogadier, Greninja-0, Greninja-1, Greninja-3, Diggersby, Pancham, Pangoro, Hoopa-0, Hoopa-1
+009	Tuonopugno	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Slowbro-2, Haunter, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Ampharos-0, Ampharos-1, Slowking-1, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Metang, Metagross-0, Metagross-1, Buneary, Lopunny-0, Lopunny-1, Riolu, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Emboar-0, Emboar-1, Watchog, Audino-0, Audino-1, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Braixen, Delphox-0, Delphox-1, Diggersby, Pancham, Pangoro, Heliolisk, Hawlucha-0, Hawlucha-1, Dedenne, Goodra-0, Goodra-1, Hoopa-0, Hoopa-1
+010	Graffio	
+011	Presa	
+012	Ghigliottina	
+013	Ventagliente	
+014	Danzaspada	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Beedrill-0, Beedrill-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Scyther, Pinsir-0, Pinsir-1, Flareon, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Ariados, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Skarmory-0, Skarmory-1, Mawile-0, Mawile-1, Roselia, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Budew, Roserade, Lopunny-0, Lopunny-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Gallade-0, Gallade-1, Patrat, Watchog, Drilbur, Excadrill-0, Excadrill-1, Scolipede-0, Scolipede-1, Scrafty-0, Scrafty-1, Chesnaught-0, Chesnaught-1, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Fletchling, Fletchinder, Talonflame, Pancham, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Swirlix, Slurpuff, Binacle, Barbaracle-0, Barbaracle-1, Clauncher, Clawitzer, Hawlucha-0, Hawlucha-1, Falinks-0, Falinks-1
+015	Taglio	
+016	Raffica	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Noibat, Noivern, Yveltal
+017	Attacco d’Ala	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Scyther, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Scizor-0, Scizor-1, Skarmory-0, Skarmory-1, Emolga, Fletchinder, Talonflame, Hawlucha-0, Hawlucha-1, Noibat, Noivern
+018	Turbine	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Skarmory-0, Skarmory-1, Hippopotas, Hippowdon, Fletchling, Fletchinder, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Noibat, Noivern, Drampa-0, Drampa-1
+019	Volo	Charizard-0, Charizard-1, Charizard-2, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Delibird, Skarmory-0, Skarmory-1, Swablu, Altaria-0, Altaria-1, Salamence-0, Salamence-1, Fletchling, Fletchinder, Talonflame, Hawlucha-0, Hawlucha-1, Noibat, Noivern, Yveltal, Drampa-0, Drampa-1
+020	Legatutto	
+021	Schianto	
+022	Frustata	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Pansage, Simisage, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat
+023	Pestone	
+024	Doppiocalcio	
+025	Megacalcio	
+026	Calciosalto	
+027	Calciorullo	
+028	Turbosabbia	
+029	Bottintesta	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Clefairy, Clefable-0, Clefable-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Starmie-0, Starmie-1, Vaporeon, Jolteon, Flareon, Chikorita, Bayleef, Meganium-0, Meganium-1, Spinarak, Ariados, Cleffa, Slowking-0, Slowking-1, Heracross-0, Heracross-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Numel, Camerupt-0, Camerupt-1, Shuppet, Banette-0, Banette-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Beldum, Metang, Metagross-0, Metagross-1, Buneary, Lopunny-0, Lopunny-1, Froslass-0, Froslass-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Scraggy, Scrafty-0, Scrafty-1, Trubbish, Garbodor, Eelektrik, Eelektross-0, Eelektross-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Litleo, Pyroar-0, Pyroar-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Honedge, Doublade, Aegislash-0, Aegislash-1, Inkay, Malamar-0, Malamar-1, Falinks-0, Falinks-1
+030	Incornata	
+031	Furia	
+032	Perforcorno	
+033	Azione	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Ekans, Arbok, Clefairy, Clefable-0, Clefable-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Onix, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Pinsir-0, Pinsir-1, Magikarp, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Heracross-0, Heracross-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Aron, Lairon, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Numel, Camerupt-0, Camerupt-1, Beldum, Metang, Metagross-0, Metagross-1, Buneary, Lopunny-0, Lopunny-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Leafeon, Glaceon, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Vanillite, Vanillish, Vanilluxe, Tynamo, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0, Stunfisk-1, Fennekin, Braixen, Delphox-0, Delphox-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Scatterbug-0, Scatterbug-1, Scatterbug-2, Scatterbug-3, Scatterbug-4, Scatterbug-5, Scatterbug-6, Scatterbug-7, Scatterbug-8, Scatterbug-9, Scatterbug-10, Scatterbug-11, Scatterbug-12, Scatterbug-13, Scatterbug-14, Scatterbug-15, Scatterbug-16, Scatterbug-17, Scatterbug-18, Scatterbug-19, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Litleo, Pyroar-0, Pyroar-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Skrelp, Dragalge-0, Dragalge-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Carbink, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Klefki, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Bergmite, Avalugg-0, Avalugg-1, Noibat, Noivern, Xerneas, Diancie-0, Diancie-1, Falinks-0, Falinks-1
+034	Corposcontro	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Ekans, Arbok, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Chikorita, Bayleef, Meganium-0, Meganium-1, Spinarak, Ariados, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Heracross-0, Heracross-1, Delibird, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Electrike, Manectric-0, Manectric-1, Roselia, Numel, Camerupt-0, Camerupt-1, Swablu, Altaria-0, Altaria-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Budew, Roserade, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Audino-0, Audino-1, Sandile, Krokorok, Krookodile, Garbodor, Eelektrik, Eelektross-0, Eelektross-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Diggersby, Litleo, Pyroar-0, Pyroar-1, Skiddo, Gogoat, Pancham, Pangoro, Tyrunt, Tyrantrum, Amaura, Aurorus, Sylveon, Hawlucha-0, Hawlucha-1, Carbink, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Bergmite, Avalugg-0, Avalugg-1, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+035	Avvolgibotta	
+036	Riduttore	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Kangaskhan-0, Kangaskhan-1, Starmie-0, Starmie-1, Pinsir-0, Pinsir-1, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Espeon, Umbreon, Heracross-0, Heracross-1, Houndour, Houndoom-0, Houndoom-1, Sableye-0, Sableye-1, Aron, Lairon, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Carvanha, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Swablu, Altaria-0, Altaria-1, Metang, Metagross-0, Metagross-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Leafeon, Glaceon, Tepig, Pignite, Emboar-0, Emboar-1, Watchog, Audino-0, Audino-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Trubbish, Garbodor, Eelektrik, Eelektross-0, Eelektross-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Litleo, Pyroar-0, Pyroar-1, Skiddo, Gogoat, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Amaura, Aurorus, Sylveon, Carbink, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Bergmite, Avalugg-0, Avalugg-1, Xerneas, Volcanion
+037	Colpo	
+038	Sdoppiatore	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Arbok, Clefairy, Clefable-0, Clefable-1, Machop, Machoke, Machamp, Slowbro-2, Onix, Kangaskhan-0, Kangaskhan-1, Starmie-0, Starmie-1, Scyther, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Feraligatr-0, Feraligatr-1, Cleffa, Ampharos-0, Ampharos-1, Espeon, Umbreon, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Hippopotas, Hippowdon, Abomasnow-0, Abomasnow-1, Leafeon, Glaceon, Pignite, Emboar-0, Emboar-1, Watchog, Drilbur, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scrafty-0, Scrafty-1, Chesnaught-0, Chesnaught-1, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Skiddo, Gogoat, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Sylveon, Carbink, Bergmite, Avalugg-0, Avalugg-1
+039	Colpocoda	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Pikachu-0, Raichu-0, Raichu-1, Kangaskhan-0, Kangaskhan-1, Eevee-0, Vaporeon, Jolteon, Flareon, Chikorita, Bayleef, Meganium-0, Meganium-1, Pichu, Espeon, Umbreon, Leafeon, Glaceon, Tepig, Pignite, Emboar-0, Emboar-1, Emolga, Fennekin, Braixen, Delphox-0, Delphox-1, Skiddo, Gogoat, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Skrelp, Dragalge-0, Dragalge-1, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Sylveon, Dedenne
+040	Velenospina	Weedle, Kakuna, Beedrill-0, Beedrill-1, Ekans, Arbok, Spinarak, Ariados, Roselia, Roserade, Venipede, Whirlipede, Scolipede-0, Scolipede-1
+041	Doppio Ago	
+042	Missilspillo	Beedrill-0, Beedrill-1, Jolteon, Spinarak, Ariados, Heracross-0, Heracross-1, Roselia, Roserade, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1
+043	Fulmisguardo	Ekans, Arbok, Machop, Machoke, Machamp, Scyther, Gyarados-0, Gyarados-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Skarmory-0, Skarmory-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Electrike, Manectric-0, Manectric-1, Carvanha, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Snover, Abomasnow-0, Abomasnow-1, Froslass-0, Froslass-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Bunnelby, Diggersby, Litleo, Pyroar-0, Pyroar-1, Pancham, Pangoro, Espurr, Meowstic-0, Meowstic-1, Volcanion, Drampa-0, Drampa-1
+044	Morso	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Ekans, Arbok, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Espeon, Umbreon, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Electrike, Manectric-0, Manectric-1, Carvanha, Sharpedo-0, Sharpedo-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Leafeon, Glaceon, Froslass-0, Froslass-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Sandile, Krokorok, Krookodile, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Tyrunt, Tyrantrum, Sylveon, Bergmite, Avalugg-0, Avalugg-1, Noibat, Noivern, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+045	Ruggito	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Pikachu-0, Raichu-0, Raichu-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Eevee-0, Vaporeon, Jolteon, Flareon, Pichu, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Numel, Camerupt-0, Camerupt-1, Swablu, Altaria-0, Altaria-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Audino-0, Audino-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Fletchling, Fletchinder, Talonflame, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Amaura, Aurorus, Sylveon
+046	Boato	Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Croconaw, Feraligatr-0, Feraligatr-1, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Skarmory-0, Skarmory-1, Houndour, Houndoom-0, Houndoom-1, Tyranitar-0, Tyranitar-1, Aron, Lairon, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Numel, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Leafeon, Glaceon, Tepig, Pignite, Emboar-0, Emboar-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Litleo, Pyroar-0, Pyroar-1, Skiddo, Gogoat, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Tyrunt, Tyrantrum, Sylveon, Volcanion
+047	Canto	
+048	Supersuono	Aerodactyl-0, Aerodactyl-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Noibat, Noivern
+049	Sonicboom	
+050	Inibitore	
+051	Acido	
+052	Braciere	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Flareon, Houndour, Houndoom-0, Houndoom-1, Numel, Camerupt-0, Camerupt-1, Bagon, Shelgon, Salamence-0, Salamence-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Fletchling, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1
+053	Lanciafiamme	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Clefairy, Clefable-0, Clefable-1, Machop, Machoke, Machamp, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Slowking-0, Slowking-1, Houndour, Houndoom-0, Houndoom-1, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Numel, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Tepig, Pignite, Emboar-0, Emboar-1, Watchog, Pansear, Simisear, Audino-0, Audino-1, Eelektross-0, Eelektross-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Goodra-0, Goodra-1, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Noivern, Volcanion, Drampa-0, Drampa-1
+054	Nebbia	Mewtwo-0, Mewtwo-1, Mewtwo-2, Swablu, Altaria-0, Altaria-1, Snover, Abomasnow-0, Abomasnow-1, Glaceon, Vanillite, Vanillish, Vanilluxe, Amaura, Aurorus, Volcanion
+055	Pistolacqua	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Panpour, Simipour, Stunfisk-0, Stunfisk-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Volcanion
+056	Idropompa	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Magikarp, Gyarados-0, Gyarados-1, Vaporeon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Tyranitar-0, Tyranitar-1, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1, Bagon, Shelgon, Salamence-0, Salamence-1, Panpour, Simipour, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Goodra-0, Goodra-1, Avalugg-0, Avalugg-1, Volcanion, Drampa-0, Drampa-1
+057	Surf	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Pikachu-0, Raichu-0, Raichu-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Pichu, Slowking-0, Slowking-1, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1, Garchomp-0, Garchomp-1, Panpour, Simipour, Audino-0, Audino-1, Stunfisk-0, Stunfisk-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Skiddo, Gogoat, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Swirlix, Slurpuff, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Helioptile, Heliolisk, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Avalugg-0, Avalugg-1, Drampa-0, Drampa-1
+058	Geloraggio	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Clefairy, Clefable-0, Clefable-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Cleffa, Slowking-0, Slowking-1, Delibird, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1, Swablu, Altaria-0, Altaria-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Buneary, Lopunny-0, Lopunny-1, Snover, Abomasnow-0, Abomasnow-1, Glaceon, Froslass-0, Froslass-1, Panpour, Simipour, Audino-0, Audino-1, Vanillite, Vanillish, Vanilluxe, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Binacle, Barbaracle-0, Barbaracle-1, Clauncher, Clawitzer, Amaura, Aurorus, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Bergmite, Avalugg-0, Avalugg-1, Drampa-0, Drampa-1
+059	Bora	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Clefairy, Clefable-0, Clefable-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Cleffa, Slowking-0, Slowking-1, Delibird, Tyranitar-0, Tyranitar-1, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Lopunny-0, Lopunny-1, Snover, Abomasnow-0, Abomasnow-1, Glaceon, Froslass-0, Froslass-1, Panpour, Simipour, Audino-0, Audino-1, Vanillite, Vanillish, Vanilluxe, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Binacle, Barbaracle-0, Barbaracle-1, Clauncher, Clawitzer, Amaura, Aurorus, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Bergmite, Avalugg-0, Avalugg-1, Drampa-0, Drampa-1
+060	Psicoraggio	Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Staryu, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Espeon, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Gallade-0, Gallade-1, Fennekin, Braixen, Delphox-0, Delphox-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Inkay, Malamar-0, Malamar-1, Hoopa-0, Hoopa-1
+061	Bollaraggio	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Clefairy, Clefable-0, Clefable-1, Staryu, Starmie-0, Starmie-1, Vaporeon, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Cleffa, Panpour, Simipour, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer
+062	Raggiaurora	
+063	Iper Raggio	Venusaur-0, Venusaur-1, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Beedrill-0, Beedrill-1, Pidgeot-0, Pidgeot-1, Arbok, Raichu-0, Raichu-1, Clefable-0, Clefable-1, Alakazam-0, Alakazam-1, Machamp, Victreebel-0, Victreebel-1, Slowbro-0, Slowbro-1, Slowbro-2, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Starmie-0, Starmie-1, Scyther, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Meganium-0, Meganium-1, Feraligatr-0, Feraligatr-1, Ariados, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Delibird, Skarmory-0, Skarmory-1, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Medicham-0, Medicham-1, Manectric-0, Manectric-1, Sharpedo-0, Sharpedo-1, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Banette-0, Banette-1, Absol-0, Absol-1, Glalie-0, Glalie-1, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Roserade, Lopunny-0, Lopunny-1, Garchomp-0, Garchomp-1, Lucario-0, Lucario-1, Hippowdon, Abomasnow-0, Abomasnow-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Emboar-0, Emboar-1, Watchog, Simisage, Simisear, Simipour, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Scolipede-0, Scolipede-1, Krookodile, Scrafty-0, Scrafty-1, Garbodor, Vanilluxe, Eelektross-0, Eelektross-1, Chandelure-0, Chandelure-1, Chesnaught-0, Chesnaught-1, Delphox-0, Delphox-1, Greninja-0, Greninja-1, Greninja-3, Diggersby, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Pyroar-0, Pyroar-1, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Gogoat, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Meowstic-0, Meowstic-1, Aegislash-0, Aegislash-1, Aromatisse, Slurpuff, Malamar-0, Malamar-1, Barbaracle-0, Barbaracle-1, Dragalge-0, Dragalge-1, Clawitzer, Heliolisk, Tyrantrum, Amaura, Aurorus, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Carbink, Goodra-0, Goodra-1, Klefki, Trevenant, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Avalugg-0, Avalugg-1, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+064	Beccata	Delibird, Skarmory-0, Skarmory-1, Swablu, Altaria-0, Altaria-1, Fletchling, Fletchinder, Talonflame, Inkay, Malamar-0, Malamar-1
+065	Perforbecco	
+066	Sottomissione	
+067	Colpo Basso	
+068	Contrattacco	
+069	Movim. Sismico	
+070	Forza	
+071	Assorbimento	Spinarak, Ariados, Roselia, Budew, Roserade, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Noibat, Noivern
+072	Megassorbimento	
+073	Parassiseme	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Roselia, Roserade, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Pansage, Simisage, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Skiddo, Gogoat, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+074	Crescita	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Roselia, Budew, Roserade, Snover, Abomasnow-0, Abomasnow-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Skiddo, Gogoat, Phantump, Trevenant
+075	Foglielama	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Roselia, Roserade, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+076	Solarraggio	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charizard-0, Charizard-1, Charizard-2, Beedrill-0, Beedrill-1, Clefairy, Clefable-0, Clefable-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Kangaskhan-0, Kangaskhan-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Spinarak, Ariados, Cleffa, Houndour, Houndoom-0, Houndoom-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Roselia, Swablu, Altaria-0, Altaria-1, Budew, Roserade, Buneary, Lopunny-0, Lopunny-1, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Pansage, Simisage, Pansear, Simisear, Audino-0, Audino-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Garbodor, Emolga, Litwick, Lampent, Chandelure-0, Chandelure-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Fennekin, Braixen, Delphox-0, Delphox-1, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Litleo, Pyroar-0, Pyroar-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Heliolisk, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Noibat, Noivern, Volcanion, Drampa-0, Drampa-1
+077	Velenpolvere	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19
+078	Paralizzante	Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Roselia, Budew, Roserade, Scatterbug-0, Scatterbug-1, Scatterbug-2, Scatterbug-3, Scatterbug-4, Scatterbug-5, Scatterbug-6, Scatterbug-7, Scatterbug-8, Scatterbug-9, Scatterbug-10, Scatterbug-11, Scatterbug-12, Scatterbug-13, Scatterbug-14, Scatterbug-15, Scatterbug-16, Scatterbug-17, Scatterbug-18, Scatterbug-19, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19
+079	Sonnifero	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Roselia, Roserade, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19
+080	Petalodanza	
+081	Millebave	Weedle, Kakuna, Beedrill-0, Beedrill-1, Spinarak, Ariados, Scatterbug-0, Scatterbug-1, Scatterbug-2, Scatterbug-3, Scatterbug-4, Scatterbug-5, Scatterbug-6, Scatterbug-7, Scatterbug-8, Scatterbug-9, Scatterbug-10, Scatterbug-11, Scatterbug-12, Scatterbug-13, Scatterbug-14, Scatterbug-15, Scatterbug-16, Scatterbug-17, Scatterbug-18, Scatterbug-19, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Swirlix, Slurpuff
+082	Ira di Drago	
+083	Turbofuoco	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Flareon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Houndour, Houndoom-0, Houndoom-1, Numel, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Volcanion
+084	Tuonoshock	Pikachu-0, Raichu-0, Raichu-1, Jolteon, Pichu, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Electrike, Manectric-0, Manectric-1, Emolga, Stunfisk-0, Helioptile, Heliolisk, Dedenne
+085	Fulmine	Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Gastly, Haunter, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Jolteon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Buneary, Lopunny-0, Lopunny-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Patrat, Watchog, Audino-0, Audino-1, Garbodor, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Skrelp, Dragalge-0, Dragalge-1, Helioptile, Heliolisk, Amaura, Aurorus, Dedenne, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Xerneas, Hoopa-0, Hoopa-1, Drampa-0, Drampa-1
+086	Tuononda	Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gengar-0, Gengar-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Jolteon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Buneary, Lopunny-0, Lopunny-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Watchog, Audino-0, Audino-1, Emolga, Tynamo, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0, Stunfisk-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Helioptile, Heliolisk, Amaura, Aurorus, Dedenne, Klefki, Xerneas, Hoopa-0, Hoopa-1, Drampa-0, Drampa-1
+087	Tuono	Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Gastly, Haunter, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Jolteon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Tyranitar-0, Tyranitar-1, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Lopunny-0, Lopunny-1, Froslass-0, Froslass-1, Audino-0, Audino-1, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0, Helioptile, Heliolisk, Aurorus, Dedenne, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Xerneas, Drampa-0, Drampa-1
+088	Sassata	Onix, Steelix-0, Steelix-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Binacle, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Carbink, Diancie-0, Diancie-1
+089	Terremoto	Venusaur-0, Venusaur-1, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Ekans, Arbok, Machop, Machoke, Machamp, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Onix, Kangaskhan-0, Kangaskhan-1, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Meganium-0, Meganium-1, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Heracross-0, Heracross-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Aron, Lairon, Aggron-0, Aggron-1, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Glalie-0, Glalie-1, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Abomasnow-0, Abomasnow-1, Gallade-0, Gallade-1, Emboar-0, Emboar-1, Drilbur, Excadrill-0, Excadrill-1, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Stunfisk-0, Stunfisk-1, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Gogoat, Pangoro, Binacle, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Aurorus, Goodra-0, Goodra-1, Trevenant, Avalugg-0, Avalugg-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Volcanion, Drampa-0, Drampa-1
+090	Abisso	
+091	Fossa	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Ekans, Arbok, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Machop, Machoke, Machamp, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Onix, Kangaskhan-0, Kangaskhan-1, Pinsir-0, Pinsir-1, Eevee-0, Vaporeon, Jolteon, Flareon, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Spinarak, Ariados, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Heracross-0, Heracross-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Aron, Lairon, Aggron-0, Aggron-1, Numel, Camerupt-0, Camerupt-1, Buneary, Lopunny-0, Lopunny-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Leafeon, Glaceon, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Litleo, Pyroar-0, Pyroar-1, Skiddo, Gogoat, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Meowstic-0, Meowstic-1, Binacle, Barbaracle-0, Barbaracle-1, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Phantump, Trevenant, Avalugg-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Volcanion
+092	Tossina	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Beedrill-0, Beedrill-1, Ekans, Arbok, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Spinarak, Ariados, Umbreon, Slowking-1, Houndoom-0, Houndoom-1, Roselia, Roserade, Patrat, Watchog, Pansage, Simisage, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Trubbish, Garbodor, Stunfisk-1, Skrelp, Dragalge-0, Dragalge-1, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1
+093	Confusione	Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Espeon, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Meditite, Medicham-0, Medicham-1, Metang, Metagross-0, Metagross-1, Gallade-0, Gallade-1, Espurr, Meowstic-0, Meowstic-1, Hoopa-0, Hoopa-1
+094	Psichico	Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Staryu, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Spinarak, Ariados, Cleffa, Espeon, Umbreon, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Shuppet, Banette-0, Banette-1, Metang, Metagross-0, Metagross-1, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Audino-0, Audino-1, Garbodor, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Aurorus, Sylveon, Carbink, Klefki, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Noibat, Noivern, Xerneas, Yveltal, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1
+095	Ipnosi	Gastly, Haunter, Gengar-0, Gengar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Gallade-0, Gallade-1, Patrat, Watchog, Spritzee, Aromatisse, Inkay, Malamar-0, Malamar-1, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+096	Meditazione	
+097	Agilità	Beedrill-0, Beedrill-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Pikachu-0, Raichu-0, Raichu-1, Starmie-0, Starmie-1, Scyther, Jolteon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Feraligatr-0, Feraligatr-1, Spinarak, Ariados, Flaaffy, Ampharos-0, Ampharos-1, Scizor-0, Scizor-1, Delibird, Skarmory-0, Skarmory-1, Medicham-0, Medicham-1, Electrike, Manectric-0, Manectric-1, Carvanha, Sharpedo-0, Sharpedo-1, Swablu, Altaria-0, Altaria-1, Beldum, Metang, Metagross-0, Metagross-1, Buneary, Lopunny-0, Lopunny-1, Riolu, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Drilbur, Excadrill-0, Excadrill-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Emolga, Fennekin, Braixen, Delphox-0, Delphox-1, Bunnelby, Diggersby, Fletchling, Fletchinder, Talonflame, Helioptile, Heliolisk, Hawlucha-0, Hawlucha-1, Dedenne, Noibat, Noivern, Falinks-0, Falinks-1
+098	Attacco Rapido	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Pikachu-0, Raichu-0, Raichu-1, Scyther, Eevee-0, Vaporeon, Jolteon, Flareon, Pichu, Espeon, Umbreon, Scizor-0, Scizor-1, Electrike, Manectric-0, Manectric-1, Absol-0, Absol-1, Buneary, Lopunny-0, Lopunny-1, Riolu, Lucario-0, Lucario-1, Leafeon, Glaceon, Emolga, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Fletchling, Fletchinder, Talonflame, Helioptile, Heliolisk, Sylveon
+099	Ira	
+100	Teletrasporto	Abra, Kadabra, Alakazam-0, Alakazam-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Gallade-0, Gallade-1
+101	Ombra Notturna	
+102	Mimica	
+103	Stridio	Ekans, Arbok, Onix, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Spinarak, Ariados, Umbreon, Steelix-0, Steelix-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Aron, Lairon, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1, Shuppet, Banette-0, Banette-1, Riolu, Lucario-0, Lucario-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Stunfisk-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Binacle, Barbaracle-0, Barbaracle-1, Noibat, Noivern
+104	Doppioteam	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Pikachu-0, Raichu-0, Raichu-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Scyther, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Pichu, Scizor-0, Scizor-1, Skarmory-0, Skarmory-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Mawile-0, Mawile-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Lopunny-0, Lopunny-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Emolga, Litwick, Lampent, Chandelure-0, Chandelure-1, Delphox-0, Delphox-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Fletchling, Fletchinder, Talonflame, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Meowstic-0, Malamar-0, Malamar-1, Skrelp, Dragalge-0, Dragalge-1, Klefki, Noibat, Noivern, Yveltal
+105	Ripresa	Kadabra, Alakazam-0, Alakazam-1, Staryu, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Bergmite, Avalugg-0, Avalugg-1
+106	Rafforzatore	Kakuna, Beedrill-0, Beedrill-1, Onix, Staryu, Starmie-0, Starmie-1, Pinsir-0, Pinsir-1, Steelix-0, Steelix-1, Aron, Lairon, Aggron-0, Aggron-1, Vanillite, Vanillish, Vanilluxe, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Carbink, Bergmite, Avalugg-0, Avalugg-1, Diancie-0, Diancie-1
+107	Minimizzato	
+108	Muro di Fumo	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Flareon, Tepig, Pignite, Emboar-0, Emboar-1, Trubbish, Garbodor, Litwick, Lampent, Chandelure-0, Chandelure-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Skrelp, Dragalge-0, Dragalge-1
+109	Stordiraggio	Gastly, Haunter, Gengar-0, Gengar-1, Staryu, Starmie-0, Starmie-1, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Umbreon, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Shuppet, Banette-0, Banette-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Watchog, Eelektross-0, Eelektross-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+110	Ritirata	
+111	Ricciolscudo	
+112	Barriera	
+113	Schermoluce	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Staryu, Starmie-0, Starmie-1, Scyther, Jolteon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Scizor-0, Scizor-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Electrike, Manectric-0, Manectric-1, Snorunt, Glalie-0, Glalie-1, Metang, Metagross-0, Metagross-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Watchog, Audino-0, Audino-1, Vanillite, Vanillish, Vanilluxe, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Fennekin, Braixen, Delphox-0, Delphox-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Helioptile, Heliolisk, Amaura, Aurorus, Sylveon, Dedenne, Carbink, Klefki, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Drampa-0, Drampa-1
+114	Nube	Ekans, Arbok, Gastly, Haunter, Gengar-0, Gengar-1, Vaporeon, Froslass-0, Froslass-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Volcanion
+115	Riflesso	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Staryu, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Metang, Metagross-0, Metagross-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Audino-0, Audino-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Delphox-0, Delphox-1, Espurr, Meowstic-0, Meowstic-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Spritzee, Aromatisse, Inkay, Malamar-0, Malamar-1, Amaura, Aurorus, Sylveon, Carbink, Klefki, Phantump, Trevenant, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1
+116	Focalenergia	Beedrill-0, Beedrill-1, Machop, Machoke, Machamp, Kangaskhan-0, Kangaskhan-1, Scyther, Pinsir-0, Pinsir-1, Ariados, Scizor-0, Scizor-1, Carvanha, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Pangoro, Falinks-0, Falinks-1
+117	Pazienza	
+118	Metronomo	Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Slowbro-0, Slowbro-1, Slowbro-2, Haunter, Gengar-0, Gengar-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Shuppet, Banette-0, Banette-1, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Scrafty-0, Scrafty-1, Delphox-0, Delphox-1, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Aromatisse, Slurpuff, Diancie-0, Diancie-1
+119	Speculmossa	
+120	Autodistruzione	Gastly, Haunter, Gengar-0, Gengar-1, Onix, Staryu, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Steelix-0, Steelix-1, Camerupt-0, Camerupt-1, Glalie-0, Glalie-1, Metang, Metagross-0, Metagross-1, Trubbish, Garbodor, Vanillite, Vanillish, Vanilluxe, Swirlix, Slurpuff, Carbink, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Volcanion
+121	Uovobomba	
+122	Leccata	Gastly, Haunter, Gengar-0, Gengar-1, Shuppet, Banette-0, Banette-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3
+123	Smog	
+124	Fango	
+125	Ossoclava	
+126	Fuocobomba	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Clefairy, Clefable-0, Clefable-1, Machop, Machoke, Machamp, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Slowking-0, Slowking-1, Houndour, Houndoom-0, Houndoom-1, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Numel, Camerupt-0, Camerupt-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Audino-0, Audino-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Goodra-0, Goodra-1, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Volcanion, Drampa-0, Drampa-1
+127	Cascata	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Carvanha, Sharpedo-0, Sharpedo-1, Panpour, Simipour, Eelektross-0, Eelektross-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer
+128	Tenaglia	
+129	Comete	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Staryu, Starmie-0, Starmie-1, Scyther, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Scizor-0, Scizor-1, Delibird, Skarmory-0, Skarmory-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Meditite, Medicham-0, Medicham-1, Electrike, Manectric-0, Manectric-1, Roselia, Carvanha, Sharpedo-0, Sharpedo-1, Swablu, Altaria-0, Altaria-1, Absol-0, Absol-1, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Budew, Roserade, Buneary, Lopunny-0, Lopunny-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Emolga, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Fennekin, Braixen, Delphox-0, Delphox-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Fletchling, Fletchinder, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Litleo, Pyroar-0, Pyroar-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Espurr, Meowstic-0, Meowstic-1, Helioptile, Heliolisk, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Klefki, Noibat, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Drampa-0, Drampa-1
+130	Capocciata	
+131	Sparalance	
+132	Limitazione	
+133	Amnesia	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Clefairy, Clefable-0, Clefable-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Slowking-0, Slowking-1, Numel, Camerupt-0, Camerupt-1, Hippopotas, Hippowdon, Pansear, Simisear, Audino-0, Audino-1, Trubbish, Garbodor, Swirlix, Slurpuff, Diancie-0, Diancie-1, Drampa-0, Drampa-1
+134	Cinèsi	
+135	Covauova	
+136	Calcinvolo	
+137	Sguardo Feroce	Ekans, Arbok, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Drampa-0, Drampa-1
+138	Mangiasogni	
+139	Velenogas	
+140	Sferattacco	
+141	Sanguisuga	Ekans, Arbok, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Spinarak, Ariados, Noibat, Noivern
+142	Demonbacio	
+143	Aeroattacco	
+144	Trasformazione	
+145	Bolla	
+146	Stordipugno	
+147	Spora	
+148	Flash	
+149	Psiconda	
+150	Splash	Clefairy, Clefable-0, Clefable-1, Magikarp, Gyarados-0, Gyarados-1, Cleffa, Buneary, Lopunny-0, Lopunny-1, Clauncher, Clawitzer
+151	Scudo Acido	Vaporeon, Vanillite, Vanillish, Vanilluxe, Litwick, Lampent, Chandelure-0, Chandelure-1, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1
+152	Martellata	
+153	Esplosione	Glalie-0, Glalie-1, Metagross-0, Metagross-1, Trubbish, Garbodor, Vanillite, Vanillish, Vanilluxe, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Volcanion
+154	Sfuriate	
+155	Ossomerang	
+156	Riposo	
+157	Frana	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Ekans, Arbok, Machop, Machoke, Machamp, Onix, Kangaskhan-0, Kangaskhan-1, Pinsir-0, Pinsir-1, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Steelix-0, Steelix-1, Heracross-0, Heracross-1, Skarmory-0, Skarmory-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Numel, Camerupt-0, Camerupt-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Abomasnow-0, Abomasnow-1, Pignite, Emboar-0, Emboar-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Skiddo, Gogoat, Pancham, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Clauncher, Clawitzer, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Hawlucha-0, Hawlucha-1, Carbink, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Bergmite, Avalugg-0, Avalugg-1, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+158	Iperzanna	
+159	Affilatore	
+160	Conversione	
+161	Tripletta	
+162	Superzanna	Patrat, Watchog, Eelektrik, Eelektross-0, Eelektross-1, Bunnelby, Diggersby, Dedenne, Noibat, Noivern
+163	Lacerazione	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Scyther, Croconaw, Feraligatr-0, Feraligatr-1, Scizor-0, Scizor-1, Skarmory-0, Skarmory-1, Sharpedo-0, Sharpedo-1, Banette-0, Banette-1, Absol-0, Absol-1, Gible, Gabite, Garchomp-0, Garchomp-1, Gallade-0, Gallade-1, Drilbur, Excadrill-0, Excadrill-1, Pancham, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1
+164	Sostituto	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Beedrill-0, Beedrill-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Ekans, Arbok, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Onix, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Scyther, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Spinarak, Ariados, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Delibird, Skarmory-0, Skarmory-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Electrike, Manectric-0, Manectric-1, Roselia, Carvanha, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Swablu, Altaria-0, Altaria-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Budew, Roserade, Buneary, Lopunny-0, Lopunny-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Trubbish, Garbodor, Vanillite, Vanillish, Vanilluxe, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Fennekin, Braixen, Delphox-0, Delphox-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Fletchling, Fletchinder, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Litleo, Pyroar-0, Pyroar-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Carbink, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Klefki, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Bergmite, Avalugg-0, Avalugg-1, Noibat, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+165	Scontro	
+166	Schizzo	
+167	Triplocalcio	
+168	Furto	
+169	Ragnatela	
+170	Leggimente	
+171	Incubo	
+172	Ruotafuoco	Flareon, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Litwick, Lampent, Chandelure-0, Chandelure-1, Fletchling, Fletchinder, Talonflame
+173	Russare	
+174	Maledizione	Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Onix, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Skarmory-0, Skarmory-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Electrike, Manectric-0, Manectric-1, Numel, Camerupt-0, Camerupt-1, Shuppet, Banette-0, Banette-1, Hippopotas, Hippowdon, Abomasnow-0, Abomasnow-1, Froslass-0, Froslass-1, Emboar-0, Emboar-1, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Sylveon, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Bergmite, Avalugg-0, Avalugg-1
+175	Flagello	
+176	Conversione2	
+177	Aerocolpo	
+178	Cotonspora	
+179	Contropiede	
+180	Dispetto	
+181	Polneve	
+182	Protezione	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Beedrill-0, Beedrill-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Ekans, Arbok, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Onix, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Scyther, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Spinarak, Ariados, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Delibird, Skarmory-0, Skarmory-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Electrike, Manectric-0, Manectric-1, Roselia, Carvanha, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Swablu, Altaria-0, Altaria-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Budew, Roserade, Buneary, Lopunny-0, Lopunny-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Trubbish, Garbodor, Vanillite, Vanillish, Vanilluxe, Emolga, Tynamo, Eelektrik, Eelektross-0, Eelektross-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Fennekin, Braixen, Delphox-0, Delphox-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Fletchling, Fletchinder, Talonflame, Scatterbug-0, Scatterbug-1, Scatterbug-2, Scatterbug-3, Scatterbug-4, Scatterbug-5, Scatterbug-6, Scatterbug-7, Scatterbug-8, Scatterbug-9, Scatterbug-10, Scatterbug-11, Scatterbug-12, Scatterbug-13, Scatterbug-14, Scatterbug-15, Scatterbug-16, Scatterbug-17, Scatterbug-18, Scatterbug-19, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Litleo, Pyroar-0, Pyroar-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Carbink, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Klefki, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Bergmite, Avalugg-0, Avalugg-1, Noibat, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+183	Pugnorapido	Lopunny-0, Lopunny-1
+184	Visotruce	
+185	Finta	
+186	Dolcebacio	
+187	Panciamburo	
+188	Fangobomba	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Beedrill-0, Beedrill-1, Ekans, Arbok, Victreebel-0, Victreebel-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Spinarak, Ariados, Slowking-1, Houndour, Houndoom-0, Houndoom-1, Mawile-0, Mawile-1, Roselia, Metang, Metagross-0, Metagross-1, Budew, Roserade, Drilbur, Excadrill-0, Excadrill-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Trubbish, Garbodor, Stunfisk-0, Stunfisk-1, Bunnelby, Diggersby, Pancham, Pangoro, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Volcanion
+189	Fangosberla	
+190	Octazooka	
+191	Punte	Heracross-0, Heracross-1, Delibird, Skarmory-0, Skarmory-1, Roselia, Snorunt, Glalie-0, Glalie-1, Budew, Roserade, Gabite, Garchomp-0, Garchomp-1, Froslass-0, Froslass-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Trubbish, Garbodor, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Meowstic-0, Carbink, Klefki, Diancie-0, Diancie-1
+192	Elettrocannone	Ampharos-0, Ampharos-1, Eelektrik, Eelektross-0, Eelektross-1
+193	Preveggenza	
+194	Destinobbligato	
+195	Ultimocanto	Gastly, Haunter, Gengar-0, Gengar-1, Swablu, Altaria-0, Altaria-1, Absol-0, Absol-1
+196	Ventogelato	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Delibird, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Carvanha, Sharpedo-0, Sharpedo-1, Snorunt, Glalie-0, Glalie-1, Snover, Abomasnow-0, Abomasnow-1, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Panpour, Simipour, Audino-0, Audino-1, Vanillite, Vanillish, Vanilluxe, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Amaura, Aurorus, Bergmite, Avalugg-0, Avalugg-1, Drampa-0, Drampa-1
+197	Individua	Machop, Machoke, Machamp, Pinsir-0, Pinsir-1, Heracross-0, Heracross-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Absol-0, Absol-1, Riolu, Lucario-0, Lucario-1, Patrat, Watchog, Scraggy, Scrafty-0, Scrafty-1, Pancham, Pangoro, Hawlucha-0, Hawlucha-1
+198	Ossoraffica	
+199	Localizza	
+200	Oltraggio	Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Beedrill-0, Beedrill-1, Kangaskhan-0, Kangaskhan-1, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Ampharos-0, Ampharos-1, Heracross-0, Heracross-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Aggron-0, Aggron-1, Swablu, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Abomasnow-0, Abomasnow-1, Krookodile, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Pangoro, Skrelp, Dragalge-0, Dragalge-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Noibat, Noivern, Xerneas, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Drampa-0, Drampa-1
+201	Terrempesta	
+202	Gigassorbimento	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Beedrill-0, Beedrill-1, Ekans, Arbok, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Gastly, Haunter, Gengar-0, Gengar-1, Bayleef, Meganium-0, Meganium-1, Spinarak, Ariados, Sableye-0, Sableye-1, Roselia, Roserade, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Pansage, Simisage, Trubbish, Garbodor, Eelektrik, Eelektross-0, Eelektross-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Pangoro, Goodra-0, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+203	Resistenza	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Beedrill-0, Beedrill-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Ekans, Arbok, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Onix, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Scyther, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Spinarak, Ariados, Pichu, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Delibird, Skarmory-0, Skarmory-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Electrike, Manectric-0, Manectric-1, Roselia, Carvanha, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Swablu, Altaria-0, Altaria-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Budew, Roserade, Buneary, Lopunny-0, Lopunny-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Trubbish, Garbodor, Vanillite, Vanillish, Vanilluxe, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Fennekin, Braixen, Delphox-0, Delphox-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Fletchling, Fletchinder, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Litleo, Pyroar-0, Pyroar-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Doublade, Aegislash-0, Aegislash-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Carbink, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Klefki, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Bergmite, Avalugg-0, Avalugg-1, Noibat, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+204	Fascino	Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Eevee-0, Vaporeon, Jolteon, Flareon, Pichu, Cleffa, Espeon, Umbreon, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Mawile-0, Mawile-1, Roselia, Budew, Roserade, Buneary, Lopunny-0, Lopunny-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Emolga, Fennekin, Braixen, Delphox-0, Delphox-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Meowstic-0, Spritzee, Aromatisse, Swirlix, Slurpuff, Tyrunt, Tyrantrum, Sylveon, Dedenne, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1
+205	Rotolamento	Tepig, Pignite, Emboar-0, Emboar-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Trubbish, Garbodor, Chespin, Quilladin, Chesnaught-0, Chesnaught-1
+206	Falsofinale	
+207	Bullo	
+208	Buonlatte	
+209	Scintilla	Pikachu-0, Raichu-0, Raichu-1, Pichu, Electrike, Manectric-0, Manectric-1, Emolga, Tynamo, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0
+210	Tagliofuria	
+211	Alacciaio	Aerodactyl-0, Aerodactyl-1, Scizor-0, Scizor-1, Skarmory-0, Skarmory-1, Fletchling, Fletchinder, Talonflame
+212	Malosguardo	
+213	Attrazione	
+214	Sonnolalia	
+215	Rintoccasana	
+216	Ritorno	
+217	Regalino	
+218	Frustrazione	
+219	Salvaguardia	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Cleffa, Espeon, Slowking-0, Slowking-1, Scizor-0, Scizor-1, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Swablu, Altaria-0, Altaria-1, Gallade-0, Gallade-1, Audino-0, Audino-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Delphox-0, Delphox-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Espurr, Meowstic-0, Meowstic-1, Swirlix, Slurpuff, Binacle, Barbaracle-0, Barbaracle-1, Amaura, Aurorus, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Drampa-0, Drampa-1
+220	Malcomune	
+221	Magifuoco	
+222	Magnitudo	
+223	Dinamipugno	Machop, Machoke, Machamp, Kangaskhan-0, Kangaskhan-1, Mawile-0, Mawile-1, Meditite, Medicham-0, Medicham-1, Buneary, Lopunny-0, Lopunny-1, Scraggy, Scrafty-0, Scrafty-1
+224	Megacorno	Spinarak, Ariados, Heracross-0, Heracross-1, Excadrill-0, Excadrill-1, Scolipede-0, Scolipede-1, Skiddo, Gogoat, Xerneas, Falinks-0, Falinks-1
+225	Dragospiro	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Onix, Steelix-0, Steelix-1, Swablu, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Drampa-0, Drampa-1
+226	Staffetta	
+227	Ripeti	
+228	Inseguimento	
+229	Rapigiro	
+230	Profumino	
+231	Codacciaio	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Ekans, Arbok, Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Onix, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Eevee-0, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Pichu, Cleffa, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Aron, Lairon, Aggron-0, Aggron-1, Buneary, Lopunny-0, Lopunny-1, Garchomp-0, Garchomp-1, Lucario-0, Lucario-1, Leafeon, Glaceon, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Audino-0, Audino-1, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Emolga, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Heliolisk, Tyrantrum, Aurorus, Sylveon, Goodra-1, Noivern
+232	Ferrartigli	Skarmory-0, Skarmory-1, Aron, Lairon, Aggron-0, Aggron-1, Metang, Metagross-0, Metagross-1, Riolu, Lucario-0, Lucario-1, Drilbur, Excadrill-0, Excadrill-1, Garbodor, Stunfisk-1, Klefki
+233	Vitaltiro	
+234	Mattindoro	Espeon, Helioptile, Heliolisk
+235	Sintesi	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Roselia, Roserade, Leafeon, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat
+236	Lucelunare	Clefairy, Clefable-0, Clefable-1, Cleffa, Umbreon, Noivern
+237	Introforza	
+238	Incrocolpo	
+239	Tornado	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Gyarados-0, Gyarados-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Swablu, Altaria-0, Altaria-1, Drampa-0, Drampa-1
+240	Pioggiadanza	
+241	Giornodisole	
+242	Sgranocchio	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Arbok, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Aerodactyl-0, Aerodactyl-1, Feraligatr-0, Feraligatr-1, Umbreon, Steelix-0, Steelix-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Electrike, Manectric-0, Manectric-1, Carvanha, Sharpedo-0, Sharpedo-1, Snorunt, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Froslass-0, Froslass-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-1, Chesnaught-0, Chesnaught-1, Litleo, Pyroar-0, Pyroar-1, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Tyrunt, Tyrantrum, Bergmite, Avalugg-0, Avalugg-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+243	Specchiovelo	
+244	Psicamisù	
+245	Extrarapido	Dratini, Dragonair, Dragonite-0, Dragonite-1, Lucario-0, Lucario-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+246	Forzantica	
+247	Palla Ombra	Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Eevee-0, Vaporeon, Jolteon, Flareon, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Espeon, Umbreon, Slowking-0, Slowking-1, Houndour, Houndoom-0, Houndoom-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Meditite, Medicham-0, Medicham-1, Roselia, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Snorunt, Glalie-0, Glalie-1, Metang, Metagross-0, Metagross-1, Budew, Roserade, Buneary, Lopunny-0, Lopunny-1, Lucario-0, Lucario-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Patrat, Watchog, Audino-0, Audino-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Delphox-0, Delphox-1, Espurr, Meowstic-0, Meowstic-1, Aegislash-0, Aegislash-1, Skrelp, Dragalge-0, Dragalge-1, Clawitzer, Sylveon, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Noibat, Noivern, Yveltal, Hoopa-0, Hoopa-1, Drampa-0, Drampa-1
+248	Divinazione	Kadabra, Alakazam-0, Alakazam-1, Slowbro-0, Slowbro-1, Slowbro-2, Mewtwo-0, Mewtwo-1, Mewtwo-2, Espeon, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Absol-0, Absol-1, Gallade-0, Gallade-1, Delphox-0, Delphox-1, Meowstic-1, Inkay, Malamar-0, Malamar-1, Klefki, Hoopa-0, Hoopa-1
+249	Spaccaroccia	Beedrill-0, Beedrill-1, Machop, Machoke, Machamp, Pinsir-0, Pinsir-1, Bayleef, Meganium-0, Meganium-1, Croconaw, Feraligatr-0, Feraligatr-1, Heracross-0, Heracross-1, Mawile-0, Mawile-1, Meditite, Medicham-0, Medicham-1, Riolu, Lucario-0, Lucario-1, Pignite, Emboar-0, Emboar-1, Watchog, Drilbur, Excadrill-0, Excadrill-1, Scrafty-0, Scrafty-1, Quilladin, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Falinks-0, Falinks-1
+250	Mulinello	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Kangaskhan-0, Kangaskhan-1, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1
+251	Picchiaduro	
+252	Bruciapelo	
+253	Baraonda	
+254	Accumulo	
+255	Sfoghenergia	
+256	Introenergia	
+257	Ondacalda	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Flareon, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Houndour, Houndoom-0, Houndoom-1, Numel, Camerupt-0, Camerupt-1, Swablu, Altaria-0, Altaria-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Litwick, Lampent, Chandelure-0, Chandelure-1, Braixen, Delphox-0, Delphox-1, Fletchling, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Noibat, Noivern, Yveltal, Volcanion, Drampa-0, Drampa-1
+258	Grandine	
+259	Attaccalite	
+260	Adulazione	
+261	Fuocofatuo	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Gastly, Haunter, Gengar-0, Gengar-1, Flareon, Mewtwo-0, Mewtwo-1, Mewtwo-2, Houndour, Houndoom-0, Houndoom-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Numel, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Fletchling, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Volcanion
+262	Memento	
+263	Facciata	
+264	Centripugno	
+265	Maniereforti	
+266	Sonoqui	
+267	Naturforza	
+268	Sottocarica	Pikachu-0, Raichu-0, Raichu-1, Pichu, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Electrike, Manectric-0, Manectric-1, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0, Helioptile, Heliolisk, Dedenne
+269	Provocazione	Abra, Kadabra, Alakazam-0, Alakazam-1, Gastly, Haunter, Gengar-0, Gengar-1, Onix, Gyarados-0, Gyarados-1, Vaporeon, Flareon, Aerodactyl-0, Aerodactyl-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Umbreon, Slowking-1, Steelix-0, Steelix-1, Skarmory-0, Skarmory-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Meditite, Medicham-0, Medicham-1, Carvanha, Sharpedo-0, Sharpedo-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Vanillite, Vanillish, Vanilluxe, Emolga, Litwick, Lampent, Chandelure-0, Chandelure-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Litleo, Pyroar-0, Pyroar-1, Pancham, Pangoro, Meowstic-0, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Sylveon, Hawlucha-0, Hawlucha-1, Noibat, Noivern, Yveltal, Hoopa-0, Hoopa-1, Volcanion
+270	Altruismo	
+271	Raggiro	
+272	Giocodiruolo	
+273	Desiderio	Eevee-0, Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Gardevoir-0, Gardevoir-1, Leafeon, Glaceon, Audino-0, Audino-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Meowstic-0, Spritzee, Aromatisse, Swirlix, Slurpuff, Sylveon
+274	Assistente	
+275	Radicamento	
+276	Troppoforte	
+277	Magivelo	
+278	Riciclo	
+279	Vendetta	
+280	Breccia	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Beedrill-0, Beedrill-1, Pikachu-0, Raichu-0, Raichu-1, Machop, Machoke, Machamp, Kangaskhan-0, Kangaskhan-1, Scyther, Pinsir-0, Pinsir-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Pichu, Ampharos-0, Ampharos-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Delibird, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Abomasnow-0, Abomasnow-1, Gallade-0, Gallade-1, Pignite, Emboar-0, Emboar-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Skiddo, Gogoat, Pancham, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Binacle, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Hawlucha-0, Hawlucha-1, Noibat, Noivern, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Hoopa-0, Hoopa-1, Volcanion, Falinks-0, Falinks-1
+281	Sbadiglio	
+282	Privazione	Ekans, Arbok, Machop, Machoke, Machamp, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Scyther, Chikorita, Bayleef, Meganium-0, Meganium-1, Spinarak, Ariados, Umbreon, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Metagross-0, Metagross-1, Gallade-0, Gallade-1, Pignite, Emboar-0, Emboar-1, Krokorok, Krookodile, Scrafty-0, Scrafty-1, Chesnaught-0, Chesnaught-1, Pangoro, Inkay, Malamar-0, Malamar-1, Goodra-0, Goodra-1, Hoopa-0, Hoopa-1, Falinks-0, Falinks-1
+283	Rimonta	
+284	Eruzione	
+285	Baratto	
+286	Esclusiva	
+287	Rinfrescata	
+288	Rancore	
+289	Scippo	
+290	Forzasegreta	
+291	Sub	
+292	Sberletese	
+293	Camuffamento	
+294	Codadiluce	
+295	Abbagliante	
+296	Foschisfera	
+297	Danzadipiume	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Delibird, Swablu, Altaria-0, Altaria-1, Fletchling, Fletchinder, Talonflame, Hawlucha-0, Hawlucha-1
+298	Strampadanza	
+299	Calciardente	
+300	Fangata	
+301	Palla Gelo	
+302	Pugnospine	
+303	Pigro	
+304	Granvoce	Clefairy, Clefable-0, Clefable-1, Eevee-0, Vaporeon, Jolteon, Flareon, Cleffa, Espeon, Umbreon, Houndour, Houndoom-0, Houndoom-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Manectric-0, Manectric-1, Swablu, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Buneary, Lopunny-0, Lopunny-1, Hippowdon, Leafeon, Glaceon, Gallade-0, Gallade-1, Audino-0, Audino-1, Vanillite, Vanillish, Vanilluxe, Delphox-0, Delphox-1, Litleo, Pyroar-0, Pyroar-1, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Sylveon, Noibat, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Drampa-0, Drampa-1
+305	Velenodenti	
+306	Tritartigli	
+307	Incendio	
+308	Idrocannone	
+309	Meteorpugno	
+310	Sgomento	
+311	Palla Clima	
+312	Aromaterapia	
+313	Falselacrime	Jolteon, Espeon, Mawile-0, Mawile-1, Snorunt, Glalie-0, Glalie-1, Froslass-0, Froslass-1, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Sylveon, Diancie-0, Diancie-1
+314	Aerasoio	
+315	Vampata	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Houndour, Houndoom-0, Houndoom-1, Manectric-0, Manectric-1, Numel, Camerupt-0, Camerupt-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Fletchling, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Volcanion
+316	Segugio	
+317	Rocciotomba	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Ekans, Arbok, Machop, Machoke, Machamp, Onix, Kangaskhan-0, Kangaskhan-1, Pinsir-0, Pinsir-1, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Steelix-0, Steelix-1, Heracross-0, Heracross-1, Skarmory-0, Skarmory-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Metang, Metagross-0, Metagross-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Abomasnow-0, Abomasnow-1, Gallade-0, Gallade-1, Pignite, Emboar-0, Emboar-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Pancham, Pangoro, Binacle, Barbaracle-0, Barbaracle-1, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Hawlucha-0, Hawlucha-1, Carbink, Sliggoo-1, Goodra-1, Bergmite, Avalugg-0, Avalugg-1, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Falinks-0, Falinks-1
+318	Ventargenteo	
+319	Ferrostrido	Skarmory-0, Skarmory-1, Aron, Lairon, Aggron-0, Aggron-1, Lucario-0, Lucario-1, Excadrill-0, Excadrill-1, Stunfisk-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Klefki
+320	Meloderba	
+321	Solletico	
+322	Cosmoforza	
+323	Zampillo	
+324	Segnoraggio	
+325	Pugnodombra	
+326	Extrasenso	
+327	Stramontante	
+328	Sabbiotomba	Onix, Steelix-0, Steelix-1, Skarmory-0, Skarmory-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Drilbur, Excadrill-0, Excadrill-1, Sandile, Krokorok, Krookodile
+329	Purogelo	
+330	Fanghiglia	
+331	Semitraglia	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Heracross-0, Heracross-1, Roselia, Budew, Roserade, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Patrat, Watchog, Pansage, Simisage, Trubbish, Garbodor, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Skiddo, Gogoat, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+332	Aeroassalto	Beedrill-0, Beedrill-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Kangaskhan-0, Kangaskhan-1, Scyther, Pinsir-0, Pinsir-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Delibird, Skarmory-0, Skarmory-1, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Swablu, Altaria-0, Altaria-1, Absol-0, Absol-1, Salamence-0, Salamence-1, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Leafeon, Gallade-0, Gallade-1, Sandile, Krokorok, Krookodile, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Fletchling, Fletchinder, Talonflame, Gogoat, Honedge, Doublade, Aegislash-0, Aegislash-1, Hawlucha-0, Hawlucha-1, Noibat, Noivern
+333	Gelolancia	
+334	Ferroscudo	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Kakuna, Beedrill-0, Beedrill-1, Pinsir-0, Pinsir-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Skarmory-0, Skarmory-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Bagon, Shelgon, Salamence-0, Salamence-1, Beldum, Metang, Metagross-0, Metagross-1, Lucario-0, Lucario-1, Drilbur, Excadrill-0, Excadrill-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Scraggy, Scrafty-0, Scrafty-1, Vanillite, Vanillish, Vanilluxe, Stunfisk-1, Chesnaught-0, Chesnaught-1, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Honedge, Doublade, Aegislash-0, Aegislash-1, Binacle, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Carbink, Sliggoo-1, Goodra-1, Klefki, Bergmite, Avalugg-0, Avalugg-1, Diancie-0, Diancie-1, Falinks-0, Falinks-1
+335	Blocco	
+336	Gridodilotta	
+337	Dragartigli	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Tyranitar-0, Tyranitar-1, Aggron-0, Aggron-1, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Chesnaught-0, Chesnaught-1, Pangoro, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Goodra-0, Goodra-1, Noibat, Noivern, Yveltal, Drampa-0, Drampa-1
+338	Radicalbero	
+339	Granfisico	Machop, Machoke, Machamp, Starmie-0, Starmie-1, Pinsir-0, Pinsir-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Heracross-0, Heracross-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Riolu, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Pignite, Emboar-0, Emboar-1, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Quilladin, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Talonflame, Skiddo, Gogoat, Pancham, Pangoro, Malamar-0, Malamar-1, Barbaracle-0, Barbaracle-1, Hawlucha-0, Hawlucha-1, Falinks-0, Falinks-1
+340	Rimbalzo	Gyarados-0, Gyarados-1, Carvanha, Sharpedo-0, Sharpedo-1, Buneary, Lopunny-0, Lopunny-1, Stunfisk-0, Stunfisk-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Clauncher, Clawitzer, Hawlucha-0, Hawlucha-1
+341	Colpodifango	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Ekans, Arbok, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Slowking-0, Slowking-1, Heracross-0, Heracross-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Aron, Lairon, Aggron-0, Aggron-1, Roselia, Budew, Roserade, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Drilbur, Excadrill-0, Excadrill-1, Trubbish, Garbodor, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Skiddo, Gogoat, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Volcanion
+342	Velenocoda	
+343	Supplica	
+344	Locomovolt	Pikachu-0, Raichu-0, Raichu-1, Pichu
+345	Fogliamagica	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Clefairy, Clefable-0, Clefable-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Cleffa, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Roselia, Roserade, Leafeon, Gallade-0, Gallade-1, Pansage, Simisage, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Meowstic-1
+346	Docciascudo	
+347	Calmamente	Raichu-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Eevee-0, Vaporeon, Jolteon, Flareon, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Espeon, Umbreon, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Lucario-0, Lucario-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Audino-0, Audino-1, Litwick, Lampent, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Inkay, Malamar-0, Malamar-1, Amaura, Aurorus, Sylveon, Carbink, Klefki, Trevenant, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Drampa-0, Drampa-1
+348	Fendifoglia	Meganium-0, Meganium-1, Leafeon, Gallade-0, Gallade-1, Skiddo, Gogoat
+349	Dragodanza	
+350	Cadutamassi	Aerodactyl-0, Aerodactyl-1, Heracross-0, Heracross-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Excadrill-0, Excadrill-1, Binacle, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Avalugg-1
+351	Ondashock	
+352	Idropulsar	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Staryu, Starmie-0, Starmie-1, Gyarados-0, Gyarados-1, Vaporeon, Dratini, Dragonair, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Delibird, Snorunt, Glalie-0, Glalie-1, Lucario-0, Lucario-1, Snover, Abomasnow-0, Abomasnow-1, Froslass-0, Froslass-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Meowstic-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Noivern, Volcanion
+353	Desiderio Fatale	
+354	Psicoslancio	
+355	Trespolo	
+356	Gravità	
+357	Miracolvista	
+358	Svegliopacca	
+359	Martelpugno	
+360	Vortexpalla	
+361	Curardore	
+362	Acquadisale	
+363	Dononaturale	
+364	Fintoattacco	
+365	Spennata	
+366	Ventoincoda	
+367	Acupressione	
+368	Metalscoppio	
+369	Retromarcia	Beedrill-0, Beedrill-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Scyther, Scizor-0, Scizor-1, Lopunny-0, Lopunny-1, Scolipede-0, Scolipede-1, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Bunnelby, Diggersby, Fletchling, Fletchinder, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Clauncher, Clawitzer, Helioptile, Heliolisk, Hawlucha-0, Hawlucha-1, Dedenne, Noibat, Noivern, Yveltal
+370	Zuffa	Machop, Machoke, Machamp, Scyther, Pinsir-0, Pinsir-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Meditite, Medicham-0, Medicham-1, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Buneary, Lopunny-0, Lopunny-1, Riolu, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Emboar-0, Emboar-1, Krookodile, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Chesnaught-0, Chesnaught-1, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Inkay, Malamar-0, Malamar-1, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Hawlucha-0, Hawlucha-1, Xerneas, Falinks-0, Falinks-1
+371	Rivincita	
+372	Garanzia	
+373	Divieto	
+374	Lancio	
+375	Psicotransfer	
+376	Asso	
+377	Anticura	Clefairy, Clefable-0, Clefable-1, Slowbro-0, Slowbro-1, Slowbro-2, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Espeon, Slowking-0, Slowking-1, Sableye-0, Sableye-1, Banette-0, Banette-1, Froslass-0, Froslass-1, Garbodor, Litwick, Lampent, Chandelure-0, Chandelure-1, Delphox-0, Delphox-1, Meowstic-0, Spritzee, Aromatisse, Malamar-0, Malamar-1, Klefki, Phantump, Trevenant, Yveltal, Hoopa-0, Hoopa-1
+378	Strizzata	
+379	Ingannoforza	
+380	Gastroacido	
+381	Fortuncanto	
+382	Precedenza	
+383	Copione	
+384	Barattoforza	
+385	Barattoscudo	
+386	Punizione	
+387	Ultimascelta	
+388	Affannoseme	
+389	Sbigoattacco	
+390	Fielepunte	Beedrill-0, Beedrill-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Slowbro-2, Haunter, Gengar-0, Gengar-1, Spinarak, Ariados, Slowking-1, Roselia, Roserade, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Trubbish, Garbodor, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Meowstic-0, Skrelp, Dragalge-0, Dragalge-1
+391	Cuorbaratto	
+392	Acquanello	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Vaporeon, Panpour, Simipour
+393	Magnetascesa	
+394	Fuococarica	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Flareon, Houndour, Houndoom-0, Houndoom-1, Numel, Camerupt-0, Camerupt-1, Tepig, Pignite, Emboar-0, Emboar-1, Pansear, Simisear, Chandelure-0, Chandelure-1, Fennekin, Braixen, Delphox-0, Delphox-1, Fletchling, Fletchinder, Talonflame, Litleo, Pyroar-0, Pyroar-1, Volcanion
+395	Palmoforza	
+396	Sferapulsar	Mewtwo-0, Mewtwo-1, Mewtwo-2, Lucario-0, Lucario-1, Clauncher, Clawitzer
+397	Lucidatura	
+398	Velenpuntura	Beedrill-0, Beedrill-1, Ekans, Arbok, Machop, Machoke, Machamp, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Spinarak, Ariados, Slowking-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Roselia, Sharpedo-0, Sharpedo-1, Roserade, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Pignite, Emboar-0, Emboar-1, Drilbur, Excadrill-0, Excadrill-1, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Scraggy, Scrafty-0, Scrafty-1, Trubbish, Garbodor, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Pangoro, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Hawlucha-0, Hawlucha-1, Phantump, Trevenant, Falinks-0, Falinks-1
+399	Neropulsar	Blastoise-0, Blastoise-1, Ekans, Arbok, Gastly, Haunter, Gengar-0, Gengar-1, Gyarados-0, Gyarados-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Umbreon, Steelix-0, Steelix-1, Skarmory-0, Skarmory-1, Houndour, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Carvanha, Sharpedo-0, Sharpedo-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Glalie-0, Glalie-1, Lucario-0, Lucario-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Trubbish, Garbodor, Litwick, Lampent, Chandelure-0, Chandelure-1, Frogadier, Greninja-0, Greninja-1, Greninja-3, Pyroar-0, Pyroar-1, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Inkay, Malamar-0, Malamar-1, Clauncher, Clawitzer, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Noibat, Noivern, Yveltal, Hoopa-0, Hoopa-1
+400	Nottesferza	Scyther, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Skarmory-0, Skarmory-1, Sableye-0, Sableye-1, Sharpedo-0, Sharpedo-1, Absol-0, Absol-1, Gallade-0, Gallade-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Xerneas
+401	Idrondata	
+402	Semebomba	
+403	Eterelama	Charizard-0, Charizard-1, Charizard-2, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Clefable-0, Clefable-1, Scyther, Dragonite-0, Dragonite-1, Scizor-0, Scizor-1, Delibird, Skarmory-0, Skarmory-1, Absol-0, Absol-1, Salamence-0, Salamence-1, Emolga, Fletchling, Fletchinder, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Hawlucha-0, Hawlucha-1, Noibat, Noivern, Yveltal
+404	Forbice X	Beedrill-0, Beedrill-1, Scyther, Pinsir-0, Pinsir-1, Spinarak, Ariados, Scizor-0, Scizor-1, Skarmory-0, Skarmory-1, Sableye-0, Sableye-1, Absol-0, Absol-1, Leafeon, Gallade-0, Gallade-1, Drilbur, Excadrill-0, Excadrill-1, Scolipede-0, Scolipede-1, Binacle, Barbaracle-0, Barbaracle-1, Hawlucha-0, Hawlucha-1, Trevenant
+405	Ronzio	Beedrill-0, Beedrill-1, Scyther, Spinarak, Ariados, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19
+406	Dragopulsar	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Onix, Gyarados-0, Gyarados-1, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Ampharos-0, Ampharos-1, Steelix-0, Steelix-1, Tyranitar-0, Tyranitar-1, Aggron-0, Aggron-1, Swablu, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Lucario-0, Lucario-1, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Heliolisk, Tyrunt, Tyrantrum, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Noibat, Noivern, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Drampa-0, Drampa-1
+407	Dragofuria	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Gyarados-0, Gyarados-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Swablu, Altaria-0, Altaria-1, Gible, Gabite, Garchomp-0, Garchomp-1, Yveltal, Drampa-0, Drampa-1
+408	Gemmoforza	Slowbro-0, Slowbro-1, Staryu, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Slowking-0, Slowking-1, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Carbink, Diancie-0, Diancie-1
+409	Assorbipugno	
+410	Vuotonda	
+411	Focalcolpo	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Clefable-0, Clefable-1, Alakazam-0, Alakazam-1, Machop, Machoke, Machamp, Slowbro-0, Slowbro-1, Slowbro-2, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Pinsir-0, Pinsir-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Ampharos-0, Ampharos-1, Slowking-0, Slowking-1, Heracross-0, Heracross-1, Gardevoir-0, Gardevoir-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Meditite, Medicham-0, Medicham-1, Lopunny-0, Lopunny-1, Riolu, Lucario-0, Lucario-1, Abomasnow-0, Abomasnow-1, Pignite, Emboar-0, Emboar-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Excadrill-0, Excadrill-1, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Garbodor, Delphox-0, Delphox-1, Pangoro, Barbaracle-0, Barbaracle-1, Dragalge-0, Dragalge-1, Clawitzer, Heliolisk, Hawlucha-0, Hawlucha-1, Goodra-0, Trevenant, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Hoopa-0, Hoopa-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+412	Energipalla	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Gastly, Haunter, Gengar-0, Gengar-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Roselia, Budew, Roserade, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Gallade-0, Gallade-1, Pansage, Simisage, Emolga, Litwick, Lampent, Chandelure-0, Chandelure-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Skiddo, Gogoat, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Swirlix, Slurpuff, Phantump, Trevenant, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Hoopa-0, Hoopa-1, Drampa-0, Drampa-1
+413	Baldeali	Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Skarmory-0, Skarmory-1, Swablu, Altaria-0, Altaria-1, Talonflame, Hawlucha-0, Hawlucha-1
+414	Geoforza	Venusaur-0, Venusaur-1, Aerodactyl-0, Aerodactyl-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Chikorita, Bayleef, Meganium-0, Meganium-1, Steelix-0, Steelix-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Aron, Lairon, Aggron-0, Aggron-1, Numel, Camerupt-0, Camerupt-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Abomasnow-0, Abomasnow-1, Excadrill-0, Excadrill-1, Sandile, Krokorok, Krookodile, Stunfisk-0, Stunfisk-1, Bunnelby, Diggersby, Litleo, Pyroar-0, Pyroar-1, Meowstic-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Carbink, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion, Drampa-0, Drampa-1
+415	Rapidscambio	
+416	Gigaimpatto	Venusaur-0, Venusaur-1, Charizard-0, Charizard-1, Charizard-2, Blastoise-0, Blastoise-1, Beedrill-0, Beedrill-1, Pidgeot-0, Pidgeot-1, Arbok, Raichu-0, Raichu-1, Clefable-0, Clefable-1, Machamp, Victreebel-0, Victreebel-1, Slowbro-0, Slowbro-1, Slowbro-2, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Starmie-0, Starmie-1, Scyther, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Vaporeon, Jolteon, Flareon, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Meganium-0, Meganium-1, Feraligatr-0, Feraligatr-1, Ariados, Ampharos-0, Ampharos-1, Espeon, Umbreon, Slowking-0, Slowking-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Delibird, Skarmory-0, Skarmory-1, Houndoom-0, Houndoom-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Aggron-0, Aggron-1, Medicham-0, Medicham-1, Manectric-0, Manectric-1, Sharpedo-0, Sharpedo-1, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Banette-0, Banette-1, Absol-0, Absol-1, Glalie-0, Glalie-1, Salamence-0, Salamence-1, Metagross-0, Metagross-1, Roserade, Lopunny-0, Lopunny-1, Garchomp-0, Garchomp-1, Lucario-0, Lucario-1, Hippowdon, Abomasnow-0, Abomasnow-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Emboar-0, Emboar-1, Watchog, Simisage, Simisear, Simipour, Excadrill-0, Excadrill-1, Audino-0, Audino-1, Scolipede-0, Scolipede-1, Krookodile, Scrafty-0, Scrafty-1, Garbodor, Vanilluxe, Eelektross-0, Eelektross-1, Chandelure-0, Chandelure-1, Chesnaught-0, Chesnaught-1, Greninja-0, Greninja-1, Greninja-3, Diggersby, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Pyroar-0, Pyroar-1, Gogoat, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Meowstic-0, Meowstic-1, Aegislash-0, Aegislash-1, Aromatisse, Slurpuff, Malamar-0, Malamar-1, Barbaracle-0, Barbaracle-1, Heliolisk, Tyrantrum, Aurorus, Sylveon, Hawlucha-0, Hawlucha-1, Dedenne, Carbink, Goodra-0, Goodra-1, Klefki, Trevenant, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Avalugg-0, Avalugg-1, Noivern, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1, Volcanion, Drampa-0, Drampa-1, Falinks-0, Falinks-1
+417	Congiura	Pikachu-0, Raichu-0, Raichu-1, Alakazam-0, Alakazam-1, Slowbro-0, Slowbro-1, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Slowking-0, Slowking-1, Houndour, Houndoom-0, Houndoom-1, Sableye-0, Sableye-1, Shuppet, Banette-0, Banette-1, Riolu, Lucario-0, Lucario-1, Froslass-0, Froslass-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Delphox-0, Delphox-1, Frogadier, Greninja-0, Greninja-1, Greninja-3, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Inkay, Malamar-0, Malamar-1, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Hoopa-0, Hoopa-1
+418	Pugnoscarica	Machop, Machoke, Machamp, Scizor-0, Scizor-1, Meditite, Medicham-0, Medicham-1, Metang, Metagross-0, Metagross-1, Riolu, Lucario-0, Lucario-1, Pangoro
+419	Slavina	
+420	Geloscheggia	Delibird, Snorunt, Glalie-0, Glalie-1, Snover, Abomasnow-0, Abomasnow-1, Glaceon, Froslass-0, Froslass-1
+421	Ombrartigli	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Haunter, Gengar-0, Gengar-1, Kangaskhan-0, Kangaskhan-1, Heracross-0, Heracross-1, Tyranitar-0, Tyranitar-1, Sableye-0, Sableye-1, Aron, Lairon, Aggron-0, Aggron-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Sandile, Krokorok, Krookodile, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Pancham, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Binacle, Barbaracle-0, Barbaracle-1, Phantump, Trevenant, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Noibat, Noivern, Yveltal, Drampa-0, Drampa-1
+422	Fulmindenti	Ekans, Arbok, Jolteon, Aerodactyl-0, Aerodactyl-1, Steelix-0, Steelix-1, Houndoom-0, Houndoom-1, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Electrike, Manectric-0, Manectric-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Sandile, Krokorok, Krookodile, Eelektrik, Eelektross-0, Eelektross-1, Litleo, Pyroar-0, Pyroar-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Tyrunt, Tyrantrum, Volcanion
+423	Gelodenti	Ekans, Arbok, Gyarados-0, Gyarados-1, Aerodactyl-0, Aerodactyl-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Steelix-0, Steelix-1, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Electrike, Manectric-0, Manectric-1, Carvanha, Sharpedo-0, Sharpedo-1, Snorunt, Glalie-0, Glalie-1, Hippopotas, Hippowdon, Glaceon, Froslass-0, Froslass-1, Stunfisk-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Tyrunt, Tyrantrum, Bergmite, Avalugg-0, Avalugg-1
+424	Rogodenti	Charmander, Charmeleon, Charizard-0, Charizard-1, Charizard-2, Ekans, Arbok, Flareon, Aerodactyl-0, Aerodactyl-1, Steelix-0, Steelix-1, Houndour, Houndoom-0, Houndoom-1, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Electrike, Manectric-0, Manectric-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Sandile, Krokorok, Krookodile, Litleo, Pyroar-0, Pyroar-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Tyrunt, Tyrantrum, Volcanion
+425	Furtivombra	Gastly, Haunter, Gengar-0, Gengar-1, Spinarak, Ariados, Sableye-0, Sableye-1, Shuppet, Banette-0, Banette-1, Frogadier, Greninja-0, Greninja-1, Greninja-3, Honedge, Doublade, Aegislash-0, Aegislash-1, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+426	Pantanobomba	
+427	Psicotaglio	Kadabra, Alakazam-0, Alakazam-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Metang, Metagross-0, Metagross-1, Gallade-0, Gallade-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Inkay, Malamar-0, Malamar-1
+428	Cozzata Zen	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Meditite, Medicham-0, Medicham-1, Carvanha, Sharpedo-0, Sharpedo-1, Numel, Camerupt-0, Camerupt-1, Shuppet, Banette-0, Banette-1, Absol-0, Absol-1, Bagon, Shelgon, Salamence-0, Salamence-1, Beldum, Metang, Metagross-0, Metagross-1, Riolu, Lucario-0, Lucario-1, Gallade-0, Gallade-1, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Audino-0, Audino-1, Scraggy, Scrafty-0, Scrafty-1, Eelektross-0, Eelektross-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Delphox-0, Delphox-1, Skiddo, Gogoat, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Doublade, Aegislash-0, Aegislash-1, Inkay, Malamar-0, Malamar-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Hawlucha-0, Hawlucha-1, Xerneas, Yveltal, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Hoopa-0, Hoopa-1, Falinks-0, Falinks-1
+429	Cristalcolpo	
+430	Cannonflash	Blastoise-0, Blastoise-1, Staryu, Starmie-0, Starmie-1, Ampharos-0, Ampharos-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Skarmory-0, Skarmory-1, Mawile-0, Mawile-1, Numel, Camerupt-0, Camerupt-1, Metang, Metagross-0, Metagross-1, Lucario-0, Lucario-1, Vanillite, Vanillish, Vanilluxe, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-1, Honedge, Doublade, Aegislash-0, Aegislash-1, Spritzee, Aromatisse, Clauncher, Clawitzer, Amaura, Aurorus, Carbink, Goodra-1, Klefki, Avalugg-0, Avalugg-1, Xerneas, Diancie-0, Diancie-1, Volcanion
+431	Scalaroccia	
+432	Scacciabruma	
+433	Distortozona	
+434	Dragobolide	Dratini, Dragonair, Dragonite-0, Dragonite-1, Altaria-0, Altaria-1, Bagon, Shelgon, Salamence-0, Salamence-1, Gible, Gabite, Garchomp-0, Garchomp-1, Dragalge-0, Dragalge-1, Tyrunt, Tyrantrum, Goomy, Sliggoo-0, Sliggoo-1, Goodra-0, Goodra-1, Noibat, Noivern, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Drampa-0, Drampa-1
+435	Scarica	Pikachu-0, Raichu-0, Raichu-1, Jolteon, Mewtwo-0, Mewtwo-1, Mewtwo-2, Pichu, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Electrike, Manectric-0, Manectric-1, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0, Helioptile, Heliolisk, Dedenne
+436	Lavasbuffo	Flareon, Numel, Camerupt-0, Camerupt-1
+437	Verdebufera	Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Roselia, Roserade, Snover, Abomasnow-0, Abomasnow-1, Leafeon, Pansage, Simisage
+438	Vigorcolpo	Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Goodra-0, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+439	Devastomasso	
+440	Velenocroce	
+441	Sporcolancio	Ekans, Arbok, Slowbro-2, Gastly, Haunter, Gengar-0, Gengar-1, Slowking-1, Delibird, Shuppet, Banette-0, Banette-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Scolipede-0, Scolipede-1, Krookodile, Trubbish, Garbodor, Frogadier, Greninja-0, Greninja-1, Greninja-3, Diggersby, Pangoro, Skrelp, Dragalge-0, Dragalge-1, Hoopa-0, Hoopa-1
+442	Metaltestata	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Onix, Gyarados-0, Gyarados-1, Aerodactyl-0, Aerodactyl-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Steelix-0, Steelix-1, Scizor-0, Scizor-1, Skarmory-0, Skarmory-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Numel, Camerupt-0, Camerupt-1, Glalie-0, Glalie-1, Bagon, Shelgon, Salamence-0, Salamence-1, Beldum, Metang, Metagross-0, Metagross-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippowdon, Emboar-0, Emboar-1, Excadrill-0, Excadrill-1, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Pangoro, Honedge, Doublade, Aegislash-0, Aegislash-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Hawlucha-0, Hawlucha-1, Carbink, Sliggoo-1, Goodra-1, Avalugg-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Falinks-0, Falinks-1
+443	Bombagnete	
+444	Pietrataglio	Machamp, Onix, Pinsir-0, Pinsir-1, Gyarados-0, Gyarados-1, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Steelix-0, Steelix-1, Heracross-0, Heracross-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Lairon, Aggron-0, Aggron-1, Numel, Camerupt-0, Camerupt-1, Absol-0, Absol-1, Salamence-0, Salamence-1, Metagross-0, Metagross-1, Gible, Gabite, Garchomp-0, Garchomp-1, Lucario-0, Lucario-1, Hippopotas, Hippowdon, Gallade-0, Gallade-1, Pignite, Emboar-0, Emboar-1, Sandile, Krokorok, Krookodile, Scraggy, Scrafty-0, Scrafty-1, Stunfisk-0, Stunfisk-1, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Pancham, Pangoro, Binacle, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Hawlucha-0, Hawlucha-1, Carbink, Bergmite, Avalugg-0, Avalugg-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5, Diancie-0, Diancie-1, Volcanion
+445	Incanto	
+446	Levitoroccia	Clefairy, Clefable-0, Clefable-1, Onix, Pinsir-0, Pinsir-1, Aerodactyl-0, Aerodactyl-1, Cleffa, Steelix-0, Steelix-1, Skarmory-0, Skarmory-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Mawile-0, Mawile-1, Aron, Lairon, Aggron-0, Aggron-1, Numel, Camerupt-0, Camerupt-1, Metang, Metagross-0, Metagross-1, Gible, Gabite, Garchomp-0, Garchomp-1, Hippopotas, Hippowdon, Excadrill-0, Excadrill-1, Sandile, Krokorok, Krookodile, Stunfisk-0, Stunfisk-1, Meowstic-0, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Tyrunt, Tyrantrum, Amaura, Aurorus, Carbink, Avalugg-1, Diancie-0, Diancie-1
+447	Laccioerboso	
+448	Schiamazzo	
+449	Giudizio	
+450	Coleomorso	
+451	Raggioscossa	
+452	Mazzuolegno	Snover, Abomasnow-0, Abomasnow-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Phantump, Trevenant
+453	Acquagetto	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Staryu, Starmie-0, Starmie-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Carvanha, Sharpedo-0, Sharpedo-1, Clauncher, Clawitzer
+454	Comandourto	
+455	Comandoscudo	
+456	Comandocura	
+457	Zuccata	Onix, Steelix-0, Steelix-1, Aron, Lairon, Aggron-0, Aggron-1, Tepig, Pignite, Emboar-0, Emboar-1, Scraggy, Scrafty-0, Scrafty-1, Aegislash-0, Aegislash-1, Tyrantrum
+458	Doppiosmash	
+459	Fragortempo	
+460	Fendispazio	
+461	Lunardanza	
+462	Sbriciolmano	
+463	Magmaclisma	
+464	Vuototetro	
+465	Infuriaseme	
+466	Funestovento	
+467	Oscurotuffo	
+468	Unghiaguzze	
+469	Bodyguard	
+470	Paridifesa	
+471	Pariattacco	
+472	Mirabilzona	
+473	Psicoshock	Raichu-1, Clefairy, Clefable-0, Clefable-1, Kadabra, Alakazam-0, Alakazam-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Starmie-0, Starmie-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Cleffa, Espeon, Slowking-0, Slowking-1, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Meditite, Medicham-0, Medicham-1, Metang, Metagross-0, Metagross-1, Gallade-0, Gallade-1, Audino-0, Audino-1, Fennekin, Braixen, Delphox-0, Delphox-1, Greninja-0, Greninja-1, Greninja-3, Espurr, Meowstic-0, Meowstic-1, Aromatisse, Inkay, Malamar-0, Malamar-1, Sylveon, Klefki, Xerneas, Diancie-0, Diancie-1, Hoopa-0, Hoopa-1
+474	Velenoshock	
+475	Sganciapesi	
+476	Polverabbia	
+477	Telecinesi	
+478	Magicozona	
+479	Abbattimento	
+480	Tempestretta	
+481	Pirolancio	
+482	Fangonda	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Haunter, Gengar-0, Gengar-1, Slowking-1, Trubbish, Garbodor, Stunfisk-0, Stunfisk-1, Skrelp, Dragalge-0, Dragalge-1, Goodra-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+483	Eledanza	
+484	Pesobomba	Machamp, Steelix-0, Steelix-1, Tyranitar-0, Tyranitar-1, Aron, Lairon, Aggron-0, Aggron-1, Metagross-0, Metagross-1, Hippowdon, Goodra-1, Avalugg-0, Avalugg-1, Volcanion
+485	Sincrumore	
+486	Energisfera	
+487	Inondazione	
+488	Nitrocarica	
+489	Arrotola	
+490	Calciobasso	
+491	Acidobomba	
+492	Ripicca	
+493	Ondisinvolta	
+494	Saltamicizia	
+495	Cortesia	
+496	Coro	
+497	Echeggiavoce	
+498	Insidia	
+499	Pulifumo	
+500	Veicolaforza	
+501	Anticipo	
+502	Cambiaposto	
+503	Idrovampata	
+504	Gettaguscio	
+505	Curapulsar	
+506	Sciagura	
+507	Cadutalibera	
+508	Cambiomarcia	
+509	Ribaltiro	
+510	Bruciatutto	
+511	Spintone	
+512	Acrobazia	
+513	Riflettipo	
+514	Nemesi	
+515	Azzardo	
+516	Cediregalo	
+517	Marchiatura	
+518	Acquapatto	
+519	Fiammapatto	
+520	Erbapatto	
+521	Invertivolt	Pikachu-0, Raichu-0, Raichu-1, Jolteon, Pichu, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Electrike, Manectric-0, Manectric-1, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Helioptile, Heliolisk, Dedenne
+522	Entomoblocco	
+523	Battiterra	Ekans, Arbok, Machop, Machoke, Machamp, Kangaskhan-0, Kangaskhan-1, Gyarados-0, Gyarados-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Heracross-0, Heracross-1, Larvitar, Pupitar, Tyranitar-0, Tyranitar-1, Aron, Lairon, Aggron-0, Aggron-1, Numel, Camerupt-0, Camerupt-1, Altaria-0, Altaria-1, Gible, Gabite, Garchomp-0, Garchomp-1, Riolu, Lucario-0, Lucario-1, Drilbur, Excadrill-0, Excadrill-1, Sandile, Krokorok, Krookodile, Eelektross-0, Eelektross-1, Stunfisk-0, Stunfisk-1, Chespin, Quilladin, Chesnaught-0, Chesnaught-1, Bunnelby, Diggersby, Skiddo, Gogoat, Pancham, Pangoro, Binacle, Barbaracle-0, Barbaracle-1, Helioptile, Heliolisk, Tyrunt, Tyrantrum, Amaura, Aurorus, Goodra-0, Goodra-1, Bergmite, Avalugg-0, Avalugg-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+524	Alitogelido	
+525	Codadrago	
+526	Cuordileone	Bulbasaur, Ivysaur, Venusaur-0, Venusaur-1, Squirtle, Wartortle, Blastoise-0, Blastoise-1, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Clefairy, Clefable-0, Clefable-1, Machop, Machoke, Machamp, Kangaskhan-0, Kangaskhan-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Cleffa, Heracross-0, Heracross-1, Meditite, Medicham-0, Medicham-1, Buneary, Lopunny-0, Lopunny-1, Riolu, Lucario-0, Lucario-1, Tepig, Pignite, Emboar-0, Emboar-1, Patrat, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Audino-0, Audino-1, Scraggy, Scrafty-0, Scrafty-1, Litleo, Pyroar-0, Pyroar-1, Pancham, Pangoro, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Espurr, Meowstic-0, Meowstic-1, Drampa-0, Drampa-1
+527	Elettrotela	Weedle, Kakuna, Beedrill-0, Beedrill-1, Pikachu-0, Raichu-0, Raichu-1, Jolteon, Spinarak, Ariados, Pichu, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Emolga, Eelektross-0, Eelektross-1, Stunfisk-0, Helioptile, Heliolisk
+528	Sprizzalampo	Pikachu-0, Raichu-0, Raichu-1, Jolteon, Pichu, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Electrike, Manectric-0, Manectric-1, Tepig, Pignite, Emboar-0, Emboar-1, Audino-0, Audino-1, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Bunnelby, Diggersby, Litleo, Pyroar-0, Pyroar-1, Skiddo, Gogoat, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Helioptile, Heliolisk, Dedenne, Noibat, Noivern, Volcanion
+529	Giravvita	Beedrill-0, Beedrill-1, Skarmory-0, Skarmory-1, Drilbur, Excadrill-0, Excadrill-1
+530	Doppiocolpo	
+531	Cuorestampo	
+532	Legnicorno	Skiddo, Gogoat, Phantump, Trevenant, Xerneas
+533	Spadasolenne	
+534	Conchilama	
+535	Marchiafuoco	Numel, Camerupt-0, Camerupt-1, Emboar-0, Emboar-1, Volcanion
+536	Vorticerba	
+537	Rulloduro	
+538	Cotonscudo	Mareep, Flaaffy, Ampharos-0, Ampharos-1, Swablu, Altaria-0, Altaria-1, Buneary, Lopunny-0, Lopunny-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Swirlix, Slurpuff
+539	Urtoscuro	
+540	Psicobotta	Mewtwo-0, Mewtwo-1, Mewtwo-2
+541	Spazzasberla	
+542	Tifone	Charizard-0, Charizard-1, Charizard-2, Pidgey, Pidgeotto, Pidgeot-0, Pidgeot-1, Gyarados-0, Gyarados-1, Aerodactyl-0, Aerodactyl-1, Dragonite-0, Dragonite-1, Mewtwo-0, Mewtwo-1, Mewtwo-2, Skarmory-0, Skarmory-1, Swablu, Altaria-0, Altaria-1, Salamence-0, Salamence-1, Fletchling, Fletchinder, Talonflame, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Noibat, Noivern, Yveltal, Drampa-0, Drampa-1
+543	Ricciolata	
+544	Ingracolpo	
+545	Sparafuoco	
+546	Tecnobotto	
+547	Cantoantico	
+548	Spadamistica	
+549	Gelamondo	
+550	Lucesiluro	
+551	Fuocoblu	
+552	Voldifuoco	
+553	Elettrogelo	
+554	Vampagelida	
+555	Urlorabbia	Umbreon, Houndoom-0, Houndoom-1, Electrike, Manectric-0, Manectric-1, Litleo, Pyroar-0, Pyroar-1, Furfrou-0, Furfrou-1, Furfrou-2, Furfrou-3, Furfrou-4, Furfrou-5, Furfrou-6, Furfrou-7, Furfrou-8, Furfrou-9, Yveltal
+556	Scagliagelo	Snorunt, Glalie-0, Glalie-1, Froslass-0, Froslass-1, Vanillite, Vanillish, Vanilluxe, Avalugg-0
+557	Generatore V	
+558	Incrofiamma	
+559	Incrotuono	
+560	Schiacciatuffo	Hawlucha-0, Hawlucha-1
+561	Ribaltappeto	
+562	Rutto	
+563	Aracampo	
+564	Rete Vischiosa	Spinarak, Ariados, Swirlix, Slurpuff
+565	Pungiglione	
+566	Spettrotuffo	Haunter, Gengar-0, Gengar-1, Sableye-0, Sableye-1, Shuppet, Banette-0, Banette-1, Froslass-0, Froslass-1, Phantump, Trevenant, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Yveltal, Hoopa-0, Hoopa-1
+567	Halloween	Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+568	Urlo	
+569	Pioggiaplasma	
+570	Caricaparabola	Helioptile, Heliolisk, Dedenne
+571	Boscomalocchio	Phantump, Trevenant
+572	Fiortempesta	
+573	Liofilizzazione	Delibird, Glalie-0, Glalie-1, Glaceon, Vanilluxe, Amaura, Aurorus
+574	Incantavoce	Clefairy, Clefable-0, Clefable-1, Eevee-0, Vaporeon, Jolteon, Flareon, Chikorita, Bayleef, Meganium-0, Meganium-1, Cleffa, Espeon, Umbreon, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Swablu, Altaria-0, Altaria-1, Leafeon, Glaceon, Gallade-0, Gallade-1, Audino-0, Audino-1, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Espurr, Meowstic-0, Meowstic-1, Spritzee, Aromatisse, Sylveon
+575	Monito	Sableye-0, Sableye-1, Scraggy, Scrafty-0, Scrafty-1, Pancham, Pangoro
+576	Sottosopra	Inkay, Malamar-0, Malamar-1
+577	Assorbibacio	Clefairy, Clefable-0, Clefable-1, Cleffa, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Mawile-0, Mawile-1, Buneary, Lopunny-0, Lopunny-1, Gallade-0, Gallade-1, Froslass-0, Froslass-1, Audino-0, Audino-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Spritzee, Aromatisse, Swirlix, Slurpuff, Sylveon, Klefki, Diancie-0, Diancie-1
+578	Truccodifesa	
+579	Fiordifesa	
+580	Campo Erboso	
+581	Campo Nebbioso	
+582	Elettrocontagio	
+583	Carineria	Pikachu-0, Raichu-0, Raichu-1, Clefairy, Clefable-0, Clefable-1, Pichu, Cleffa, Mawile-0, Mawile-1, Swablu, Altaria-0, Altaria-1, Absol-0, Absol-1, Buneary, Lopunny-0, Lopunny-1, Skiddo, Gogoat, Espurr, Meowstic-0, Meowstic-1, Swirlix, Slurpuff, Skrelp, Dragalge-0, Dragalge-1, Tyrunt, Tyrantrum, Dedenne, Klefki, Xerneas, Diancie-0, Diancie-1, Drampa-0, Drampa-1
+584	Vento di Fata	Clefairy, Clefable-0, Clefable-1, Cleffa, Mawile-0, Mawile-1, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Spritzee, Aromatisse, Swirlix, Slurpuff, Klefki
+585	Forza Lunare	Clefairy, Clefable-0, Clefable-1, Cleffa, Gardevoir-0, Gardevoir-1, Swablu, Altaria-0, Altaria-1, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Spritzee, Aromatisse, Sylveon, Carbink, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3, Xerneas, Diancie-0, Diancie-1
+586	Ondaboato	Noivern
+587	Blocco Fatato	
+588	Scudo Reale	Aegislash-0, Aegislash-1
+589	Simpatia	
+590	Confidenza	
+591	Diamantempesta	Diancie-0, Diancie-1
+592	Vaporscoppio	Volcanion
+593	Forodimensionale	Hoopa-0
+594	Acqualame	Greninja-0, Greninja-1, Greninja-3
+595	Magifiamma	Clefairy, Clefable-0, Clefable-1, Cleffa, Ralts, Kirlia, Gardevoir-0, Gardevoir-1, Gallade-0, Gallade-1, Delphox-0, Delphox-1, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+596	Agodifesa	Chesnaught-0, Chesnaught-1
+597	Nebularoma	
+598	Elettromistero	Raichu-0, Raichu-1, Jolteon, Ampharos-0, Ampharos-1, Electrike, Manectric-0, Manectric-1, Emolga, Eelektrik, Eelektross-0, Eelektross-1, Stunfisk-0, Dedenne
+599	Velenotrappola	
+600	Pulviscoppio	
+601	Geocontrollo	Xerneas
+602	Controllo Polare	
+603	Cuccagna	
+604	Campo Elettrico	
+605	Magibrillio	Clefairy, Clefable-0, Clefable-1, Abra, Kadabra, Alakazam-0, Alakazam-1, Gastly, Haunter, Gengar-0, Gengar-1, Staryu, Starmie-0, Starmie-1, Chikorita, Bayleef, Meganium-0, Meganium-1, Cleffa, Mareep, Flaaffy, Ampharos-0, Ampharos-1, Espeon, Gardevoir-0, Gardevoir-1, Sableye-0, Sableye-1, Mawile-0, Mawile-1, Roselia, Swablu, Altaria-0, Altaria-1, Shuppet, Banette-0, Banette-1, Budew, Roserade, Gallade-0, Gallade-1, Audino-0, Audino-1, Delphox-0, Delphox-1, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Flabébé-0, Flabébé-1, Flabébé-2, Flabébé-3, Flabébé-4, Floette-0, Floette-1, Floette-2, Floette-3, Floette-4, Floette-5, Floette-6, Florges-0, Florges-1, Florges-2, Florges-3, Florges-4, Spritzee, Aromatisse, Swirlix, Slurpuff, Sylveon, Dedenne, Carbink, Klefki, Xerneas, Diancie-0, Diancie-1
+606	Auguri	
+607	Mano nella Mano	
+608	Occhioni Teneri	
+609	Elettrococcola	Pikachu-0, Raichu-0, Raichu-1, Pichu, Emolga, Dedenne
+610	Riguardo	
+611	Assillo	Bellsprout, Weepinbell, Victreebel-0, Victreebel-1, Spinarak, Ariados, Venipede, Whirlipede, Scolipede-0, Scolipede-1, Spewpa-0, Spewpa-1, Spewpa-2, Spewpa-3, Spewpa-4, Spewpa-5, Spewpa-6, Spewpa-7, Spewpa-8, Spewpa-9, Spewpa-10, Spewpa-11, Spewpa-12, Spewpa-13, Spewpa-14, Spewpa-15, Spewpa-16, Spewpa-17, Spewpa-18, Spewpa-19, Vivillon-0, Vivillon-1, Vivillon-2, Vivillon-3, Vivillon-4, Vivillon-5, Vivillon-6, Vivillon-7, Vivillon-8, Vivillon-9, Vivillon-10, Vivillon-11, Vivillon-12, Vivillon-13, Vivillon-14, Vivillon-15, Vivillon-16, Vivillon-17, Vivillon-18, Vivillon-19, Binacle, Barbaracle-0, Barbaracle-1
+612	Crescipugno	Machop, Machoke, Machamp, Kangaskhan-0, Kangaskhan-1, Mawile-0, Mawile-1, Meditite, Medicham-0, Medicham-1, Metang, Metagross-0, Metagross-1, Buneary, Lopunny-0, Lopunny-1, Lucario-0, Lucario-1, Pignite, Emboar-0, Emboar-1, Watchog, Pansage, Simisage, Pansear, Simisear, Panpour, Simipour, Audino-0, Audino-1, Scraggy, Scrafty-0, Scrafty-1, Pangoro, Binacle, Barbaracle-0, Barbaracle-1
+613	Ali del Fato	Yveltal
+614	Mille Frecce	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+615	Mille Onde	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+616	Forza Tellurica	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+617	Luce Nefasta	Floette-5, Floette-6
+618	Primopulsar	
+619	Spade Telluriche	
+620	Ascesa del Drago	
+621	Urtodimensionale	Hoopa-1
+622		
+623		
+624		
+625		
+626		
+627		
+628		
+629		
+630		
+631		
+632		
+633		
+634		
+635		
+636		
+637		
+638		
+639		
+640		
+641		
+642		
+643		
+644		
+645		
+646		
+647		
+648		
+649		
+650		
+651		
+652		
+653		
+654		
+655		
+656		
+657		
+658		
+659	Sabbiaccumulo	
+660	Schermaglia	
+661	Fortino	
+662	Cucitura d’Ombra	
+663	Braccioteso	
+664	Canto Effimero	
+665	Martelgelo	
+666	Cura Floreale	
+667	Forza Equina	
+668	Assorbiforza	
+669	Lama Solare	
+670	Fogliame	Chikorita, Bayleef, Meganium-0, Meganium-1, Snover, Abomasnow-0, Abomasnow-1
+671	Riflettore	
+672	Velenotela	
+673	Concentrazione	
+674	Marciainpiù	
+675	Colpo Infernale	
+676	Sferapolline	
+677	Colpo d’Ancora	
+678	Campo Psichico	
+679	Assalto	Beedrill-0, Beedrill-1, Weepinbell, Victreebel-0, Victreebel-1, Scyther, Pinsir-0, Pinsir-1, Spinarak, Ariados, Scizor-0, Scizor-1, Heracross-0, Heracross-1, Hawlucha-0, Hawlucha-1
+680	Frusta di Fuoco	
+681	Tracotanza	
+682	Ultima Fiamma	
+683	Velociscambio	
+684	Sottilcorno	
+685	Purificazione	
+686	Mutadanza	
+687	Nucleocastigo	Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+688	Tropicalcio	
+689	Imposizione	
+690	Cannonbecco	
+691	Clamorsquame	
+692	Marteldrago	
+693	Vorticolpo	Beedrill-0, Beedrill-1, Ekans, Arbok, Machop, Machoke, Machamp, Scyther, Pinsir-0, Pinsir-1, Dratini, Dragonair, Dragonite-0, Dragonite-1, Scizor-0, Scizor-1, Metagross-0, Metagross-1, Buneary, Lopunny-0, Lopunny-1, Trubbish, Garbodor, Bunnelby, Diggersby, Pangoro, Pumpkaboo-0, Pumpkaboo-1, Pumpkaboo-2, Pumpkaboo-3, Gourgeist-0, Gourgeist-1, Gourgeist-2, Gourgeist-3
+694	Velaurora	
+695		
+696		
+697		
+698		
+699		
+700		
+701		
+702		
+703		
+704	Gusciotrappola	
+705	Cannonfiore	
+706	Psicozanna	
+707	Battipiedi	
+708	Ossotetro	
+709	Rocciarapida	
+710	Idrobreccia	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Slowpoke-0, Slowpoke-1, Slowbro-0, Slowbro-1, Slowbro-2, Starmie-0, Starmie-1, Vaporeon, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Slowking-0, Slowking-1, Carvanha, Sharpedo-0, Sharpedo-1, Garchomp-0, Garchomp-1, Simipour, Eelektross-0, Eelektross-1, Froakie, Frogadier, Greninja-0, Greninja-1, Greninja-3, Inkay, Malamar-0, Malamar-1, Binacle, Barbaracle-0, Barbaracle-1, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer, Volcanion
+711	Prismalaser	
+712	Ombrafurto	
+713	Astrocarica	
+714	Raggio d’Ombra	
+715	Occhionilucidi	
+716	Elettropizzico	
+717	Ira della Natura	
+718	Multiattacco	
+719		
+720	Sbalorditesta	
+721	Pugni Plasma	
+722	Geyser Fotonico	
+723		
+724		
+725		
+726		
+727		
+728		
+729	Sprintaboom	
+730	Surfasplash	
+731	Piombaflap	
+732	Pikasaetta	
+733	Bollaslurp	
+734	Elettrozap	
+735	Fiammabam	
+736	Auraswoosh	
+737	Zona Buiabuia	
+738	Bombafrush	
+739	Scricchiagelo	
+740	Sbrilluccibufera	
+741	Eeveempatto	
+742	Pugni Corazzati	
+743	Dynabarriera	
+744	Cannone Dynamax	
+745	Tiromirato	
+746	Morsostretto	
+747	Riempiguance	
+748	Spalle al Muro	Falinks-0, Falinks-1
+749	Colpocatrame	
+750	Magipolvere	
+751	Dragofrecce	
+752	Ora del Tè	
+753	Tentacolock	
+754	Beccoshock	
+755	Branchiomorso	
+756	Cambiocampo	
+757	Dynafiammata	
+758	Dynainsetto	
+759	Dynasaetta	
+760	Dynattacco	
+761	Dynapugno	
+762	Dynavuoto	
+763	Dynagelo	
+764	Dynacorrosione	
+765	Dynaflusso	
+766	Dynajet	
+767	Dynafata	
+768	Dynadragone	
+769	Dynapsiche	
+770	Dynamacigno	
+771	Dynasisma	
+772	Dynatenebre	
+773	Dynaflora	
+774	Dynametallo	
+775	Dracofonia	
+776	Schiacciacorpo	
+777	Decorazione	
+778	Tamburattacco	
+779	Tagliola	
+780	Palla Infuocata	
+781	Taglio Maestoso	
+782	Colpo Maestoso	
+783	Ruota d’Aura	
+784	Vastoimpatto	Onix, Dratini, Dragonair, Dragonite-0, Dragonite-1, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Ampharos-0, Ampharos-1, Steelix-0, Steelix-1, Krookodile, Helioptile, Heliolisk, Tyrantrum, Goodra-0, Goodra-1, Zygarde-0, Zygarde-1, Zygarde-2, Zygarde-3, Zygarde-4, Zygarde-5
+785	Ramostoccata	
+786	Overdrive	
+787	Acido Malico	
+788	Forza G	
+789	Frantumanima	
+790	Vapore Incantato	
+791	Goccia Vitale	
+792	Sbarramento	
+793	Supplicolpo	
+794	Sfolgorassalto	
+795	Raggio Infinito	
+796	Raggio d’Acciaio	
+797	Vastenergia	
+798	Ferrorullo	
+799	Squamacolpo	
+800	Raggiometeora	
+801	Armaguscio	
+802	Nebbioscoppio	
+803	Erboscivolata	
+804	Elettroimpennata	
+805	Campopulsar	
+806	Strisciacolpo	
+807	Fiamminvidia	
+808	Sfogarabbia	
+809	Poltergeist	
+810	Gas Corrosivo	
+811	Coaching	
+812	Virata	Squirtle, Wartortle, Blastoise-0, Blastoise-1, Staryu, Starmie-0, Starmie-1, Vaporeon, Totodile, Croconaw, Feraligatr-0, Feraligatr-1, Carvanha, Sharpedo-0, Sharpedo-1, Panpour, Simipour, Frogadier, Greninja-0, Greninja-1, Greninja-3, Skrelp, Dragalge-0, Dragalge-1, Clauncher, Clawitzer
+813	Triplo Axel	
+814	Doppia Ala	
+815	Sabbiardente	
+816	Giunglacura	
+817	Pugnotenebra	
+818	Idroraffica	
+819	Elettrogabbia	
+820	Dragoenergia	
+821	Sguardo Gelido	
+822	Furia Ardente	
+823	Calcio Tonante	
+824	Lancia Glaciale	
+825	Schegge Astrali	
+826	Inquietantesimo	
+827	Artigli Fatali	
+828	Barrierassalto	
+829	Scambioforza	
+830	Rocciascure	
+831	Tempesta Zefirea	
+832	Forza Mistica	
+833	Ira Furente	
+834	Ondaschianto	
+835	Clorofillaser	
+836	Soffio d’Iceberg	
+837	Danzavittoria	
+838	Scontro Frontale	
+839	Mille Fielespine	
+840	Ali d’Aura	
+841	Livore	
+842	Barricata	
+843	Triplodardo	
+844	Corteo Spettrale	
+845	Lama Milleflutti	
+846	Tempesta Boreale	
+847	Tempesta Tonante	
+848	Tempesta Ardente	
+849	Invocaluna	
+850	Baldimpulso	
+851	Terascoppio	
+852	Telatrappola	
+853	Calcio ad Ascia	
+854	Omaggio ai KO	
+855	Fotocollisione	
+856	Alta Cucina	
+857	Pugnojet	
+858	Essenza Piccante	
+859	Slittaruote	
+860	Infestazione	
+861	Vortighiaccio	
+862	Spadoncarica	
+863	Preghiera Vitale	
+864	Sotto Sale	
+865	Triplo Tuffo	
+866	Glitturbine	
+867	Ricalco	
+868	Alleggerimento	
+869	Genufendente	
+870	Prestigiafiore	
+871	Canzone Ardente	
+872	Idroballetto	
+873	Scatenatoro	
+874	Corsa all’Oro	
+875	Psicolama	
+876	Idrovapore	
+877	Catastrofe	
+878	Turboschianto	
+879	Fulmiscatto	
+880	Tagliacoda	
+881	Freddura	
+882	Pulizie	
+883	Vista Innevata	
+884	Balzo	
+885	Apripista	
+886	Doccia Fredda	
+887	Ipertrapano	
+888	Doppioraggio	
+889	Pugno Furibondo	
+890	Corazza Cannone	
+891	Lama del Rimorso	
+892	Doppiolampo	
+893	Granmartello	
+894	Ritorsione	
+895	Idrotaglio	
+896	Turboustione	
+897	Turbotenebra	
+898	Turbotossina	
+899	Turborissa	
+900	Turboincanto	
+901	Luna Rossa	
+902	Spruzzatè	
+903	Bomba Sciroppata	
+904	Clava di Liane	
+905	Elettroraggio	
+906	Teracluster	
+907	Irregolaser	
+908	Egida Ignea	
+909	Saetta	
+910	Taglio Poderoso	
+911	Tachiontaglio	
+912	Pressa d’Acciaio	
+913	Grido del Drago	
+914	Ammaliavoce	
+915	Rabbia Bruciante	
+916	Elettrotuffo	
+917	Psicorumore	
+918	Colpo di Mano	
+919	Intossicatena	
+920	Tabula Laser	
