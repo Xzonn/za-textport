@@ -1193,7 +1193,7 @@ Prize Money: $2,496
 - Abomasnow (Lv. 52) (Nature: Hardy) (Ball: Poke) (Moves: Ice Punch / Razor Leaf / Ice Shard / Leafage) (IVs: 0/0/0/0/0/0)
 
 ===
-Doléan the Backpacker (Ev_sub_103_multi)
+Andi the Backpacker (Ev_sub_103_multi)
 Prize Money: $2,400
 ===
 - Pancham (Lv. 50) (Nature: Mild) (Ball: Poke) (Moves: Brick Break / Crunch / Body Slam / Work Up) (IVs: 0/0/0/0/0/0)
